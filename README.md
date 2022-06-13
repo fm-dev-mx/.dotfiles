@@ -1,2 +1,2 @@
 # i3-dot-files
-Dot files for i3wm
+Dot files for awesome in Fedora 36
