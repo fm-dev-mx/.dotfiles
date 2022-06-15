@@ -22,9 +22,10 @@
 #  ln -s $HOME/.dotfiles/config/.zsh_history $HOME/
 #
 #
-#  Brosers
-   ln -s $HOME/.dotfiles/config/browsers/BraveSoftware $HOME/.config/
-   ln -s $HOME/.dotfiles/config/browsers/google-chrome $HOME/.config/  
-   ln -s $HOME/.dotfiles/config/browsers/google-chrome-beta $HOME/.config/
+#  Browsers
+#   ln -s $HOME/.dotfiles/config/browsers/BraveSoftware $HOME/.config/
+#   ln -s $HOME/.dotfiles/config/browsers/google-chrome $HOME/.config/  
+#   ln -s $HOME/.dotfiles/config/browsers/google-chrome-beta $HOME/.config/
 #
-#
+#  Awesome
+    ln -s $HOME/.dotfiles/config/awesome $HOME/.config/  

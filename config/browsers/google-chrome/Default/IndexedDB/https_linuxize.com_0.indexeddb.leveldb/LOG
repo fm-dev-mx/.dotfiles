@@ -1,0 +1,6 @@
+2022/06/12-11:05:26.250 7927 Creating DB /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2022/06/12-11:05:26.262 7927 Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-11:07:07.949 8582 Level-0 table #5: started
+2022/06/12-11:07:07.953 8582 Level-0 table #5: 4360 bytes OK
+2022/06/12-11:07:07.956 8582 Delete type=0 #3
+2022/06/12-11:07:07.956 8582 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

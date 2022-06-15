@@ -1,0 +1,14 @@
+{
+   "appDescription": {
+      "comment": "Max 132 characters. Shown in Chrome Web Store and extensions UI. 'Detailed description' is available within the Chrome Web Store dashboard.",
+      "message": "Test SEO/speed/security of 100s of pages in a click! Check broken links, HTML/JavaScript/CSS, URL redirects, duplicate titles..."
+   },
+   "appName": {
+      "comment": "Max 45 characters. Shown in install dialog and Chrome web store",
+      "message": "Checkbot: SEO, Web Speed & Security Tester 🚀"
+   },
+   "appShortName": {
+      "comment": "Max 12 characters. Used where there is insufficient space to display the full name such as in app launcher and new tab page",
+      "message": "Checkbot"
+   }
+}

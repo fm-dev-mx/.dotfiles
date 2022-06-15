@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "タブの追加"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Node.jsのデバッグのため、 V8 Inspectorを自動で起動する拡張機能です。"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Node Inspector Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "自動で閉じる"
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "オート値がホスト名/ポートします。"
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "デバッグ冗長性。"
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Debugging"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "代替DevToolsを使用します。"
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Node Inspector Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - インスペクタマネージャ（NiM） - DevToolsパネル"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "寄付"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "寄付の評価"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Enabled"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Error setting uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Closed tab for DevTools session: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Error while trying to auto close "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "デベロッパーツールへの接続が中断されました。ホストとポートを確認してください。"
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "デベロッパーツールはすでに開いています。"
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Closed window for DevTools session: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "デベロッパーツールはすでに開いています。"
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "デベロッパーツールはすでに開いています。",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "General"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "ホスト"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "パネルのスタイルウインドウです。"
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "DevToolsウィンドウを開きます。"
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "タブをアクティブにする"
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "ウィンドウにフォーカスを移動する"
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manual"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "通知がない。"
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Off"
+   },
+   "on": {
+      "description": "On.",
+      "message": "On"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Open DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "新しいウィンドウで開く"
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "開Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Options"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "カスタムDevTools。"
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode統合しました。"
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "リアルタイムコラボレーション。"
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "を適切に公開を最大化ウインドウです。"
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Node Inspector Manager) - Options Page"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "ポート"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiMのリアルタイムコラボレーション"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Save"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "秒"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "チェック間隔"
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "DevToolsのバージョンを選択します。"
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

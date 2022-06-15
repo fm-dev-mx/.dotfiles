@@ -1,0 +1,6 @@
+2022/06/13-09:13:28.783 3fdf Creating DB /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.genbeta.com_0.indexeddb.leveldb since it was missing.
+2022/06/13-09:13:28.789 3fdf Reusing MANIFEST /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.genbeta.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-09:19:07.275 41af Level-0 table #5: started
+2022/06/13-09:19:07.277 41af Level-0 table #5: 1899 bytes OK
+2022/06/13-09:19:07.281 41af Delete type=0 #3
+2022/06/13-09:19:07.281 41af Manual compaction at level-0 from (begin) .. (end); will stop at (end)

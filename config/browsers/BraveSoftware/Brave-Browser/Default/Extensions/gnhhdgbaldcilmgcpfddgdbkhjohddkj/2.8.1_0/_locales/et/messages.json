@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Lisada Kaardil"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Pikendamine automaatselt käivitada V8 Inspektor Node.js silumine"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Node Inspektor Juhataja)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Automaatselt Sulguma."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Juurdekasvu Host/Sadama."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Silumiskõlblikkus."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Silumine"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Kasutage Alternate DevToolsit."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Node Inspektor Juhataja)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector manager (NiM) - DevTools paneel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Annetada"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Annetused Teretulnud"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Lubatud"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Viga millega uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Suletud tab DevTools istungil: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Viga püüab auto lähedal "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Ühendus DevTools host oli katkestatud. Kontrollige oma host ja port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools on juba avatud."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Suletud aken DevTools istungil: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools on juba avatud."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools on juba avatud.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Üldine"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Paneel stiilis aknas."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Avage DevToolsi aken."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Muuda Tab Aktiivne."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Tee Aken Keskendunud."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuaal"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Puuduvad teated."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Maha"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Kohta"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Avatud DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Ava Uues Aknas."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Avatud Piiksuma"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Valikud"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Kohandatud DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integratsiooni."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Reaalajas koostöö."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Avatud on Maksimeeritud Akna."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Node Inspektor Manager) - Valikud Lehekülg"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Sadam"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM reaalajas koostöö"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Salvesta"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekundit"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kontrollimise Intervall."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Valige DevTools versioon."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

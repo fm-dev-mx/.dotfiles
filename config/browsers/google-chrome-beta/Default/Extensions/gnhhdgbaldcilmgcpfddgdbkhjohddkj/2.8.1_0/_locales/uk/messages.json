@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Додати Закладку"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Розширення для автоматичного запуску інспектор V8 для Node.js налагодження"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Ним (вузол Диспетчер інспектор)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "Ним"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Авто"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Автоматично Закрити."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Автоинкремент Хост/Порт."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Налагодження багатослівності."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Налагодження"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Використовуйте альтернативні DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Ним (вузол Диспетчер інспектор)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - диспетчер диспетчера (NiM) - панель DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Пожертвувати"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Вітаються Пожертви"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Включений"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Помилка установки видалити URL-адреса: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Закриту вкладку інструменти розробника сесії: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Помилка при спробі автоматичного закриття "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Підключення до інструменти розробника вузол було перервано. Перевірте ваш хост і порт."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "Інструменти розробника вже відкрита."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Закриті вікна інструментів розробника сесії: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "Інструменти розробника вже відкрита."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "Інструменти розробника вже відкрита.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Загальні"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Ім'я"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Стиль вікна панель."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Відкрийте вікно DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Зробити Вкладку Активною."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Зробити Вікно."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Керівництво"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Немає жодних повідомлень."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Від"
+   },
+   "on": {
+      "description": "On.",
+      "message": "На"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Відкрийте Devtools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Відкрити у новому вікні."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Відкрий Твіт"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Варіанти"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Користувальницькі DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "Інтеграція VSCode."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Співпраця в реальному часі."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Відкрити в розгорнутому вікні."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Ним (вузол Диспетчер інспектор) - сторінка варіанти"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Порт"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM в режимі реального часу співробітництво"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Зберегти"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Секунд"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Перевірити Інтервал."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Виберіть версію DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Аптайм"
+   }
+}

@@ -1,0 +1,46 @@
+{
+   "author": "June07 \u003C667@june07.com> (https://june07.com/)",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "__MSG_defaultTitle__"
+   },
+   "commands": {
+      "open-devtools": {
+         "description": "__MSG_keyCtrlI__",
+         "suggested_key": {
+            "default": "Alt +I",
+            "mac": "Alt+I"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-gtOYwzQC2zvI6efNM91x1Mr3jBhZaavdB4LuBEIuy64=' https://www.gstatic.com https://www.google-analytics.com https://ssl.google-analytics.com https://riot.june07.com https://june07.github.io https://apis.google.com https://button.flattr.com https://www.paypalobjects.com https://platform.twitter.com https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; object-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com;",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "./icon/icon128.png",
+      "1282": "./icon/icon128@2x.png",
+      "1283": "./icon/icon128@3x.png",
+      "16": "./icon/icon16.png",
+      "162": "./icon/icon16@2x.png",
+      "163": "./icon/icon16@3x.png",
+      "32": "./icon/icon32.png",
+      "322": "./icon/icon32@2x.png",
+      "323": "./icon/icon32@3x.png",
+      "48": "./icon/icon48.png",
+      "482": "./icon/icon48@2x.png",
+      "483": "./icon/icon48@3x.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr3e+DlQ5IOEDXV55pE8XgUHMIJLbTPtVS3Uho4LdUJfdvV/oXWNrN2KN3rPtPV4mWkqNzQQ/iMyfswOj1XKwoh/sZFbgTpt+bnSSzdCGzO1yXFdGr1QGn7OyyoGvpnua1g1unPoaFkLhKbH68kKgsoSjt0fW+qXnBMJDhtu4c6zR3DCBtzNVXyJBdju8J97F5+c917l1pd3lGdy2T3TWd3p0RBR4i8I5RG5d3icCtj5VfTHwLoIGQsaB8ZCuOS8ExCx8QnZHc9sMg8JMgcti5PhN4/KiisxLmGHEDyMH9GeQ4uUwjODSOQioZD0hr/7J6pvocgrkz/+RfV5+7rM6AwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "*://*/", "storage", "background", "tabs", "identity", "identity.email", "notifications", "contextMenus" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.8.1",
+   "version_name": "2.8.1"
+}

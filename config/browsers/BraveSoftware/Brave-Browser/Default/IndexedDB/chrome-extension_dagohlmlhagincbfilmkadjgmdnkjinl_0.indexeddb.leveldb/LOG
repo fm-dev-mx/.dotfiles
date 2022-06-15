@@ -1,0 +1,7 @@
+2022/06/12-13:37:03.655 11248 Reusing MANIFEST /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_dagohlmlhagincbfilmkadjgmdnkjinl_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-13:37:03.655 11248 Recovering log #3
+2022/06/12-13:37:03.661 11248 Reusing old log /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_dagohlmlhagincbfilmkadjgmdnkjinl_0.indexeddb.leveldb/000003.log 
+2022/06/12-13:37:06.749 111d9 Level-0 table #5: started
+2022/06/12-13:37:06.755 111d9 Level-0 table #5: 30756 bytes OK
+2022/06/12-13:37:06.760 111d9 Delete type=0 #3
+2022/06/12-13:37:06.760 111d9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

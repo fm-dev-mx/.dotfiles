@@ -1,0 +1,15 @@
+2022/06/13-11:02:26.594 9d38 Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/06/13-11:02:26.596 9d38 Recovering log #79
+2022/06/13-11:02:26.627 9d38 Reusing old log /home/rhoffman/.config/google-chrome/Default/Sync Data/LevelDB/000079.log 
+2022/06/13-11:02:26.783 9d71 Level-0 table #83: started
+2022/06/13-11:02:26.831 9d71 Level-0 table #83: 104346 bytes OK
+2022/06/13-11:02:26.837 9d71 Delete type=0 #79
+2022/06/13-11:02:26.843 9d71 Compacting 4@0 + 1@1 files
+2022/06/13-11:02:26.856 9d71 Generated table #84@0: 544 keys, 65864 bytes
+2022/06/13-11:02:26.856 9d71 Compacted 4@0 + 1@1 files => 65864 bytes
+2022/06/13-11:02:26.862 9d71 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/13-11:02:26.862 9d71 Delete type=2 #73
+2022/06/13-11:02:26.862 9d71 Delete type=2 #75
+2022/06/13-11:02:26.862 9d71 Delete type=2 #77
+2022/06/13-11:02:26.862 9d71 Delete type=2 #80
+2022/06/13-11:02:26.862 9d71 Delete type=2 #83

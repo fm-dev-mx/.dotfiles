@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "যোগ ট্যাব"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "পরিচালনা DevTools সঙ্গে নোড V8 পরিদর্শক (নোড --পরিদর্শন) ডিবাগ কর্মপ্রবাহ"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --পরিদর্শক ম্যানেজার (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "অটো"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "স্বয়ংক্রিয়ভাবে বন্ধ."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "অটো বর্ধন হোস্ট/পোর্ট."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "ডিবাগ Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "ডিবাগ"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "ব্যবহার বিকল্প DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --পরিদর্শক ম্যানেজার (NiM)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --পরিদর্শক ম্যানেজার (NiM) - DevTools প্যানেল"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "দান"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "অনুদান প্রশংসা"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "সক্রিয়"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "ত্রুটি সেটিং আনইনস্টল URL-এ: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "ট্যাব বন্ধ জন্য DevTools সেশন: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "ত্রুটি করার চেষ্টা করার সময় অটো বন্ধ "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "সংযোগ DevTools হোস্ট ছিল বন্ধ্যা. পরীক্ষা আপনার হোস্ট এবং পোর্ট."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools ইতিমধ্যে খোলা."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "বন্ধ জানালা জন্য DevTools সেশন: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools ইতিমধ্যে খোলা."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools ইতিমধ্যে খোলা.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "সাধারণ"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "হোস্ট"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "প্যানেল শৈলী উইন্ডো."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "খোলা DevTools উইন্ডো."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "করতে ট্যাব সক্রিয়."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "করতে উইন্ডো দৃষ্টি নিবদ্ধ."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "ম্যানুয়াল"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "আছে কোন বিজ্ঞপ্তি."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "বন্ধ"
+   },
+   "on": {
+      "description": "On.",
+      "message": "উপর"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "এমন DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "একটি নতুন উইন্ডোতে খুলুন."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "খোলা টুইট"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "অপশন"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "কাস্টম DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode ইন্টিগ্রেশন."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "রিয়েল টাইম সহযোগিতার."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "এমন একটি বড় উইন্ডো."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --পরিদর্শক ম্যানেজার (NiM) - বিকল্প পৃষ্ঠা"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "পোর্ট"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM বাস্তব সময় সহযোগিতা"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "সংরক্ষণ করুন"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "সেকেন্ড"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "চেক ব্যবধান."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "নির্বাচন DevTools সংস্করণ."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "আপটাইম"
+   }
+}

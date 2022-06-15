@@ -1,0 +1,6 @@
+2022/06/11-08:46:40.048 1a4d Creating DB /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_dagohlmlhagincbfilmkadjgmdnkjinl_0.indexeddb.leveldb since it was missing.
+2022/06/11-08:46:40.060 1a4d Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_dagohlmlhagincbfilmkadjgmdnkjinl_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/11-09:02:22.742 2941 Level-0 table #5: started
+2022/06/11-09:02:22.748 2941 Level-0 table #5: 74480 bytes OK
+2022/06/11-09:02:22.753 2941 Delete type=0 #3
+2022/06/11-09:02:22.753 2941 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

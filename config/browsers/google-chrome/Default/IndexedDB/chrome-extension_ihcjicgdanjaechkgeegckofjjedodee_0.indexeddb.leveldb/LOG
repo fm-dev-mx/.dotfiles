@@ -1,0 +1,6 @@
+2022/06/14-14:19:45.652 5859 Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/14-14:19:45.653 5859 Recovering log #26
+2022/06/14-14:19:45.687 5859 Reusing old log /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/000026.log 
+2022/06/14-14:39:56.865 6e19 Level-0 table #31: started
+2022/06/14-14:39:56.939 6e19 Level-0 table #31: 3079412 bytes OK
+2022/06/14-14:39:56.947 6e19 Delete type=0 #26

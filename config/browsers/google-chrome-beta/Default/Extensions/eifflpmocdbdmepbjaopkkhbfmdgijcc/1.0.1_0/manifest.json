@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icons/icon-16.png"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/contentScript.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file:///*" ],
+      "run_at": "document_start"
+   } ],
+   "icons": {
+      "128": "images/icons/icon-128.png",
+      "16": "images/icons/icon-16.png",
+      "38": "images/icons/icon-32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgQp9n0ftTe20pAJZimuRqDApuS3V8IjR57Qugc7+KVXwjiEH3UAJw5WnncB/WxoyU7nRshTCqUuybsCRgKjOUrJ2IOx370jTA+qFw+YXhY01VNJ/S4eAhJEjlygBlEJA0Fp7aWjdJkGoLzJlZOqqzDvlSb4rhtSL9DTQc+I7yyACqXHaQxW3+QHEfbewNHUjZ1M1nmhyACLCY3H2EBNELKfDnjosTHvIqP4hA02RMAGIlUPjDNvMRYlv7Uy8zp1hQeQKdsEtCxOfbv3wvCvUr5MQwJ6eoPqN1pT1g2ztfuMDIigz9TzJ4H+iu/tQ01o2GjtagbM0UOMU39D79vmRzwIDAQAB",
+   "manifest_version": 2,
+   "name": "JSON Viewer Pro",
+   "offline_enabled": true,
+   "options_page": "options.html",
+   "permissions": [ "*://*/*", "contextMenus" ],
+   "short_name": "JSON Viewer",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1",
+   "web_accessible_resources": [ "/js/main.js", "/css/main.css", "/css/themes/mdn.css", "options.html", "images/icons/gear.png" ]
+}

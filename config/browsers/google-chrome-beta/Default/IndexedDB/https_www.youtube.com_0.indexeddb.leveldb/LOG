@@ -1,0 +1,6 @@
+2022/06/12-01:07:33.776 198c Reusing MANIFEST /home/rhoffman/.config/google-chrome-beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-01:07:33.776 198c Recovering log #3
+2022/06/12-01:07:33.820 198c Reusing old log /home/rhoffman/.config/google-chrome-beta/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/06/12-01:26:30.872 246a Level-0 table #5: started
+2022/06/12-01:26:30.898 246a Level-0 table #5: 1146391 bytes OK
+2022/06/12-01:26:30.905 246a Delete type=0 #3

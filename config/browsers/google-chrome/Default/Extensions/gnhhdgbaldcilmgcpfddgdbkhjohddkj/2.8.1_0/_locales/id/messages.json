@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Menambahkan Tab"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Ekstensi untuk secara otomatis meluncurkan V8 Inspektur untuk Node.js debugging"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --inspektur Manager (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Menutup Secara Otomatis."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Penambahan Otomatis Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Debugging"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Gunakan DevTools Alternatif."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Node Inspektur Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --Manpector Manager (NiM) - DevTools Panel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Donasi"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Sumbangan Dihargai"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Diaktifkan"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Kesalahan pengaturan pencopotan pemasangan URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Tab yang tertutup untuk DevTools sesi: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Kesalahan ketika mencoba untuk menutup otomatis "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Koneksi ke DevTools host dibatalkan. Cek host dan port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools sudah terbuka."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Jendela yang tertutup untuk DevTools sesi: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools sudah terbuka."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools sudah terbuka.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Umum"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel gaya jendela."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Buka Jendela DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Membuat Tab Aktif."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Membuat Jendela Terfokus."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manual"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Tidak ada pemberitahuan."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Mati"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Nyala"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Buka DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Buka di Jendela Baru."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Buka Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Pilihan"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integrasi."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Kolaborasi Real-time."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Membuka di Jendela Dimaksimalkan."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Node Inspektur Manager) - Halaman Pilihan"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "Kolaborasi Real-time NiM"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Simpan"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Detik"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Cek Interval."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Pilih Versi DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

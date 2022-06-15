@@ -1,0 +1,25 @@
+2022/06/12-22:05:58.315 129e Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-22:05:58.316 129e Recovering log #27
+2022/06/12-22:05:58.350 129e Reusing old log /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000027.log 
+2022/06/12-22:37:49.008 32a1 Level-0 table #32: started
+2022/06/12-22:37:49.028 32a1 Level-0 table #32: 1176109 bytes OK
+2022/06/12-22:37:49.037 32a1 Delete type=0 #27
+2022/06/12-22:40:07.302 3549 Level-0 table #34: started
+2022/06/12-22:40:07.305 3549 Level-0 table #34: 31099 bytes OK
+2022/06/12-22:40:07.309 3549 Delete type=0 #31
+2022/06/12-22:40:07.309 3549 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0d\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03f\x86\x1a\xb9\xb5\x15xB\x00\x03\x00\x00\x00\x00\x00\\x93@' @ 81363 : 1
+2022/06/12-22:40:07.309 3549 Compacting 1@0 + 1@1 files
+2022/06/12-22:40:07.322 3549 Generated table #35@0: 4036 keys, 53919 bytes
+2022/06/12-22:40:07.322 3549 Compacted 1@0 + 1@1 files => 53919 bytes
+2022/06/12-22:40:07.327 3549 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/12-22:40:07.327 3549 Delete type=2 #32
+2022/06/12-22:40:07.327 3549 Delete type=2 #34
+2022/06/12-22:40:07.328 3549 Manual compaction at level-0 from '\x00\x0d\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03f\x86\x1a\xb9\xb5\x15xB\x00\x03\x00\x00\x00\x00\x00\\x93@' @ 81363 : 1 .. (end); will stop at (end)
+2022/06/12-22:40:07.328 3549 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0f\x01\x1f\x03f\x8e\xa9\xe9.\x8bxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 79702 : 1
+2022/06/12-22:40:07.328 3549 Compacting 1@1 + 1@2 files
+2022/06/12-22:40:07.334 3549 Generated table #36@1: 599 keys, 52061 bytes
+2022/06/12-22:40:07.334 3549 Compacted 1@1 + 1@2 files => 52061 bytes
+2022/06/12-22:40:07.338 3549 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/12-22:40:07.338 3549 Delete type=2 #29
+2022/06/12-22:40:07.338 3549 Delete type=2 #35
+2022/06/12-22:40:07.339 3549 Manual compaction at level-1 from '\x00\x0f\x01\x1f\x03f\x8e\xa9\xe9.\x8bxB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 79702 : 1 .. (end); will stop at (end)

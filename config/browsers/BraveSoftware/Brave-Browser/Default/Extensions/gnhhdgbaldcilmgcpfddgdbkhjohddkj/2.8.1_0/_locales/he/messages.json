@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "הוספת טאב"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "הארכה אוטומטית השקת V8 המפקח על Node.js איתור באגים"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "נים (צומת מפקח מנהל)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "נים"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "אוטומטי"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "לסגור באופן אוטומטי."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "אוטומטי תוספת מארח/יציאה."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "איתור שגיאות באגים."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "איתור באגים"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "השתמש ב- DevTools חלופי."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "נים (צומת מפקח מנהל)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - מנהל ספקטרום (NiM) - לוח DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "לתרום"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "תרומות מוערכות"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "זמין"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "שגיאה בהגדרת להסיר את כתובת האתר: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "סגור בכרטיסיה DevTools הפעלה: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "שגיאה בעת אוטומטי קרוב "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "חיבור DevTools מארח בוטלה. בדוק את המארח ואת היציאה."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools כבר פתוח."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "סגור את החלון DevTools הפעלה: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools כבר פתוח."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools כבר פתוח.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "כללי"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "שם מארח"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "לוח סגנון החלון."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "פתח את החלון DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "להפוך את הכרטיסייה הפעילה."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "להפוך את חלון מרוכז."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "מדריך"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "אין הודעות."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "חופש"
+   },
+   "on": {
+      "description": "On.",
+      "message": "על"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "פתח DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "פתח בחלון חדש."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "פתח Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "אפשרויות"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode אינטגרציה."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "שיתוף פעולה בזמן אמת."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "לפתוח את חלון מקסימלי."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "נים (צומת מפקח מנהל) - דף אפשרויות"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "נמל"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM שיתוף פעולה בזמן אמת"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "להציל"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "שניות"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "בדוק מרווח."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "בחר גרסה DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

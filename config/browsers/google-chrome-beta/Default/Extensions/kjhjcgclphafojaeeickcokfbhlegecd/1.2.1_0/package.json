@@ -1,0 +1,38 @@
+{
+  "name": "chrome-graphql-playground",
+  "description": "Chrome extension for GraphQL Playground",
+  "author": {
+    "name": "Dustin R. Callaway",
+    "email": "drcallaway@gmail.com"
+  },
+  "version": "1.2.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "zip": "yarn build && zip -r ./chrome-graphql-playground.zip manifest.json package.json cgp.html LICENSE README.md cgp.html src/background.js public dist",
+    "release": "echo 'Remember to update and stage the version number in manifest.json first!' && yarn version && git push --follow-tags"
+  },
+  "dependencies": {
+    "apollo-link-http": "^1.5.4",
+    "cuid": "^2.1.1",
+    "graphql-playground-react": "^1.7.2",
+    "react-redux": "^5.0.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "graphql": "^0.13.2",
+    "jquery": "^3.2.1",
+    "style-loader": "^0.21.0",
+    "svg-inline-loader": "^0.8.0",
+    "webpack": "^3.8.1"
+  },
+  "resolutions": {
+    "cuid": "2.1.1"
+  }
+}

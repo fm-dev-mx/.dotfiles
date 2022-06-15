@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Lap Hozzáadása"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Kiterjesztés automatikusan indít V8 Felügyelő Node.js hibakeresés"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Csomópont Felügyelő Menedzser)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Automatikus"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Zárja Be Automatikusan."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Automatikus Léptetés Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Verbosity hibakeresése."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Hibakeresés"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Alternatív DevTools használata."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Csomópont Felügyelő Menedzser)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - ellenőrzéskezelő (NiM) - DevTools panel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Adományoz"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Adományok Értékelte"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Engedélyezett"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Hiba beállítás uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Zárt lap DevTools ülés: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Hibát, amíg megpróbál automatikus bezárás "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Kapcsolat DevTools fogadó lett szakítva. Ellenőrizze, hogy a gép portjára."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools már nyitva van."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Zárt ablakon DevTools ülés: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools már nyitva van."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools már nyitva van.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Általános"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel ablak."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Nyissa meg a DevTools ablakot."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Hogy Lap Aktív."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Hogy Ablak Koncentrált."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Kézi"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Nincs értesítések."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Le"
+   },
+   "on": {
+      "description": "On.",
+      "message": "A"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Nyitva DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Megnyílik egy Új Ablak."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Nyitva Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Lehetőségek"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Egyéni DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integráció."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Valós idejű együttműködés."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Nyissa meg a teljes Méretű Ablak."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Csomópont Felügyelő Manager) - Opciók Oldal"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM valós idejű együttműködés"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Mentés"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Másodperc"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Ellenőrizze Intervallum."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Válassza a DevTools verziót."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

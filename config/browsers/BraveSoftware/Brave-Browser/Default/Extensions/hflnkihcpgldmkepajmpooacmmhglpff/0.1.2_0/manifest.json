@@ -1,0 +1,15 @@
+{
+   "description": "Devtools panel for GraphQL development",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "images/graphql-128x128.png",
+      "16": "images/graphql-16x16.png",
+      "48": "images/graphql-48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwfwnztJiVStFcVGZzLVkhRkX+HuF3Ml/RM3Ju93luqmb4Jk24WKTpXaq8Y7mGxpTwaoR+K6yxOTq2OGPIK+2S64mibtV4Awq2uMRwe2HhPGoMMGuW7lPACWFnZh0pbf0TpwuRGHba7qXb7Nx7wJIo5mbQGoqaw7EWZxXAO0JtKDu3OiGWCm9/KvnpMO9tC80LvZmmvE6w+Hx+BQ0Cb+rhYy5XITmo2rFWwdMd1+UeLe9TQfhyoKHvfVR2fTEwzwBYrGUxqgwlE01l6XOQxBEBuAvDSQlP6Mk12ECyQNevCIS+KIRFfZWSv5tZowmG58eCunFZnFDrt3jLPwWm6CXNwIDAQAB",
+   "manifest_version": 2,
+   "name": "GraphQL developer tools",
+   "permissions": [ "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.2"
+}

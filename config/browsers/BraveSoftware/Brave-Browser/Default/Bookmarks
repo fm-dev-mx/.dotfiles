@@ -1,0 +1,2041 @@
+{
+   "checksum": "8b938a6af19032f0f870a369a2b30dfb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13248371473000000",
+            "guid": "f1f9bb44-9daa-4f0f-91c7-1b60e46f3963",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13294632239000000",
+            "guid": "4641d02c-4fbe-44f1-ba78-b0074cd9d59f",
+            "id": "6",
+            "name": "",
+            "type": "url",
+            "url": "https://www.linkedin.com/in/francisco-mendoza-045392203/"
+         }, {
+            "date_added": "13290562997000000",
+            "guid": "110e3ab1-29b0-4e9a-be62-b119f5382871",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13294747942000000",
+            "guid": "2bff0434-8ec4-4c17-a0fe-8820a481af80",
+            "id": "8",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13282921792000000",
+            "guid": "19fdea29-9008-4fde-831b-59e78143a870",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13296997637000000",
+            "guid": "493f0edf-37bc-4a04-966b-a00e7f39d6dd",
+            "id": "10",
+            "name": "",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13297023052000000",
+            "guid": "4f7e89fe-8026-4e6b-bc23-856b67b84b1a",
+            "id": "11",
+            "name": "",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13297099916000000",
+            "guid": "0228e823-1cf7-48e6-9008-4c5b1a094640",
+            "id": "12",
+            "name": "",
+            "type": "url",
+            "url": "https://pnpm.io/"
+         }, {
+            "children": [ {
+               "date_added": "13183197596000000",
+               "guid": "7571de61-1c1f-4ca2-9f00-f06e79e673d4",
+               "id": "14",
+               "name": "(51) Tutorial como usar Workbench, crear diagramas, tablas, relaciones y manipular registros - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=j8zYIpFSjFE"
+            }, {
+               "date_added": "13186103296000000",
+               "guid": "5ab8c75c-60a7-4be2-a081-02c4187618d7",
+               "id": "15",
+               "name": "(78) RJ Code Advance - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCEQlGiXhpdO4Qhn0sPviagg/videos"
+            }, {
+               "date_added": "13296804250000000",
+               "guid": "53ac0b4d-af60-4a58-a69f-ca75b89eb24a",
+               "id": "16",
+               "name": "Install Yarn [ UPDATED 2022 ] - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=mWC5M1F2hiE&t=12s"
+            }, {
+               "date_added": "13296850919000000",
+               "guid": "a94f9b37-2c73-4b6a-ae09-2e0a5140c6a6",
+               "id": "17",
+               "name": "DOCKER 2021 - De NOVATO a PRO! (CURSO COMPLETO) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CV_Uf3Dq-EU"
+            }, {
+               "date_added": "13296995833000000",
+               "guid": "5187cbbd-17f6-47b7-8d46-2b1e01b2ec6e",
+               "id": "18",
+               "name": "Qué es Redux ? Qué es Context ? cúando y cómo usar cada uno con CRUD de ejemplo a una API en ReactJS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BqbvcoOWwfg"
+            }, {
+               "date_added": "13296995887000000",
+               "guid": "86512c71-1a64-4bf9-a5d5-07a9c80437a7",
+               "id": "19",
+               "name": "Al fin SQL Nativo para la NUBE? - CockroachDB - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=wUaGyUpyE2E"
+            }, {
+               "date_added": "13296999747000000",
+               "guid": "e776e893-77db-4037-9f94-37fc7e80bd5f",
+               "id": "20",
+               "name": "📘 CURSO REACT NATIVE desde CERO - Creamos una app paso a paso - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qi87b6VcIHY"
+            }, {
+               "date_added": "13297001365000000",
+               "guid": "cb7c1416-5f21-43ce-95a9-327413729361",
+               "id": "21",
+               "name": "Nodejs Curso Desde Cero, para principiantes - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BhvLIzVL8_o"
+            }, {
+               "date_added": "13297003920000000",
+               "guid": "c9d4b93a-2420-4112-9e7c-4d0aca0b3bfb",
+               "id": "22",
+               "name": "Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=T_j60n1zgu0"
+            }, {
+               "date_added": "13297019564000000",
+               "guid": "987d6110-debf-4794-8296-8e75579d51b3",
+               "id": "23",
+               "name": "(1) 🛒 MEJORA tu tienda online con RECOMENDACIONES de Machine Learning como hace AMAZON usando Algolia - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=V1ywswInv0s"
+            }, {
+               "date_added": "13297019581000000",
+               "guid": "62ac8167-dcff-4df2-8e74-8469738aa462",
+               "id": "24",
+               "name": "WEBPACK 5 - ¡Curso práctico DESDE CERO! 📦 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=FMNuTj89RzU"
+            }, {
+               "date_added": "13297019591000000",
+               "guid": "680750c0-a75b-4802-bd5c-4553e62268a4",
+               "id": "25",
+               "name": "💅 Introducción a Styled Components. ¡Estilar tu aplicación de React! ⚛️ - FullStack Bootcamp - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=LoTUrtvZQhQ"
+            }, {
+               "date_added": "13297019603000000",
+               "guid": "6ece9845-3679-46bb-8a16-9eab05232732",
+               "id": "26",
+               "name": "🤩 Usa Material UI en tu aplicación de React ⚛️ - FullStack Bootcamp JavaScript - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8-sn405JX1Q"
+            }, {
+               "date_added": "13297019647000000",
+               "guid": "b0fa2c23-d0c1-455e-94a4-f550cbb50eff",
+               "id": "27",
+               "name": "📚 GitHub Actions TUTORIAL Desde Cero - Integración continua (CI/CD) gratis y fácil 🚀 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sIhm4YOMK6Q&t=586s"
+            }, {
+               "date_added": "13297019827000000",
+               "guid": "755bc7c9-639b-44a5-a4da-0642b85b60cc",
+               "id": "28",
+               "name": "(1) TESTING en REACT 🧪 ¡Aprende DESDE CERO! Con react-testing-library y Jest (FullStack Bootcamp JS) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KYjjtRgg_H0"
+            }, {
+               "date_added": "13297026269000000",
+               "guid": "0aa82bf2-f11a-44cd-a949-fcdf9549c62d",
+               "id": "29",
+               "name": "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=GDa8kZLNhJ4"
+            }, {
+               "date_added": "13297028465000000",
+               "guid": "96a0e8ad-2ca1-435e-844e-85e78f66bc78",
+               "id": "30",
+               "name": "#8 Adding Bookings | Build a Complete App with GraphQL, Node.js, MongoDB and React.js - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=WcyYYD5xkuQ"
+            }, {
+               "date_added": "13297030225000000",
+               "guid": "b00d38d9-2cef-4ddf-b829-a278a185a610",
+               "id": "31",
+               "name": "Haciendo un Portfolio Web en ReactJs - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-pm-qPqNqgY"
+            }, {
+               "date_added": "13297031125000000",
+               "guid": "af6ff97a-fcaa-4438-b32e-51e2c2b6092b",
+               "id": "32",
+               "name": "How To Make an Appointment Booking Website - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=70JwyYSosX0"
+            }, {
+               "date_added": "13297031647000000",
+               "guid": "59a4007a-4dc4-48b3-bbb4-d267be6c02e3",
+               "id": "33",
+               "name": "bradtraversy (Brad Traversy)",
+               "type": "url",
+               "url": "https://github.com/bradtraversy"
+            }, {
+               "date_added": "13297367144000000",
+               "guid": "dc78c08a-e1eb-4d70-9742-1cec7b1314b1",
+               "id": "34",
+               "name": "ShaifArfan/react-todo-app: A complete Todo application with all features.",
+               "type": "url",
+               "url": "https://github.com/ShaifArfan/react-todo-app"
+            }, {
+               "date_added": "13297368216000000",
+               "guid": "8d7a617b-fdd9-4299-9437-ec23ab866fd6",
+               "id": "35",
+               "name": "WEB CIFAR - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/WEBCIFAROfficial/videos"
+            }, {
+               "date_added": "13297376150000000",
+               "guid": "35ecaa12-c0bf-4bfa-9778-b0a281c843fa",
+               "id": "36",
+               "name": "serverless-components/fullstack-app: ⚡ Ready-to-use, serverless, full-stack application built with AWS Lambda, Express.js, React, AWS DynamoDB and AWS HTTP API.",
+               "type": "url",
+               "url": "https://github.com/serverless-components/fullstack-app"
+            }, {
+               "date_added": "13297537080000000",
+               "guid": "b9e68048-b614-4702-9768-b1695e2b7a7c",
+               "id": "37",
+               "name": "eduardofierropro (Eduardo Fierro Pro) / Repositories",
+               "type": "url",
+               "url": "https://github.com/eduardofierropro?tab=repositories"
+            }, {
+               "date_added": "13298699484000000",
+               "guid": "aa2704bf-3594-468b-bf4f-1bd57931a4c4",
+               "id": "38",
+               "name": "Búsquedas en YouTube: once comandos para filtrar y afinar tus resultados",
+               "type": "url",
+               "url": "https://www.xataka.com/basics/busquedas-en-youtube-once-comandos-para-filtrar-y-afinar-tus-resultados"
+            }, {
+               "date_added": "13298700365000000",
+               "guid": "ceead2fd-03fb-4ef2-af1b-e350279bffbd",
+               "id": "39",
+               "name": "Cómo buscar en YouTube como un profesional con operadores de búsqueda avanzada » Juega Gamer",
+               "type": "url",
+               "url": "https://juegagamer.com/como-buscar-en-youtube-como-un-profesional-con-operadores-de-busqueda-avanzada/"
+            } ],
+            "date_added": "13299532605839518",
+            "date_modified": "0",
+            "guid": "d2796040-e530-46a9-8e73-733e9c4eab73",
+            "id": "13",
+            "name": "tutorials",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13294730723000000",
+               "guid": "2ceb8237-218c-4438-a54e-4b8041feec9d",
+               "id": "41",
+               "name": "Home | Educative",
+               "type": "url",
+               "url": "https://www.educative.io/explore"
+            } ],
+            "date_added": "13299532605841467",
+            "date_modified": "0",
+            "guid": "a66fc6e0-4343-4924-886d-04223efdec72",
+            "id": "40",
+            "name": "To do",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13294772185000000",
+               "guid": "7f676a5c-3e64-406e-8d77-da527436811b",
+               "id": "43",
+               "name": "Colorado River Maquila Ingeniero de Sistemas - en Tlalnepantla Estado de Mxico",
+               "type": "url",
+               "url": "https://mx.fidanto.com/empleos/vacante/engineers-all-other/ingeniero-de-sistemas-en-tlalnepantla-estado-de-mxico-404082574?redirect"
+            }, {
+               "date_added": "13294778621000000",
+               "guid": "96e1c5cb-822d-434c-bd25-432fdd3c4de8",
+               "id": "44",
+               "name": "Enumerable.Average Method (System.Linq) | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.average?view=net-6.0"
+            } ],
+            "date_added": "13299532605842273",
+            "date_modified": "0",
+            "guid": "55bae6d0-8ee5-4515-9808-9138ea46c2fb",
+            "id": "42",
+            "name": "Work",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13298262001000000",
+                  "guid": "d9f27868-dd83-4e8c-8790-4d66c5695dbc",
+                  "id": "47",
+                  "name": "DNF System Upgrade :: Fedora Docs",
+                  "type": "url",
+                  "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/"
+               }, {
+                  "date_added": "13299055368000000",
+                  "guid": "90a3e1e5-6f71-4e05-b860-167c98042e75",
+                  "id": "48",
+                  "name": "Adding or removing software repositories in Fedora :: Fedora Docs",
+                  "type": "url",
+                  "url": "https://docs.fedoraproject.org/en-US/quick-docs/adding-or-removing-software-repositories-in-fedora/"
+               } ],
+               "date_added": "13299532605842991",
+               "date_modified": "0",
+               "guid": "f57acbdb-fd57-4507-bb2c-b199912c0b97",
+               "id": "46",
+               "name": "DNF",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13298763804000000",
+                     "guid": "4adddc7d-f758-418f-bdc1-1deb984a81b4",
+                     "id": "51",
+                     "name": "A cat(1) clone with syntax highlighting and Git integration. | RustRepo",
+                     "type": "url",
+                     "url": "https://rustrepo.com/repo/sharkdp-bat-rust-command-line"
+                  }, {
+                     "date_added": "13299062323000000",
+                     "guid": "644025b1-b5b1-444c-ac22-e94e6b4fc56c",
+                     "id": "52",
+                     "name": "sharkdp/bat: A cat(1) clone with wings.",
+                     "type": "url",
+                     "url": "https://github.com/sharkdp/bat"
+                  } ],
+                  "date_added": "13299532605843132",
+                  "date_modified": "0",
+                  "guid": "4d5eff67-2fbb-4d6a-8129-254da3c94e01",
+                  "id": "50",
+                  "name": "Bat",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13298384613000000",
+                     "guid": "fb8f172c-411a-4bc4-8806-855cca7ab5b4",
+                     "id": "54",
+                     "name": "junegunn/fzf: A command-line fuzzy finder",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf#installation"
+                  }, {
+                     "date_added": "13299155774000000",
+                     "guid": "b5f30f47-736a-402c-bb69-696333f84d2c",
+                     "id": "55",
+                     "name": "fzf is a general-purpose command-line fuzzy finder",
+                     "type": "url",
+                     "url": "https://curatedgo.com/r/fzf-is-a-junegunnfzf/index.html"
+                  }, {
+                     "date_added": "13299163951000000",
+                     "guid": "9058350e-115c-4520-8b9b-329ff24f2106",
+                     "id": "56",
+                     "name": "Interactively preview files with fzf and bat in the terminal | egghead.io",
+                     "type": "url",
+                     "url": "https://egghead.io/lessons/egghead-interactively-preview-files-with-fzf-and-bat-in-the-terminal"
+                  }, {
+                     "date_added": "13299163981000000",
+                     "guid": "637657cf-08fa-4afb-b3cc-0c02ca57ce38",
+                     "id": "57",
+                     "name": "Interactively Find Anything By Piping it to fzf in the terminal | egghead.io",
+                     "type": "url",
+                     "url": "https://egghead.io/lessons/bash-interactively-find-anything-by-piping-it-to-fzf-in-the-terminal"
+                  }, {
+                     "date_added": "13299164644000000",
+                     "guid": "9688ac1b-3498-4e0a-b4b8-6144feb4e803",
+                     "id": "58",
+                     "name": "fzf man page - General Commands | ManKier",
+                     "type": "url",
+                     "url": "https://www.mankier.com/1/fzf"
+                  }, {
+                     "date_added": "13299164923000000",
+                     "guid": "11ad2612-167d-483c-8ce9-e4db5233ff70",
+                     "id": "59",
+                     "name": "Why you should be using fzf, the command line fuzzy finder",
+                     "type": "url",
+                     "url": "https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/"
+                  }, {
+                     "date_added": "13299060117000000",
+                     "guid": "f1cd74ea-452d-4808-9f2a-4097095ddc82",
+                     "id": "60",
+                     "name": "junegunn/fzf: A command-line fuzzy finder",
+                     "type": "url",
+                     "url": "https://github.com/junegunn/fzf"
+                  } ],
+                  "date_added": "13299532605843221",
+                  "date_modified": "0",
+                  "guid": "66778ea5-eab9-4d82-8dcd-954c53ac86cf",
+                  "id": "53",
+                  "name": "Fzf",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13298720901000000",
+                     "guid": "7325104a-b42c-4bd8-9820-3a9a93972d55",
+                     "id": "62",
+                     "name": "amix/vimrc: The ultimate Vim configuration (vimrc)",
+                     "type": "url",
+                     "url": "https://github.com/amix/vimrc"
+                  }, {
+                     "date_added": "13298728782000000",
+                     "guid": "e47afdc5-5994-4cb4-a535-5d8b485270ac",
+                     "id": "63",
+                     "name": "How to Copy, Cut and Paste in Vim / Vi | Linuxize",
+                     "type": "url",
+                     "url": "https://linuxize.com/post/how-to-copy-cut-paste-in-vim/"
+                  }, {
+                     "date_added": "13298546932000000",
+                     "guid": "cda179fa-0951-47a7-9938-858ff58a2bb6",
+                     "id": "64",
+                     "name": "Mastering Vim Commands: The Ultimate List - Design Bombs",
+                     "type": "url",
+                     "url": "https://www.designbombs.com/mastering-vim-commands-the-ultimate-list/"
+                  }, {
+                     "date_added": "13298730088000000",
+                     "guid": "86a92ef7-9fb8-4081-9b1f-c65f11660c97",
+                     "id": "65",
+                     "name": "Multiple cursors support · neoclide/coc.nvim Wiki",
+                     "type": "url",
+                     "url": "https://github.com/neoclide/coc.nvim/wiki/Multiple-cursors-support"
+                  }, {
+                     "date_added": "13299090077000000",
+                     "guid": "939896fa-f94b-4ff1-a1c4-6327b426a594",
+                     "id": "66",
+                     "name": "nvim-lua/plenary.nvim: plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+                     "type": "url",
+                     "url": "https://github.com/nvim-lua/plenary.nvim"
+                  }, {
+                     "date_added": "13299105164000000",
+                     "guid": "d2e61ce2-e29a-45a2-9220-6e766bcf38ed",
+                     "id": "67",
+                     "name": "preservim/vim-markdown: Markdown Vim Mode",
+                     "type": "url",
+                     "url": "https://github.com/preservim/vim-markdown"
+                  }, {
+                     "date_added": "13299161684000000",
+                     "guid": "ecbbebe5-0bcf-4f6f-92c4-830d8166d3ee",
+                     "id": "68",
+                     "name": "sampson-chen/sack: s(hortcut)-ack: a faster way to use ag, ack (or grep)!",
+                     "type": "url",
+                     "url": "https://github.com/sampson-chen/sack"
+                  }, {
+                     "date_added": "13299071054000000",
+                     "guid": "0df4caf9-1caf-40b5-b650-0a136d4f71d8",
+                     "id": "69",
+                     "name": "shashinvision/vimrc",
+                     "type": "url",
+                     "url": "https://github.com/shashinvision/vimrc"
+                  }, {
+                     "date_added": "13298720894000000",
+                     "guid": "16398386-1fe3-4b56-b592-198ab102f5f1",
+                     "id": "70",
+                     "name": "tpope/vim-dispatch: dispatch.vim: Asynchronous build and test dispatcher",
+                     "type": "url",
+                     "url": "https://github.com/tpope/vim-dispatch"
+                  }, {
+                     "date_added": "13298727172000000",
+                     "guid": "b461c4d1-f26e-460a-b713-d3e328fce832",
+                     "id": "71",
+                     "name": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More",
+                     "type": "url",
+                     "url": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"
+                  }, {
+                     "date_added": "13298729731000000",
+                     "guid": "fc0b068c-3421-458c-bdd6-1af5f9212e95",
+                     "id": "72",
+                     "name": "You don’t need more than one cursor in vim | by Christoph Hermann | Medium",
+                     "type": "url",
+                     "url": "https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db"
+                  }, {
+                     "date_added": "13299073220000000",
+                     "guid": "4f24bcb9-679f-4a75-b931-a5e7aac20dc2",
+                     "id": "79",
+                     "name": "Trending vim color schemes | vimcolorschemes",
+                     "type": "url",
+                     "url": "https://vimcolorschemes.com/"
+                  }, {
+                     "date_added": "13299556977875411",
+                     "guid": "07428b8a-50fd-4b10-928f-86a0e8677b39",
+                     "id": "282",
+                     "name": "Inserting text in multiple lines | Vim Tips Wiki | Fandom",
+                     "type": "url",
+                     "url": "https://vim.fandom.com/wiki/Inserting_text_in_multiple_lines"
+                  }, {
+                     "date_added": "13299530738000000",
+                     "guid": "9e7135db-03d0-4d2f-81dd-8ade30e42d04",
+                     "id": "84",
+                     "name": "[PDF] Este obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial 3.0 España. - Free Download PDF",
+                     "type": "url",
+                     "url": "https://silo.tips/download/este-obra-esta-bajo-una-licencia-de-creative-commons-reconocimiento-nocomercial--5"
+                  }, {
+                     "date_added": "13299558113331721",
+                     "guid": "d21d951e-73a9-4f99-b23b-993d8893ed4f",
+                     "id": "283",
+                     "name": "terryma/vim-multiple-cursors: True Sublime Text style multiple selections for Vim",
+                     "type": "url",
+                     "url": "https://github.com/terryma/vim-multiple-cursors"
+                  }, {
+                     "date_added": "13299527140000000",
+                     "guid": "357d988a-67cc-4c58-a59d-c13ad2e483d4",
+                     "id": "83",
+                     "name": "Find and Replace in Vim / Vi | Linuxize",
+                     "type": "url",
+                     "url": "https://linuxize.com/post/vim-find-replace/#examples"
+                  } ],
+                  "date_added": "13299532605843528",
+                  "date_modified": "13299619485572428",
+                  "guid": "c9dae4ca-e7ee-4d44-a2f8-f47ac240dc1b",
+                  "id": "61",
+                  "name": "Vim",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13299060946000000",
+                     "guid": "d60955f4-1943-4865-9efe-404e84afd2c7",
+                     "id": "74",
+                     "name": "ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+                     "type": "url",
+                     "url": "https://github.com/ohmyzsh/ohmyzsh"
+                  } ],
+                  "date_added": "13299532605844005",
+                  "date_modified": "0",
+                  "guid": "205b6db6-37e3-4725-8969-f89714d8d7b2",
+                  "id": "73",
+                  "name": "Zsh",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13299086157000000",
+                     "guid": "368537cf-8b42-4b68-aa1e-c3fcc0ec620e",
+                     "id": "76",
+                     "name": "even better ls",
+                     "type": "url",
+                     "url": "https://github.com/n0nvme"
+                  }, {
+                     "date_added": "13299085068000000",
+                     "guid": "3ecdc18b-2789-4a15-bc7b-e8cc10593c6d",
+                     "id": "77",
+                     "name": "mnurzia/even-better-ls: LS + Icons + Formatting",
+                     "type": "url",
+                     "url": "https://github.com/mnurzia/even-better-ls"
+                  }, {
+                     "date_added": "13299062371000000",
+                     "guid": "5943fd86-7921-45ca-aa68-97d6e41e1ee5",
+                     "id": "78",
+                     "name": "Peltoche/lsd: The next gen ls command",
+                     "type": "url",
+                     "url": "https://github.com/Peltoche/lsd"
+                  } ],
+                  "date_added": "13299532605844125",
+                  "date_modified": "0",
+                  "guid": "665a0eb7-a230-460b-845b-2af6c8d711c8",
+                  "id": "75",
+                  "name": "LSD",
+                  "type": "folder"
+               }, {
+                  "date_added": "13299319788000000",
+                  "guid": "24c332c8-3ba9-40eb-815f-c8237ea83e69",
+                  "id": "80",
+                  "name": "Airblader/i3: A fork of the i3 window manager with gaps and some other features",
+                  "type": "url",
+                  "url": "https://github.com/Airblader/i3"
+               }, {
+                  "date_added": "13299445446000000",
+                  "guid": "e8bdbbb9-36a9-4e50-ad33-51c726b9316e",
+                  "id": "81",
+                  "name": "Tilix: FAQ",
+                  "type": "url",
+                  "url": "https://gnunn1.github.io/tilix-web/faq"
+               } ],
+               "date_added": "13299532605843125",
+               "date_modified": "13299577651551973",
+               "guid": "af332e94-be9c-42ba-ad73-c4ec8be9d82b",
+               "id": "49",
+               "name": "Zsh / Vim / Fzf / Sh",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13299315258000000",
+                  "guid": "07c6fa29-9ee4-42a2-88ff-db3734a05208",
+                  "id": "86",
+                  "name": "Setting up i3 on Fedora | LinuxBlog.xyz",
+                  "type": "url",
+                  "url": "https://linuxblog.xyz/posts/i3wm/"
+               }, {
+                  "date_added": "13299340237000000",
+                  "guid": "9e38134e-fb30-411c-9d00-032b42b3b3b6",
+                  "id": "87",
+                  "name": "polybar/polybar: A fast and easy-to-use status bar",
+                  "type": "url",
+                  "url": "https://github.com/polybar/polybar"
+               }, {
+                  "date_added": "13299340436000000",
+                  "guid": "01fa84df-f333-44ea-a21c-e0f544db82d5",
+                  "id": "88",
+                  "name": "stav121/i3wm-themer: 🎨 Theme collection manager for i3-wm",
+                  "type": "url",
+                  "url": "https://github.com/stav121/i3wm-themer"
+               }, {
+                  "date_added": "13299340466000000",
+                  "guid": "e8219a22-0424-4fb6-b1d8-0b86bf25827e",
+                  "id": "89",
+                  "name": "davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement",
+                  "type": "url",
+                  "url": "https://github.com/davatorium/rofi"
+               }, {
+                  "date_added": "13299340842000000",
+                  "guid": "edbd4e5b-8d1a-4043-afd5-7d6af72ba776",
+                  "id": "90",
+                  "name": "rofi/INSTALL.md at next · davatorium/rofi",
+                  "type": "url",
+                  "url": "https://github.com/davatorium/rofi/blob/next/INSTALL.md"
+               }, {
+                  "date_added": "13299342664000000",
+                  "guid": "7c370787-76ff-400e-9023-88475c1893c2",
+                  "id": "91",
+                  "name": "Release Roman fonts version 2.038, Italic fonts version 1.058 and VAR fonts version 1.018 (OTF, TTF, WOFF, WOFF2) · adobe-fonts/source-code-pro",
+                  "type": "url",
+                  "url": "https://github.com/adobe-fonts/source-code-pro/releases/tag/2.038R-ro/1.058R-it/1.018R-VAR"
+               }, {
+                  "date_added": "13299342718000000",
+                  "guid": "4afb5b6c-af3b-4abd-9bad-f131c3304179",
+                  "id": "92",
+                  "name": "Overview - rpms/rxvt-unicode - src.fedoraproject.org",
+                  "type": "url",
+                  "url": "https://src.fedoraproject.org/rpms/rxvt-unicode"
+               }, {
+                  "date_added": "13299342887000000",
+                  "guid": "06ce6291-6cc4-4b0f-acbd-184ca3df12ea",
+                  "id": "93",
+                  "name": "How to install or uninstall \"alsa-utils.x86_64\" on Fedora 36 ?",
+                  "type": "url",
+                  "url": "https://linux-packages.com/fedora-36/package/alsa-utilsx86-64"
+               }, {
+                  "date_added": "13299407058000000",
+                  "guid": "17dc19f2-2a9d-4d97-a88b-9b878e73838e",
+                  "id": "94",
+                  "name": "i3: i3 User’s Guide",
+                  "type": "url",
+                  "url": "https://i3wm.org/docs/userguide.html#_binding_mode_indicator"
+               }, {
+                  "date_added": "13299407440000000",
+                  "guid": "148623a6-32ea-407f-acfb-7d2c7a432539",
+                  "id": "95",
+                  "name": "Fedora i3 Spin",
+                  "type": "url",
+                  "url": "https://spins.fedoraproject.org/es/i3/"
+               }, {
+                  "date_added": "13299410641000000",
+                  "guid": "d6268cce-20e6-4c5f-a39b-f022cdf1f601",
+                  "id": "96",
+                  "name": "(2) Instalar y configurar a tope i3wm - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Bw5sDLOvN20&t=1431s"
+               }, {
+                  "date_added": "13299412416000000",
+                  "guid": "77382f07-ea69-4e6c-b4ce-f7e4c272806f",
+                  "id": "97",
+                  "name": "(2) Como instalar y configuar Polybar - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=mRY5qisOBhk"
+               }, {
+                  "date_added": "13299412780000000",
+                  "guid": "08b35684-35c3-4ac4-8563-0d3f52090d2e",
+                  "id": "98",
+                  "name": "i3",
+                  "type": "url",
+                  "url": "https://atareao.es/tutorial/bspwm/una-barra-de-estado-para-bspwm/"
+               }, {
+                  "date_added": "13299418143000000",
+                  "guid": "ede7f809-cb65-4230-a250-af2df264c4c8",
+                  "id": "99",
+                  "name": "adi1090x/polybar-themes: A huge collection of polybar themes with different styles, colors and variants.",
+                  "type": "url",
+                  "url": "https://github.com/adi1090x/polybar-themes"
+               }, {
+                  "date_added": "13299427444000000",
+                  "guid": "ec540609-006e-4437-9489-e53f9934e115",
+                  "id": "100",
+                  "name": "Matthew Weber / Suckless Utils · GitLab",
+                  "type": "url",
+                  "url": "https://gitlab.com/thelinuxcast/suckless-utils"
+               } ],
+               "date_added": "13299532605844467",
+               "date_modified": "0",
+               "guid": "00823ccf-fa47-4925-9614-38a7e975c830",
+               "id": "85",
+               "name": "i3",
+               "type": "folder"
+            }, {
+               "date_added": "13298907337000000",
+               "guid": "a3ccc6d5-10c1-4c36-b373-f7ac6b0017d0",
+               "id": "101",
+               "name": "Fedora 36 After Install",
+               "type": "url",
+               "url": "https://www.hackingthehike.com/2022/05/03/fedora-36-after-install-guide/"
+            }, {
+               "date_added": "13299034972000000",
+               "guid": "26b1608b-2f69-4419-bd2d-adc8f75347c0",
+               "id": "102",
+               "name": "Fedora Archives - LinuxCapable (software & utilities)",
+               "type": "url",
+               "url": "https://www.linuxcapable.com/fedora/"
+            }, {
+               "date_added": "13298244614000000",
+               "guid": "b1071c01-1a4c-406d-9e92-895e1d393e8d",
+               "id": "103",
+               "name": "Fedora Quick Docs ",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/quick-docs/"
+            }, {
+               "date_added": "13298536483000000",
+               "guid": "2e7d37a8-c816-4d39-a836-d2e513ffcff2",
+               "id": "104",
+               "name": "Fedora Workstation:After installation",
+               "type": "url",
+               "url": "https://mutschler.dev/linux/fedora-post-install/"
+            }, {
+               "date_added": "13298909023000000",
+               "guid": "30ce8388-41b8-4545-b62c-2c080d938c91",
+               "id": "105",
+               "name": "Enable EPEL Repository on RHEL Systems",
+               "type": "url",
+               "url": "https://www.tecmint.com/install-epel-repository-on-centos/"
+            }, {
+               "date_added": "13298250883000000",
+               "guid": "cb6211ed-8625-4bff-8fe2-714f0fabe665",
+               "id": "106",
+               "name": "Installing MySQL/MariaDB",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/"
+            }, {
+               "date_added": "13298546892000000",
+               "guid": "83f8d208-d615-4cec-8997-fd0fdf634b9c",
+               "id": "107",
+               "name": "(tilde) in vim",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/46091596/search-for-tilde-in-vim"
+            }, {
+               "date_added": "13298908317000000",
+               "guid": "50bd5f99-cba7-41d9-bafa-e416732375bb",
+               "id": "108",
+               "name": "subscription-manager commands",
+               "type": "url",
+               "url": "https://www.nixcraft.com/t/this-system-is-registered-with-an-entitlement-server-but-is-not-receiving-updates-you-can-use-subscription-manager-to-assign-subscriptions/4159/2"
+            }, {
+               "date_added": "13299440314000000",
+               "guid": "b1d05c6a-91f2-457a-84dc-9a98d446801b",
+               "id": "109",
+               "name": "Rotating screen on Fedora",
+               "type": "url",
+               "url": "https://superuser.com/questions/679591/rotating-screen-on-fedora"
+            }, {
+               "date_added": "13299441027000000",
+               "guid": "030ec629-e0c1-4e9c-bf98-1242c07be719",
+               "id": "110",
+               "name": "Manual para gestión del software",
+               "type": "url",
+               "url": "https://gomix.fedorapeople.org/software-management-guide/f18/html-single/#idp20285712"
+            }, {
+               "date_added": "13299441671000000",
+               "guid": "500245e0-d5d2-44e8-954c-b1b2dcf416db",
+               "id": "111",
+               "name": "Comodines en Linux",
+               "type": "url",
+               "url": "https://aprenderlinux.org/los-comodines-en-linux-explicados-con-10-ejemplos/"
+            }, {
+               "date_added": "13299443010000000",
+               "guid": "af5df260-325b-4063-84c1-b749b53f3941",
+               "id": "112",
+               "name": "GRUB 2 Boot Loader",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/"
+            }, {
+               "date_added": "13299443016000000",
+               "guid": "4aa67322-9de2-42c1-87f2-ec6176a528f8",
+               "id": "113",
+               "name": "Users and Groups ",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/basic-system-configuration/Managing_Users_and_Groups/"
+            }, {
+               "date_added": "13299443048000000",
+               "guid": "baa66497-2d3b-4bb5-bdbe-bb36cd4c48fc",
+               "id": "114",
+               "name": "Gaining Privileges :: Fedora Docs",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/basic-system-configuration/Gaining_Privileges/"
+            }, {
+               "children": [ {
+                  "date_added": "13299453226000000",
+                  "guid": "6d759070-cf40-4813-84b6-545518c87e08",
+                  "id": "116",
+                  "name": "lcpz/awesome-copycats: Awesome WM themes",
+                  "type": "url",
+                  "url": "https://github.com/lcpz/awesome-copycats"
+               }, {
+                  "date_added": "13299488249000000",
+                  "guid": "3fdc51d6-1490-4d1d-bc58-eb7182b664bf",
+                  "id": "117",
+                  "name": "Awesome Window Manager Setup - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=3VctjbvWJtc&t=369s"
+               }, {
+                  "date_added": "13299515313000000",
+                  "guid": "3814dbdb-a57e-4360-a8d9-69c8888a1cba",
+                  "id": "118",
+                  "name": "Awesome WM - Binding Modules",
+                  "type": "url",
+                  "url": "https://epsi-rns.github.io/desktop/2019/06/18/awesome-modularized-binding.html"
+               }, {
+                  "date_added": "13299726388326340",
+                  "guid": "691b4b14-123d-4d7f-a6db-287243f66efc",
+                  "id": "289",
+                  "name": "Getting started with awesome",
+                  "type": "url",
+                  "url": "https://scaron.info/blog/getting-started-with-awesome.html"
+               }, {
+                  "date_added": "13299726446509909",
+                  "guid": "70111b1f-0025-43f3-a7ab-7ebaa9911927",
+                  "id": "290",
+                  "name": "awesome - ArchWiki",
+                  "type": "url",
+                  "url": "https://wiki.archlinux.org/title/awesome"
+               } ],
+               "date_added": "13299532605845717",
+               "date_modified": "13299736795822191",
+               "guid": "6162d37e-9471-480b-bae8-853ba66514d2",
+               "id": "115",
+               "name": "awesome",
+               "type": "folder"
+            }, {
+               "date_added": "13299489713000000",
+               "guid": "1e57c649-b886-49c9-b9ab-26c36952ea69",
+               "id": "119",
+               "name": "xrandr - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/title/Xrandr#Testing_configuration"
+            }, {
+               "date_added": "13299519874000000",
+               "guid": "3321869b-f9b1-4e55-af28-75fa767fa5ed",
+               "id": "120",
+               "name": "DNF Command Reference — dnf latest documentation",
+               "type": "url",
+               "url": "https://dnf.readthedocs.io/en/latest/command_ref.html"
+            }, {
+               "date_added": "13299520380000000",
+               "guid": "5c8bb4a1-ba72-4367-8083-0097ecb589b2",
+               "id": "121",
+               "name": "System Monitoring Tools :: Fedora Docs",
+               "type": "url",
+               "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/monitoring-and-automation/System_Monitoring_Tools/"
+            }, {
+               "date_added": "13299521939000000",
+               "guid": "821639b5-507b-4367-8a90-2f3a40125026",
+               "id": "122",
+               "name": "How to work with dnf package groups - Linux Tutorials - Learn Linux Configuration",
+               "type": "url",
+               "url": "https://linuxconfig.org/how-to-work-with-dnf-package-groups"
+            }, {
+               "date_added": "13299523477000000",
+               "guid": "e771506a-ca35-437a-920f-66e0a02e1ea0",
+               "id": "123",
+               "name": "DNF Configuration Reference — dnf latest documentation",
+               "type": "url",
+               "url": "https://dnf.readthedocs.io/en/latest/conf_ref.html#check-config-file-age-label"
+            }, {
+               "date_added": "13299530012000000",
+               "guid": "982ec4a2-2412-413c-8fb9-f9a816b4d3ed",
+               "id": "124",
+               "name": "[Switch] Guía de expresiones regulares de Linux - programador clic",
+               "type": "url",
+               "url": "https://programmerclick.com/article/19911565226/"
+            }, {
+               "date_added": "13299577651551973",
+               "guid": "e1cc8e54-d36b-4bbc-86d2-759737d3d2f4",
+               "id": "285",
+               "name": "How to find and remove broken symlinks on Linux",
+               "type": "url",
+               "url": "https://www.networkworld.com/article/3546252/how-to-find-and-remove-broken-symlinks-on-linux.html"
+            } ],
+            "date_added": "13299532605842689",
+            "date_modified": "13299577662163483",
+            "guid": "6fd3cc38-1d1a-4b44-9ee1-ef2ad881454b",
+            "id": "45",
+            "name": "Linux / Fedora",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13297000364000000",
+               "guid": "84d2d927-437b-4ea6-a058-94ba869b4e08",
+               "id": "126",
+               "name": "DevDocs",
+               "type": "url",
+               "url": "https://devdocs.io/"
+            }, {
+               "date_added": "13298350722000000",
+               "guid": "ee7b6301-f0b1-4d87-9ffa-63370c2a35ad",
+               "id": "127",
+               "name": "Regular Expression Reference",
+               "type": "url",
+               "url": "https://www.araxis.com/merge/documentation-os-x/regular-expression-reference.en"
+            }, {
+               "date_added": "13298745425000000",
+               "guid": "565b1d2f-73b7-4f48-a419-bb3b15048a8f",
+               "id": "128",
+               "name": "brandon_wallace - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/brandonwallace"
+            }, {
+               "children": [ {
+                  "date_added": "13297324043000000",
+                  "guid": "9527d6b0-f4ab-4c18-b781-4844aeeeb2d7",
+                  "id": "130",
+                  "name": "Create React App",
+                  "type": "url",
+                  "url": "https://create-react-app.dev/"
+               }, {
+                  "date_added": "13298301008000000",
+                  "guid": "cf48906d-2a59-445c-bfe3-229cc4d2409d",
+                  "id": "131",
+                  "name": "TypeScript: Documentation - JSX",
+                  "type": "url",
+                  "url": "https://www.typescriptlang.org/docs/handbook/jsx.html"
+               }, {
+                  "date_added": "13298345005000000",
+                  "guid": "d4127979-bea4-4a21-8060-43f1c3e4da0c",
+                  "id": "132",
+                  "name": "Typescript React Grid Areas",
+                  "type": "url",
+                  "url": "https://ncrmro.com/posts/typescript-react-grid-areas"
+               }, {
+                  "date_added": "13298368766000000",
+                  "guid": "fa1d83b9-9a03-445e-add7-83ae0de8aca6",
+                  "id": "133",
+                  "name": "Getting Started | Create React App",
+                  "type": "url",
+                  "url": "https://create-react-app.dev/docs/getting-started/"
+               } ],
+               "date_added": "13299532605847414",
+               "date_modified": "0",
+               "guid": "a8e066c3-d15d-462a-8840-fd61da6bbeb6",
+               "id": "129",
+               "name": "React / Js/ Ts",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13298344560000000",
+                  "guid": "158d27fc-a952-4037-9a8f-d78bcac6e689",
+                  "id": "135",
+                  "name": "grid-template-areas - CSS: Cascading Style Sheets | MDN",
+                  "type": "url",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas"
+               } ],
+               "date_added": "13299532605847661",
+               "date_modified": "0",
+               "guid": "252d7cb1-842e-411d-a061-9f13bb180454",
+               "id": "134",
+               "name": "CSS / SCSS",
+               "type": "folder"
+            }, {
+               "date_added": "13294763035000000",
+               "guid": "fd701a63-04fc-4128-894f-f39627c37fe5",
+               "id": "136",
+               "name": "Extensiones de Visual Studio Code QUE DEBES INSTALAR ahora mismo - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BO-nhyqpm7A"
+            }, {
+               "date_added": "13294763046000000",
+               "guid": "ca5b37e0-3d56-43ac-a2d7-1cae97f7b85a",
+               "id": "137",
+               "name": "🏆Los 5 mejores TRUCOS [poco conocidos] para VSCODE usado por PROFESIONALES (2021) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZYSUN99taBo"
+            }, {
+               "date_added": "13294763053000000",
+               "guid": "ea268365-913a-4e60-816b-40c9799a322f",
+               "id": "138",
+               "name": "Extensiones de VS Code que NECESITAS PROBAR ¡YA! 📝 Mi Top 10 mejores plugins para Visual Studio Code - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YrcZGpbA5aU"
+            }, {
+               "date_added": "13294730743000000",
+               "guid": "8b17f70c-f547-472a-b4c1-06c1c587fa26",
+               "id": "139",
+               "name": "LeetCode - The World's Leading Online Programming Learning Platform",
+               "type": "url",
+               "url": "https://leetcode.com/"
+            }, {
+               "date_added": "13294730735000000",
+               "guid": "51bebfa1-af55-4a7e-acdd-af5044150dea",
+               "id": "140",
+               "name": "HiredInTech's Training Camp for Coding Interviews",
+               "type": "url",
+               "url": "https://www.hiredintech.com/courses/system-design"
+            }, {
+               "date_added": "13294834511000000",
+               "guid": "7e62404f-cfc3-48de-8e33-1226c90caa5a",
+               "id": "141",
+               "name": "Dashboard | HackerRank",
+               "type": "url",
+               "url": "https://www.hackerrank.com/dashboard"
+            } ],
+            "date_added": "13299532605846098",
+            "date_modified": "0",
+            "guid": "d655b123-0640-4fb8-9982-926924bebb9f",
+            "id": "125",
+            "name": "Develop",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13248371473000000",
+                  "guid": "a7e9e5af-f770-4dee-9b99-e1bafaaf9814",
+                  "id": "144",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://mail.google.com/mail/u/0/#inbox"
+               }, {
+                  "date_added": "13294632239000000",
+                  "guid": "82967299-996a-459b-bd12-8abbbc012e5a",
+                  "id": "145",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://www.linkedin.com/in/francisco-mendoza-045392203/"
+               }, {
+                  "date_added": "13290562997000000",
+                  "guid": "f2e6632d-4fea-4cdf-8f0e-680106338d02",
+                  "id": "146",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://www.facebook.com/"
+               }, {
+                  "date_added": "13294747942000000",
+                  "guid": "0794767b-132f-4feb-860d-ef121cf765af",
+                  "id": "147",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://github.com/"
+               }, {
+                  "date_added": "13282921792000000",
+                  "guid": "2209c893-96d6-4d93-bb6b-5da2845169fe",
+                  "id": "148",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://youtube.com/"
+               }, {
+                  "date_added": "13296997637000000",
+                  "guid": "105ef93f-13d6-485b-b85e-285535c5051f",
+                  "id": "149",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://www.instagram.com/"
+               }, {
+                  "date_added": "13297023052000000",
+                  "guid": "f9f42c40-2da8-49d5-aff7-7504ae622293",
+                  "id": "150",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://translate.google.com/"
+               }, {
+                  "date_added": "13297099916000000",
+                  "guid": "3e333149-65ed-4efb-ab84-9a42c643caff",
+                  "id": "151",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://pnpm.io/"
+               }, {
+                  "children": [ {
+                     "date_added": "13183197596000000",
+                     "guid": "cd53a7fb-2567-47f2-a2c5-286809145aad",
+                     "id": "153",
+                     "name": "(51) Tutorial como usar Workbench, crear diagramas, tablas, relaciones y manipular registros - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=j8zYIpFSjFE"
+                  }, {
+                     "date_added": "13186103296000000",
+                     "guid": "116f5c36-38e9-4bd5-b9d9-ad7f0316252d",
+                     "id": "154",
+                     "name": "(78) RJ Code Advance - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/channel/UCEQlGiXhpdO4Qhn0sPviagg/videos"
+                  }, {
+                     "date_added": "13296804250000000",
+                     "guid": "bea1b763-ceb7-4a67-b298-f9e5ab88eca4",
+                     "id": "155",
+                     "name": "Install Yarn [ UPDATED 2022 ] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=mWC5M1F2hiE&t=12s"
+                  }, {
+                     "date_added": "13296850919000000",
+                     "guid": "e9c258b4-b717-46e3-8083-0eb9fb070504",
+                     "id": "156",
+                     "name": "DOCKER 2021 - De NOVATO a PRO! (CURSO COMPLETO) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=CV_Uf3Dq-EU"
+                  }, {
+                     "date_added": "13296995833000000",
+                     "guid": "adb9f37d-cb08-4d67-a3ce-94c3f1f6208a",
+                     "id": "157",
+                     "name": "Qué es Redux ? Qué es Context ? cúando y cómo usar cada uno con CRUD de ejemplo a una API en ReactJS - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=BqbvcoOWwfg"
+                  }, {
+                     "date_added": "13296995887000000",
+                     "guid": "f89ccd95-d7f0-477c-8b80-f346f03d29ef",
+                     "id": "158",
+                     "name": "Al fin SQL Nativo para la NUBE? - CockroachDB - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=wUaGyUpyE2E"
+                  }, {
+                     "date_added": "13296999747000000",
+                     "guid": "ab67ecca-5005-4736-820c-4533f236c513",
+                     "id": "159",
+                     "name": "📘 CURSO REACT NATIVE desde CERO - Creamos una app paso a paso - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=qi87b6VcIHY"
+                  }, {
+                     "date_added": "13297001365000000",
+                     "guid": "04d09796-49b6-432e-9583-d8af364e3fc1",
+                     "id": "160",
+                     "name": "Nodejs Curso Desde Cero, para principiantes - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=BhvLIzVL8_o"
+                  }, {
+                     "date_added": "13297003920000000",
+                     "guid": "461099fa-84b3-4aa6-af92-275ac9abe34d",
+                     "id": "161",
+                     "name": "Curso REACT JS ⚛️ - Aprende desde CERO 📈 Componentes, State, JSX (Tutorial Desde Cero en Español) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=T_j60n1zgu0"
+                  }, {
+                     "date_added": "13297019564000000",
+                     "guid": "d76094b7-6786-4b6d-a930-8597206372dd",
+                     "id": "162",
+                     "name": "(1) 🛒 MEJORA tu tienda online con RECOMENDACIONES de Machine Learning como hace AMAZON usando Algolia - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=V1ywswInv0s"
+                  }, {
+                     "date_added": "13297019581000000",
+                     "guid": "e6d2df96-6d6e-4913-bfc8-6085720b1d54",
+                     "id": "163",
+                     "name": "WEBPACK 5 - ¡Curso práctico DESDE CERO! 📦 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=FMNuTj89RzU"
+                  }, {
+                     "date_added": "13297019591000000",
+                     "guid": "0bf0546b-64e9-4a8c-94b5-47fa41fc3b25",
+                     "id": "164",
+                     "name": "💅 Introducción a Styled Components. ¡Estilar tu aplicación de React! ⚛️ - FullStack Bootcamp - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=LoTUrtvZQhQ"
+                  }, {
+                     "date_added": "13297019603000000",
+                     "guid": "d8adc671-987d-4047-9c83-0f2a1b135bda",
+                     "id": "165",
+                     "name": "🤩 Usa Material UI en tu aplicación de React ⚛️ - FullStack Bootcamp JavaScript - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=8-sn405JX1Q"
+                  }, {
+                     "date_added": "13297019647000000",
+                     "guid": "9bc25141-2de2-4a93-b0ec-1dd372fa01e1",
+                     "id": "166",
+                     "name": "📚 GitHub Actions TUTORIAL Desde Cero - Integración continua (CI/CD) gratis y fácil 🚀 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=sIhm4YOMK6Q&t=586s"
+                  }, {
+                     "date_added": "13297019827000000",
+                     "guid": "2776a950-11c9-4154-b5eb-a128c508675d",
+                     "id": "167",
+                     "name": "(1) TESTING en REACT 🧪 ¡Aprende DESDE CERO! Con react-testing-library y Jest (FullStack Bootcamp JS) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=KYjjtRgg_H0"
+                  }, {
+                     "date_added": "13297026269000000",
+                     "guid": "09a83c33-b053-40ac-917a-0ccdf65656fd",
+                     "id": "168",
+                     "name": "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=GDa8kZLNhJ4"
+                  }, {
+                     "date_added": "13297028465000000",
+                     "guid": "0565b29a-b75a-4f7d-aa64-311197026c3b",
+                     "id": "169",
+                     "name": "#8 Adding Bookings | Build a Complete App with GraphQL, Node.js, MongoDB and React.js - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=WcyYYD5xkuQ"
+                  }, {
+                     "date_added": "13297030225000000",
+                     "guid": "7a2b4e80-76b8-4418-88b8-508225144913",
+                     "id": "170",
+                     "name": "Haciendo un Portfolio Web en ReactJs - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=-pm-qPqNqgY"
+                  }, {
+                     "date_added": "13297031125000000",
+                     "guid": "5631bfa4-fb8f-41a9-973e-95a94b669491",
+                     "id": "171",
+                     "name": "How To Make an Appointment Booking Website - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=70JwyYSosX0"
+                  }, {
+                     "date_added": "13297031647000000",
+                     "guid": "65fab1c7-94d3-4aaf-9576-f2f6eee5d4f7",
+                     "id": "172",
+                     "name": "bradtraversy (Brad Traversy)",
+                     "type": "url",
+                     "url": "https://github.com/bradtraversy"
+                  }, {
+                     "date_added": "13297367144000000",
+                     "guid": "6dc2ec4d-0a50-4f0d-bbbb-c561c77152f0",
+                     "id": "173",
+                     "name": "ShaifArfan/react-todo-app: A complete Todo application with all features.",
+                     "type": "url",
+                     "url": "https://github.com/ShaifArfan/react-todo-app"
+                  }, {
+                     "date_added": "13297368216000000",
+                     "guid": "1f6e1313-eea8-4d61-8a7f-f41b7d0b1dd5",
+                     "id": "174",
+                     "name": "WEB CIFAR - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/c/WEBCIFAROfficial/videos"
+                  }, {
+                     "date_added": "13297376150000000",
+                     "guid": "3c18e241-6184-4272-a278-bc810573d916",
+                     "id": "175",
+                     "name": "serverless-components/fullstack-app: ⚡ Ready-to-use, serverless, full-stack application built with AWS Lambda, Express.js, React, AWS DynamoDB and AWS HTTP API.",
+                     "type": "url",
+                     "url": "https://github.com/serverless-components/fullstack-app"
+                  }, {
+                     "date_added": "13297537080000000",
+                     "guid": "7bf5a9a7-ef38-49c5-b312-94dc1ad03843",
+                     "id": "176",
+                     "name": "eduardofierropro (Eduardo Fierro Pro) / Repositories",
+                     "type": "url",
+                     "url": "https://github.com/eduardofierropro?tab=repositories"
+                  }, {
+                     "date_added": "13298699484000000",
+                     "guid": "a050f76e-da1b-406a-9914-852bfcdbaac6",
+                     "id": "177",
+                     "name": "Búsquedas en YouTube: once comandos para filtrar y afinar tus resultados",
+                     "type": "url",
+                     "url": "https://www.xataka.com/basics/busquedas-en-youtube-once-comandos-para-filtrar-y-afinar-tus-resultados"
+                  }, {
+                     "date_added": "13298700365000000",
+                     "guid": "0c66e860-cb25-4a36-a6c4-073fe61a183f",
+                     "id": "178",
+                     "name": "Cómo buscar en YouTube como un profesional con operadores de búsqueda avanzada » Juega Gamer",
+                     "type": "url",
+                     "url": "https://juegagamer.com/como-buscar-en-youtube-como-un-profesional-con-operadores-de-busqueda-avanzada/"
+                  } ],
+                  "date_added": "13299532651675678",
+                  "date_modified": "0",
+                  "guid": "be307efa-7b9d-42a1-b1ed-3598e759b3ac",
+                  "id": "152",
+                  "name": "tutorials",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13294730723000000",
+                     "guid": "55c75ad5-7b2b-4a8b-bec6-d58118efc2d4",
+                     "id": "180",
+                     "name": "Home | Educative",
+                     "type": "url",
+                     "url": "https://www.educative.io/explore"
+                  } ],
+                  "date_added": "13299532651676513",
+                  "date_modified": "0",
+                  "guid": "ebd7b844-a377-44a9-8bf6-4353e1ce0017",
+                  "id": "179",
+                  "name": "To do",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13294772185000000",
+                     "guid": "dee476ce-dd39-4578-9fac-ff6c613c65b1",
+                     "id": "182",
+                     "name": "Colorado River Maquila Ingeniero de Sistemas - en Tlalnepantla Estado de Mxico",
+                     "type": "url",
+                     "url": "https://mx.fidanto.com/empleos/vacante/engineers-all-other/ingeniero-de-sistemas-en-tlalnepantla-estado-de-mxico-404082574?redirect"
+                  }, {
+                     "date_added": "13294778621000000",
+                     "guid": "96ab8b6c-d3e8-410e-8bfd-95046a695170",
+                     "id": "183",
+                     "name": "Enumerable.Average Method (System.Linq) | Microsoft Docs",
+                     "type": "url",
+                     "url": "https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable.average?view=net-6.0"
+                  } ],
+                  "date_added": "13299532651676555",
+                  "date_modified": "0",
+                  "guid": "0ee50984-67fd-4e2c-be82-fec07b02900a",
+                  "id": "181",
+                  "name": "Work",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13298262001000000",
+                        "guid": "68cdd836-0bc7-40b1-a4f4-9d644934f19b",
+                        "id": "186",
+                        "name": "DNF System Upgrade :: Fedora Docs",
+                        "type": "url",
+                        "url": "https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/"
+                     }, {
+                        "date_added": "13299055368000000",
+                        "guid": "924d9320-3f54-4b1d-8cce-cb731a4a40b4",
+                        "id": "187",
+                        "name": "Adding or removing software repositories in Fedora :: Fedora Docs",
+                        "type": "url",
+                        "url": "https://docs.fedoraproject.org/en-US/quick-docs/adding-or-removing-software-repositories-in-fedora/"
+                     } ],
+                     "date_added": "13299532651676664",
+                     "date_modified": "0",
+                     "guid": "62a46c7a-def6-4932-97df-a7d702206382",
+                     "id": "185",
+                     "name": "DNF",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "children": [ {
+                           "date_added": "13298763804000000",
+                           "guid": "5b910c82-d0c8-488c-8efa-b049a0b328ee",
+                           "id": "190",
+                           "name": "A cat(1) clone with syntax highlighting and Git integration. | RustRepo",
+                           "type": "url",
+                           "url": "https://rustrepo.com/repo/sharkdp-bat-rust-command-line"
+                        }, {
+                           "date_added": "13299062323000000",
+                           "guid": "d37a3eb6-7635-4716-94c3-678f97f24622",
+                           "id": "191",
+                           "name": "sharkdp/bat: A cat(1) clone with wings.",
+                           "type": "url",
+                           "url": "https://github.com/sharkdp/bat"
+                        } ],
+                        "date_added": "13299532651685853",
+                        "date_modified": "0",
+                        "guid": "6b4d7e56-e791-4357-b481-5be5885102a0",
+                        "id": "189",
+                        "name": "Bat",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13298384613000000",
+                           "guid": "352c24ac-7434-44ab-b4c2-ee52d6a78708",
+                           "id": "193",
+                           "name": "junegunn/fzf: A command-line fuzzy finder",
+                           "type": "url",
+                           "url": "https://github.com/junegunn/fzf#installation"
+                        }, {
+                           "date_added": "13299155774000000",
+                           "guid": "76e03566-12ac-4273-92e5-851e0a8742a1",
+                           "id": "194",
+                           "name": "fzf is a general-purpose command-line fuzzy finder",
+                           "type": "url",
+                           "url": "https://curatedgo.com/r/fzf-is-a-junegunnfzf/index.html"
+                        }, {
+                           "date_added": "13299163951000000",
+                           "guid": "a7de6f05-bc6b-4fa9-b98d-1fac896dc35e",
+                           "id": "195",
+                           "name": "Interactively preview files with fzf and bat in the terminal | egghead.io",
+                           "type": "url",
+                           "url": "https://egghead.io/lessons/egghead-interactively-preview-files-with-fzf-and-bat-in-the-terminal"
+                        }, {
+                           "date_added": "13299163981000000",
+                           "guid": "0bab36cc-3bf7-485f-919a-90de7d8c8429",
+                           "id": "196",
+                           "name": "Interactively Find Anything By Piping it to fzf in the terminal | egghead.io",
+                           "type": "url",
+                           "url": "https://egghead.io/lessons/bash-interactively-find-anything-by-piping-it-to-fzf-in-the-terminal"
+                        }, {
+                           "date_added": "13299164644000000",
+                           "guid": "92acdef2-396d-453f-b7de-af818adec146",
+                           "id": "197",
+                           "name": "fzf man page - General Commands | ManKier",
+                           "type": "url",
+                           "url": "https://www.mankier.com/1/fzf"
+                        }, {
+                           "date_added": "13299164923000000",
+                           "guid": "53ae3b19-9870-4770-a55f-e2d700e7e592",
+                           "id": "198",
+                           "name": "Why you should be using fzf, the command line fuzzy finder",
+                           "type": "url",
+                           "url": "https://www.freecodecamp.org/news/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff/"
+                        }, {
+                           "date_added": "13299060117000000",
+                           "guid": "fbc66bbe-adbc-48c4-861b-71a9cdf08179",
+                           "id": "199",
+                           "name": "junegunn/fzf: A command-line fuzzy finder",
+                           "type": "url",
+                           "url": "https://github.com/junegunn/fzf"
+                        } ],
+                        "date_added": "13299532651686025",
+                        "date_modified": "0",
+                        "guid": "1cfc6e4d-d5a4-476a-b0f2-e2bfdf99a413",
+                        "id": "192",
+                        "name": "Fzf",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13298720901000000",
+                           "guid": "6de5d129-898b-410e-9d2f-12965588c430",
+                           "id": "201",
+                           "name": "amix/vimrc: The ultimate Vim configuration (vimrc)",
+                           "type": "url",
+                           "url": "https://github.com/amix/vimrc"
+                        }, {
+                           "date_added": "13298728782000000",
+                           "guid": "24147b59-8ffc-4690-8ceb-f2542af63371",
+                           "id": "202",
+                           "name": "How to Copy, Cut and Paste in Vim / Vi | Linuxize",
+                           "type": "url",
+                           "url": "https://linuxize.com/post/how-to-copy-cut-paste-in-vim/"
+                        }, {
+                           "date_added": "13298546932000000",
+                           "guid": "2e49ec2f-d6e6-449f-bc6b-a658b9da9a27",
+                           "id": "203",
+                           "name": "Mastering Vim Commands: The Ultimate List - Design Bombs",
+                           "type": "url",
+                           "url": "https://www.designbombs.com/mastering-vim-commands-the-ultimate-list/"
+                        }, {
+                           "date_added": "13298730088000000",
+                           "guid": "cde47248-ab30-476e-88e5-c18b80db001a",
+                           "id": "204",
+                           "name": "Multiple cursors support · neoclide/coc.nvim Wiki",
+                           "type": "url",
+                           "url": "https://github.com/neoclide/coc.nvim/wiki/Multiple-cursors-support"
+                        }, {
+                           "date_added": "13299090077000000",
+                           "guid": "749022a5-031f-41ef-b21b-00cecbb6a91b",
+                           "id": "205",
+                           "name": "nvim-lua/plenary.nvim: plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.",
+                           "type": "url",
+                           "url": "https://github.com/nvim-lua/plenary.nvim"
+                        }, {
+                           "date_added": "13299105164000000",
+                           "guid": "090e15d9-f760-46a3-b51b-f37d2faef6cb",
+                           "id": "206",
+                           "name": "preservim/vim-markdown: Markdown Vim Mode",
+                           "type": "url",
+                           "url": "https://github.com/preservim/vim-markdown"
+                        }, {
+                           "date_added": "13299161684000000",
+                           "guid": "61ae5deb-3bd2-456c-a846-3dab8233c375",
+                           "id": "207",
+                           "name": "sampson-chen/sack: s(hortcut)-ack: a faster way to use ag, ack (or grep)!",
+                           "type": "url",
+                           "url": "https://github.com/sampson-chen/sack"
+                        }, {
+                           "date_added": "13299071054000000",
+                           "guid": "4f6d41cd-fbb1-4f92-8df6-f9ad53af2b97",
+                           "id": "208",
+                           "name": "shashinvision/vimrc",
+                           "type": "url",
+                           "url": "https://github.com/shashinvision/vimrc"
+                        }, {
+                           "date_added": "13298720894000000",
+                           "guid": "81e3bc84-4f09-41cf-9a11-97628f984450",
+                           "id": "209",
+                           "name": "tpope/vim-dispatch: dispatch.vim: Asynchronous build and test dispatcher",
+                           "type": "url",
+                           "url": "https://github.com/tpope/vim-dispatch"
+                        }, {
+                           "date_added": "13298727172000000",
+                           "guid": "dc935149-0a22-4fe8-8954-bf07dcb74b5b",
+                           "id": "210",
+                           "name": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More",
+                           "type": "url",
+                           "url": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"
+                        }, {
+                           "date_added": "13298729731000000",
+                           "guid": "40248b7a-f518-45ac-96ee-a36ad6388d49",
+                           "id": "211",
+                           "name": "You don’t need more than one cursor in vim | by Christoph Hermann | Medium",
+                           "type": "url",
+                           "url": "https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db"
+                        } ],
+                        "date_added": "13299532651686319",
+                        "date_modified": "0",
+                        "guid": "a8446fad-5b84-402f-9b09-517c4584bfec",
+                        "id": "200",
+                        "name": "Vim",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13299060946000000",
+                           "guid": "17f21892-24cb-4d40-a88d-e675f02376af",
+                           "id": "213",
+                           "name": "ohmyzsh/ohmyzsh: 🙃 A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+                           "type": "url",
+                           "url": "https://github.com/ohmyzsh/ohmyzsh"
+                        } ],
+                        "date_added": "13299532651686840",
+                        "date_modified": "0",
+                        "guid": "c880bc9f-c131-4b6f-b51a-504fe3b71eb2",
+                        "id": "212",
+                        "name": "Zsh",
+                        "type": "folder"
+                     }, {
+                        "children": [ {
+                           "date_added": "13299086157000000",
+                           "guid": "851ccff5-8daf-43cb-8bfa-1378052144b7",
+                           "id": "215",
+                           "name": "even better ls",
+                           "type": "url",
+                           "url": "https://github.com/n0nvme"
+                        }, {
+                           "date_added": "13299085068000000",
+                           "guid": "3877bf50-f798-40c3-91cb-4a1498ec058b",
+                           "id": "216",
+                           "name": "mnurzia/even-better-ls: LS + Icons + Formatting",
+                           "type": "url",
+                           "url": "https://github.com/mnurzia/even-better-ls"
+                        }, {
+                           "date_added": "13299062371000000",
+                           "guid": "f4d0f304-92fe-427b-9310-17e145c01c90",
+                           "id": "217",
+                           "name": "Peltoche/lsd: The next gen ls command",
+                           "type": "url",
+                           "url": "https://github.com/Peltoche/lsd"
+                        } ],
+                        "date_added": "13299532651686951",
+                        "date_modified": "0",
+                        "guid": "686c1e15-56c1-420b-b885-1e89417383ca",
+                        "id": "214",
+                        "name": "LSD",
+                        "type": "folder"
+                     }, {
+                        "date_added": "13299073220000000",
+                        "guid": "e1d1d1d2-595a-449f-b41c-82d52c00cca7",
+                        "id": "218",
+                        "name": "Trending vim color schemes | vimcolorschemes",
+                        "type": "url",
+                        "url": "https://vimcolorschemes.com/"
+                     }, {
+                        "date_added": "13299319788000000",
+                        "guid": "c24411c9-2a96-417d-a8dd-4ed6e4229b34",
+                        "id": "219",
+                        "name": "Airblader/i3: A fork of the i3 window manager with gaps and some other features",
+                        "type": "url",
+                        "url": "https://github.com/Airblader/i3"
+                     }, {
+                        "date_added": "13299445446000000",
+                        "guid": "6bfad296-e8f3-4cf1-86b7-b8de8f388296",
+                        "id": "220",
+                        "name": "Tilix: FAQ",
+                        "type": "url",
+                        "url": "https://gnunn1.github.io/tilix-web/faq"
+                     }, {
+                        "date_added": "13299526751000000",
+                        "guid": "8a51d0b9-bb0f-495a-9448-0e964a6a8054",
+                        "id": "221",
+                        "name": "Find and Replace in Vim / Vi | Linuxize",
+                        "type": "url",
+                        "url": "https://linuxize.com/post/vim-find-replace/#:~:text=quick%20and%20easy.-,Basic%20Find%20and%20Replace,press%20the%20'Esc'%20key."
+                     }, {
+                        "date_added": "13299527140000000",
+                        "guid": "856d545e-7f75-468a-bb17-a2c548b4a3cf",
+                        "id": "222",
+                        "name": "Find and Replace in Vim / Vi | Linuxize",
+                        "type": "url",
+                        "url": "https://linuxize.com/post/vim-find-replace/#examples"
+                     }, {
+                        "date_added": "13299530738000000",
+                        "guid": "e0b1d3bd-10a7-402e-b548-489d97f91c51",
+                        "id": "223",
+                        "name": "[PDF] Este obra está bajo una licencia de Creative Commons Reconocimiento-NoComercial 3.0 España. - Free Download PDF",
+                        "type": "url",
+                        "url": "https://silo.tips/download/este-obra-esta-bajo-una-licencia-de-creative-commons-reconocimiento-nocomercial--5"
+                     } ],
+                     "date_added": "13299532651676745",
+                     "date_modified": "0",
+                     "guid": "40038238-6626-472f-b682-ad5b3f538632",
+                     "id": "188",
+                     "name": "Zsh / Vim / Fzf / Sh",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13299315258000000",
+                        "guid": "374b49b4-a4ed-40ba-9bd7-d00997c1533f",
+                        "id": "225",
+                        "name": "Setting up i3 on Fedora | LinuxBlog.xyz",
+                        "type": "url",
+                        "url": "https://linuxblog.xyz/posts/i3wm/"
+                     }, {
+                        "date_added": "13299340237000000",
+                        "guid": "43dc3496-a7fd-4ce1-8fdf-815216ac49c7",
+                        "id": "226",
+                        "name": "polybar/polybar: A fast and easy-to-use status bar",
+                        "type": "url",
+                        "url": "https://github.com/polybar/polybar"
+                     }, {
+                        "date_added": "13299340436000000",
+                        "guid": "50b82cdb-a0ee-42ec-82bb-7fc5e799c5dd",
+                        "id": "227",
+                        "name": "stav121/i3wm-themer: 🎨 Theme collection manager for i3-wm",
+                        "type": "url",
+                        "url": "https://github.com/stav121/i3wm-themer"
+                     }, {
+                        "date_added": "13299340466000000",
+                        "guid": "7de392c2-11d4-45fd-aeca-5180db97075a",
+                        "id": "228",
+                        "name": "davatorium/rofi: Rofi: A window switcher, application launcher and dmenu replacement",
+                        "type": "url",
+                        "url": "https://github.com/davatorium/rofi"
+                     }, {
+                        "date_added": "13299340842000000",
+                        "guid": "2c875fb8-8cda-4e3d-a143-00d4653ff28f",
+                        "id": "229",
+                        "name": "rofi/INSTALL.md at next · davatorium/rofi",
+                        "type": "url",
+                        "url": "https://github.com/davatorium/rofi/blob/next/INSTALL.md"
+                     }, {
+                        "date_added": "13299342664000000",
+                        "guid": "8072b979-32eb-400f-b072-48f0f4a28a81",
+                        "id": "230",
+                        "name": "Release Roman fonts version 2.038, Italic fonts version 1.058 and VAR fonts version 1.018 (OTF, TTF, WOFF, WOFF2) · adobe-fonts/source-code-pro",
+                        "type": "url",
+                        "url": "https://github.com/adobe-fonts/source-code-pro/releases/tag/2.038R-ro/1.058R-it/1.018R-VAR"
+                     }, {
+                        "date_added": "13299342718000000",
+                        "guid": "dcd40a07-a885-4cbc-8a97-b01e0aa39706",
+                        "id": "231",
+                        "name": "Overview - rpms/rxvt-unicode - src.fedoraproject.org",
+                        "type": "url",
+                        "url": "https://src.fedoraproject.org/rpms/rxvt-unicode"
+                     }, {
+                        "date_added": "13299342887000000",
+                        "guid": "553de986-f348-4bbc-ad9c-f69bfb3f89a0",
+                        "id": "232",
+                        "name": "How to install or uninstall \"alsa-utils.x86_64\" on Fedora 36 ?",
+                        "type": "url",
+                        "url": "https://linux-packages.com/fedora-36/package/alsa-utilsx86-64"
+                     }, {
+                        "date_added": "13299407058000000",
+                        "guid": "ae599068-94b3-4589-b362-ae311fb75b05",
+                        "id": "233",
+                        "name": "i3: i3 User’s Guide",
+                        "type": "url",
+                        "url": "https://i3wm.org/docs/userguide.html#_binding_mode_indicator"
+                     }, {
+                        "date_added": "13299407440000000",
+                        "guid": "40ab97f3-1f2b-4dd3-ba9c-6988d4d4f8ca",
+                        "id": "234",
+                        "name": "Fedora i3 Spin",
+                        "type": "url",
+                        "url": "https://spins.fedoraproject.org/es/i3/"
+                     }, {
+                        "date_added": "13299410641000000",
+                        "guid": "e5b89ad4-3361-49bc-9bd6-2d67478ce6d6",
+                        "id": "235",
+                        "name": "(2) Instalar y configurar a tope i3wm - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=Bw5sDLOvN20&t=1431s"
+                     }, {
+                        "date_added": "13299412416000000",
+                        "guid": "11e14d7d-ada0-4f83-b4d3-00f085388385",
+                        "id": "236",
+                        "name": "(2) Como instalar y configuar Polybar - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=mRY5qisOBhk"
+                     }, {
+                        "date_added": "13299412780000000",
+                        "guid": "ca4cf196-d769-479c-95c7-d4113a267d2a",
+                        "id": "237",
+                        "name": "i3",
+                        "type": "url",
+                        "url": "https://atareao.es/tutorial/bspwm/una-barra-de-estado-para-bspwm/"
+                     }, {
+                        "date_added": "13299418143000000",
+                        "guid": "b5215dc8-5870-4254-ad7c-4df1fa2b697f",
+                        "id": "238",
+                        "name": "adi1090x/polybar-themes: A huge collection of polybar themes with different styles, colors and variants.",
+                        "type": "url",
+                        "url": "https://github.com/adi1090x/polybar-themes"
+                     }, {
+                        "date_added": "13299427444000000",
+                        "guid": "bd1e2be1-5f25-4a6f-8585-f4d1e40bfd11",
+                        "id": "239",
+                        "name": "Matthew Weber / Suckless Utils · GitLab",
+                        "type": "url",
+                        "url": "https://gitlab.com/thelinuxcast/suckless-utils"
+                     } ],
+                     "date_added": "13299532651687391",
+                     "date_modified": "0",
+                     "guid": "b56bec8b-e32e-4cf2-854c-b3d57cb77efd",
+                     "id": "224",
+                     "name": "i3",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13298907337000000",
+                     "guid": "3493cf5b-1b3e-4201-80bd-b57c97ae0f5b",
+                     "id": "240",
+                     "name": "Fedora 36 After Install Guide – Hacking The Hike",
+                     "type": "url",
+                     "url": "https://www.hackingthehike.com/2022/05/03/fedora-36-after-install-guide/"
+                  }, {
+                     "date_added": "13299034972000000",
+                     "guid": "96ea44bf-668a-4516-b15a-f775f46a7ac1",
+                     "id": "241",
+                     "name": "Fedora Archives - Page 3 of 13 - LinuxCapable",
+                     "type": "url",
+                     "url": "https://www.linuxcapable.com/fedora/page/3/"
+                  }, {
+                     "date_added": "13298244614000000",
+                     "guid": "d3264a85-c571-47e7-bc43-99f5c52c6e63",
+                     "id": "242",
+                     "name": "Fedora Quick Docs :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/quick-docs/"
+                  }, {
+                     "date_added": "13298536483000000",
+                     "guid": "bf67bb01-128e-4f7e-a04c-043359c675ae",
+                     "id": "243",
+                     "name": "Fedora Workstation: Things to do after installation (Apps, Settings, and Tweaks) | mutschler.dev",
+                     "type": "url",
+                     "url": "https://mutschler.dev/linux/fedora-post-install/"
+                  }, {
+                     "date_added": "13298909023000000",
+                     "guid": "0c9aa10b-16cf-44ba-a7fa-5c75b76a8ea8",
+                     "id": "244",
+                     "name": "How to Install and Enable EPEL Repository on RHEL Systems",
+                     "type": "url",
+                     "url": "https://www.tecmint.com/install-epel-repository-on-centos/"
+                  }, {
+                     "date_added": "13298250883000000",
+                     "guid": "1522590d-6e38-420d-9a6d-ebaf5727b959",
+                     "id": "245",
+                     "name": "Installing MySQL/MariaDB :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/"
+                  }, {
+                     "date_added": "13298546892000000",
+                     "guid": "dce5d382-9729-4253-b65c-e27b512b6890",
+                     "id": "246",
+                     "name": "Search for ~ (tilde) in vim - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/46091596/search-for-tilde-in-vim"
+                  }, {
+                     "date_added": "13298908317000000",
+                     "guid": "b60f45dc-e84e-4e8d-9a3d-b24ef5bb463d",
+                     "id": "247",
+                     "name": "This system is registered with an entitlement server, but is not receiving updates. You can use subscription-manager to assign subscriptions - Linux - nixCraft Linux/Unix Forum",
+                     "type": "url",
+                     "url": "https://www.nixcraft.com/t/this-system-is-registered-with-an-entitlement-server-but-is-not-receiving-updates-you-can-use-subscription-manager-to-assign-subscriptions/4159/2"
+                  }, {
+                     "date_added": "13299440314000000",
+                     "guid": "572ba6bd-e970-4020-8d9d-6e83dd2e68ad",
+                     "id": "248",
+                     "name": "Rotating screen on Fedora",
+                     "type": "url",
+                     "url": "https://superuser.com/questions/679591/rotating-screen-on-fedora"
+                  }, {
+                     "date_added": "13299441027000000",
+                     "guid": "773e6acb-ca54-4d24-a18b-c4ee11b47dd5",
+                     "id": "249",
+                     "name": "Manual para gestión del software",
+                     "type": "url",
+                     "url": "https://gomix.fedorapeople.org/software-management-guide/f18/html-single/#idp20285712"
+                  }, {
+                     "date_added": "13299441671000000",
+                     "guid": "70c7e5d2-864d-48af-bc12-2d98375816e7",
+                     "id": "250",
+                     "name": "Los comodines en Linux explicados con 10 ejemplos - Aprender Linux",
+                     "type": "url",
+                     "url": "https://aprenderlinux.org/los-comodines-en-linux-explicados-con-10-ejemplos/"
+                  }, {
+                     "date_added": "13299443010000000",
+                     "guid": "efa0b078-a04b-4c84-a6f0-41c146641075",
+                     "id": "251",
+                     "name": "Working with the GRUB 2 Boot Loader :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/kernel-module-driver-configuration/Working_with_the_GRUB_2_Boot_Loader/"
+                  }, {
+                     "date_added": "13299443016000000",
+                     "guid": "c13736ba-fcd4-4a8a-903c-ff113e3bc1b3",
+                     "id": "252",
+                     "name": "Managing Users and Groups :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/basic-system-configuration/Managing_Users_and_Groups/"
+                  }, {
+                     "date_added": "13299443048000000",
+                     "guid": "09784ed2-4341-4f81-8c38-9a1e659d2dc1",
+                     "id": "253",
+                     "name": "Gaining Privileges :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/basic-system-configuration/Gaining_Privileges/"
+                  }, {
+                     "children": [ {
+                        "date_added": "13299453226000000",
+                        "guid": "15ec4fcd-1d72-49cc-a2e6-60dff6fec72f",
+                        "id": "255",
+                        "name": "lcpz/awesome-copycats: Awesome WM themes",
+                        "type": "url",
+                        "url": "https://github.com/lcpz/awesome-copycats"
+                     }, {
+                        "date_added": "13299488249000000",
+                        "guid": "acf9cf07-f1c5-42a9-889b-6563c625f6ae",
+                        "id": "256",
+                        "name": "Awesome Window Manager Setup - YouTube",
+                        "type": "url",
+                        "url": "https://www.youtube.com/watch?v=3VctjbvWJtc&t=369s"
+                     }, {
+                        "date_added": "13299515313000000",
+                        "guid": "5a7531f5-bc05-41f8-a590-73ef65befbf3",
+                        "id": "257",
+                        "name": "Awesome WM - Binding Modules",
+                        "type": "url",
+                        "url": "https://epsi-rns.github.io/desktop/2019/06/18/awesome-modularized-binding.html"
+                     } ],
+                     "date_added": "13299532651690096",
+                     "date_modified": "0",
+                     "guid": "c92d0451-af06-4c13-8a47-550c461a2c16",
+                     "id": "254",
+                     "name": "awesome",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13299489713000000",
+                     "guid": "3b0b4df9-7391-458e-8e46-755e8f80ed50",
+                     "id": "258",
+                     "name": "xrandr - ArchWiki",
+                     "type": "url",
+                     "url": "https://wiki.archlinux.org/title/Xrandr#Testing_configuration"
+                  }, {
+                     "date_added": "13299519874000000",
+                     "guid": "c759dd3d-80ca-4b6e-8c06-5fed9a1aa593",
+                     "id": "259",
+                     "name": "DNF Command Reference — dnf latest documentation",
+                     "type": "url",
+                     "url": "https://dnf.readthedocs.io/en/latest/command_ref.html"
+                  }, {
+                     "date_added": "13299520380000000",
+                     "guid": "1a51b575-a35d-4454-ad60-3b5ec0805fd6",
+                     "id": "260",
+                     "name": "System Monitoring Tools :: Fedora Docs",
+                     "type": "url",
+                     "url": "https://docs.fedoraproject.org/en-US/fedora/latest/system-administrators-guide/monitoring-and-automation/System_Monitoring_Tools/"
+                  }, {
+                     "date_added": "13299521939000000",
+                     "guid": "6ba6692d-6e70-483d-9f4c-4f2917b69ddc",
+                     "id": "261",
+                     "name": "How to work with dnf package groups - Linux Tutorials - Learn Linux Configuration",
+                     "type": "url",
+                     "url": "https://linuxconfig.org/how-to-work-with-dnf-package-groups"
+                  }, {
+                     "date_added": "13299523477000000",
+                     "guid": "1476e455-ccb6-4705-ad12-daa870aa0b9f",
+                     "id": "262",
+                     "name": "DNF Configuration Reference — dnf latest documentation",
+                     "type": "url",
+                     "url": "https://dnf.readthedocs.io/en/latest/conf_ref.html#check-config-file-age-label"
+                  }, {
+                     "date_added": "13299530012000000",
+                     "guid": "7c5292d9-ce87-4296-baba-55ecb6f26c10",
+                     "id": "263",
+                     "name": "[Switch] Guía de expresiones regulares de Linux - programador clic",
+                     "type": "url",
+                     "url": "https://programmerclick.com/article/19911565226/"
+                  } ],
+                  "date_added": "13299532651676649",
+                  "date_modified": "0",
+                  "guid": "86b78202-3e5c-4e5b-b4d0-4f6657413ac1",
+                  "id": "184",
+                  "name": "Linux / Fedora",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13297000364000000",
+                     "guid": "eb97ad1c-3768-4387-8712-bf8d01eed67f",
+                     "id": "265",
+                     "name": "DevDocs",
+                     "type": "url",
+                     "url": "https://devdocs.io/"
+                  }, {
+                     "date_added": "13298350722000000",
+                     "guid": "fb5148f9-561d-497f-893f-1d1bedb1b754",
+                     "id": "266",
+                     "name": "Regular Expression Reference",
+                     "type": "url",
+                     "url": "https://www.araxis.com/merge/documentation-os-x/regular-expression-reference.en"
+                  }, {
+                     "date_added": "13298745425000000",
+                     "guid": "aa9caa7b-4340-4c80-8dfa-3580799580c1",
+                     "id": "267",
+                     "name": "brandon_wallace - DEV Community",
+                     "type": "url",
+                     "url": "https://dev.to/brandonwallace"
+                  }, {
+                     "children": [ {
+                        "date_added": "13297324043000000",
+                        "guid": "8af5b307-eb85-41f8-880f-711e7b530b6d",
+                        "id": "269",
+                        "name": "Create React App",
+                        "type": "url",
+                        "url": "https://create-react-app.dev/"
+                     }, {
+                        "date_added": "13298301008000000",
+                        "guid": "98d66104-d7ea-40af-841e-332d26b998dc",
+                        "id": "270",
+                        "name": "TypeScript: Documentation - JSX",
+                        "type": "url",
+                        "url": "https://www.typescriptlang.org/docs/handbook/jsx.html"
+                     }, {
+                        "date_added": "13298345005000000",
+                        "guid": "fa550d49-072c-404c-8c1f-54f4f8824d74",
+                        "id": "271",
+                        "name": "Typescript React Grid Areas",
+                        "type": "url",
+                        "url": "https://ncrmro.com/posts/typescript-react-grid-areas"
+                     }, {
+                        "date_added": "13298368766000000",
+                        "guid": "329e087c-a8df-48e6-84ad-b0f9ccf8a895",
+                        "id": "272",
+                        "name": "Getting Started | Create React App",
+                        "type": "url",
+                        "url": "https://create-react-app.dev/docs/getting-started/"
+                     } ],
+                     "date_added": "13299532651690583",
+                     "date_modified": "0",
+                     "guid": "2b2b2de4-3b41-4884-9610-97c7c27779f6",
+                     "id": "268",
+                     "name": "React / Js/ Ts",
+                     "type": "folder"
+                  }, {
+                     "children": [ {
+                        "date_added": "13298344560000000",
+                        "guid": "54c56e09-8aac-41a8-848d-6fe5245fbfa8",
+                        "id": "274",
+                        "name": "grid-template-areas - CSS: Cascading Style Sheets | MDN",
+                        "type": "url",
+                        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-areas"
+                     } ],
+                     "date_added": "13299532651690702",
+                     "date_modified": "0",
+                     "guid": "3220cb51-bf73-4261-8b41-57781f6e615f",
+                     "id": "273",
+                     "name": "CSS / SCSS",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13294763035000000",
+                     "guid": "8967a46f-2bbe-43e7-9010-816ee005e766",
+                     "id": "275",
+                     "name": "Extensiones de Visual Studio Code QUE DEBES INSTALAR ahora mismo - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=BO-nhyqpm7A"
+                  }, {
+                     "date_added": "13294763046000000",
+                     "guid": "572f9d48-eb2d-4d2b-9ca7-ec06467b76b3",
+                     "id": "276",
+                     "name": "🏆Los 5 mejores TRUCOS [poco conocidos] para VSCODE usado por PROFESIONALES (2021) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=ZYSUN99taBo"
+                  }, {
+                     "date_added": "13294763053000000",
+                     "guid": "40de72a2-1c37-4ed3-8c0c-b172f1d53adc",
+                     "id": "277",
+                     "name": "Extensiones de VS Code que NECESITAS PROBAR ¡YA! 📝 Mi Top 10 mejores plugins para Visual Studio Code - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=YrcZGpbA5aU"
+                  }, {
+                     "date_added": "13294730743000000",
+                     "guid": "d23ca1d4-366d-40cc-a379-4b282d893340",
+                     "id": "278",
+                     "name": "LeetCode - The World's Leading Online Programming Learning Platform",
+                     "type": "url",
+                     "url": "https://leetcode.com/"
+                  }, {
+                     "date_added": "13294730735000000",
+                     "guid": "cc0fd8ba-e812-4f36-9a8f-0c3914e499a7",
+                     "id": "279",
+                     "name": "HiredInTech's Training Camp for Coding Interviews",
+                     "type": "url",
+                     "url": "https://www.hiredintech.com/courses/system-design"
+                  }, {
+                     "date_added": "13294834511000000",
+                     "guid": "ff6f1f51-1c34-4cf2-b888-5a59eeea2137",
+                     "id": "280",
+                     "name": "Dashboard | HackerRank",
+                     "type": "url",
+                     "url": "https://www.hackerrank.com/dashboard"
+                  } ],
+                  "date_added": "13299532651690489",
+                  "date_modified": "0",
+                  "guid": "1caa0fb2-3a83-40b7-ba9a-bd7d70c47d63",
+                  "id": "264",
+                  "name": "Develop",
+                  "type": "folder"
+               } ],
+               "date_added": "13299532651675437",
+               "date_modified": "0",
+               "guid": "257031a1-5376-4d12-bb48-7d2ea737d650",
+               "id": "143",
+               "name": "Bookmarks bar",
+               "type": "folder"
+            } ],
+            "date_added": "13299532651673698",
+            "date_modified": "13299556977875411",
+            "guid": "34c43845-d2df-4b2a-af9f-1878b4f3370b",
+            "id": "142",
+            "name": "Imported from Chrome",
+            "type": "folder"
+         } ],
+         "date_added": "13299532540360146",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13299619485572428",
+            "guid": "7604cb36-f4e5-45ff-86cc-6b0bfba8cb55",
+            "id": "287",
+            "name": "BIBO 3D printer BIBO2 touch unboxing - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=SBcRNHmQknI"
+         }, {
+            "date_added": "13299736795822191",
+            "guid": "7db207b1-33dc-4e93-a89c-1cbbaecfa662",
+            "id": "292",
+            "name": "23\" Lenovo ThinkVision T2324d - Specifications",
+            "type": "url",
+            "url": "https://www.displayspecifications.com/en/model/2802a6e"
+         } ],
+         "date_added": "13299532540360147",
+         "date_modified": "13299736799687215",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13299532540360151",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

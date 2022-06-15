@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Lägg Till Flik"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Förlängning för att automatiskt starta V8 Inspektör för Node.js felsökning"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Nod Inspektör Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Nära Automatiskt."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Increment Vara Värd/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Felsökning"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Använd alternativa DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Nod Inspektör Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - DevTools Panel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Donera"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Donationer Uppskattas"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Aktiverad"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Fel inställning avinstallera URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Stängd flik för DevTools session: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Fel när du försöker auto stäng "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Anslutning till DevTools värd avbröts. Kontrollera din värd och port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools är redan öppen."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Stängt fönstret för DevTools session: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools är redan öppen."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools är redan öppen.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Allmänt"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panelen stil fönstret."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Öppna devTools-fönstret."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Se Fliken Aktiva."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Gör Fönstret I Fokus."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuell"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Det finns inga meddelanden."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Mindre"
+   },
+   "on": {
+      "description": "On.",
+      "message": "På"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Öppna DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Öppna i ett Nytt Fönster."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Öppna Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Alternativ"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Anpassade DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integration."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Realtidssamarbete."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Öppna i ett Maximerat Fönster."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Nod Inspektör Manager) - Sidan Alternativ"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Real-time Collaboration"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Spara"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekunder"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kontrollera Intervall."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Välj DevTools Version."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Tillgänglighet"
+   }
+}

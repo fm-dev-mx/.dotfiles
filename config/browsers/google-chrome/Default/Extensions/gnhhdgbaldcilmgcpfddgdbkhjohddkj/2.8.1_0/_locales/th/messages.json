@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "เพิ่มบนแท็บ"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "ส่วนขยายสำหรับอัตโนมัติเริ่มการทำงาน V8 สำหรับสารวัตร Node.js การดีบั๊ก"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM(โหนดสารวัตรผู้จัดการ)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "อัตโนมัติ"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "ปิดโดยอัตโนมัติ"
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "อัตโนมัติ Increment โฮสต์/พอร์ตนะ"
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "แก้ปัญหาการแก้จุดบกพร่อง"
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "การดีบั๊ก"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "ใช้ DevTools สำรอง"
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM(โหนดสารวัตรผู้จัดการ)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - ตัวจัดการสมาร์ท (NiM) - แผงควบคุม DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "บริจาค"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "เงินบริจาคของรู้สึกขอบคุณ"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "เปิดใช้งาน"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "เกิดข้อผิดพลาดในการตั้งค่าถอนการติดตั้งที่อยู่ URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "ปิดแท็บเพื่อ DevTools กลุ่มงาน: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "เกิดข้อผิดพลาดขึ้นระหว่างพยายามที่จะปิดอัตโนมัติ "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "การเชื่อมต่อไป DevTools เครื่องก็ถูกยกเลิก เช็คของคุณเครื่องและพอร์ตนะ"
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools คือถูกเปิดอยู่แล้ว"
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "ปิดหน้าต่างสำหรับ DevTools กลุ่มงาน: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools คือถูกเปิดอยู่แล้ว"
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools คือถูกเปิดอยู่แล้ว",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "ท่านนายพล"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "ชื่อโฮสต์"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "แผงควบรูปแบบหน้าต่าง"
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "เปิดหน้าต่าง DevTools"
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "ทำให้แท็บทำงานอยู่นะ"
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "ทำให้หน้าต่างรวมสติหน่อยได้ไหม"
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "ป้อนเอง"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "ไม่มีการแจ้งให้ทราย"
+   },
+   "off": {
+      "description": "Off.",
+      "message": "อ"
+   },
+   "on": {
+      "description": "On.",
+      "message": "บ"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "เปิด DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "เปิดในหน้าต่างใหม่อน"
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "ถ้านั่นเป็นสิ่งสุดท้ายที่เปิด"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "ตัวเลือก"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode นร่วม."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "การทำงานร่วมกันแบบเรียลไทม์"
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "เปิดในหน้าต่างขยายใหญ่สุด."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM(โหนดสารวัตรผู้จัดการ)-ตัวเลือกหน้า"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "พอร์ต"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "ความร่วมมือแบบเรียลไทม์แบบ NiM"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "บันทึก"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "วินาที"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "ตรวจทุกช่วงเวลานะ"
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "เลือกเวอร์ชัน DevTools"
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "เวลารวมตั้งแต่เริ่มระบบ"
+   }
+}

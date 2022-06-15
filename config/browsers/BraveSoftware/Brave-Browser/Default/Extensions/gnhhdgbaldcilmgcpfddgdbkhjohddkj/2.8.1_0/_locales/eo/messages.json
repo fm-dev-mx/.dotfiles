@@ -1,0 +1,220 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Aldoni Langeto"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Administras DevTools kun Nodo V8 Inspektisto (nodo --inspekti) Elpuriganta Workflow"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --inspektisto Manaĝero (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Aŭto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Fermi # A? Tomate."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Aŭtomata Pliigo Gastiganto/Haveno."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Elpuriganta Multvorteco."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Elpuriganta"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Uzi Alternaj DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --inspektisto Manaĝero (NiM)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspektisto Manaĝero (NiM) - DevTools Panelo"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Donate"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Donacoj Ŝatita"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Ebligita"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Eraro fikso uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Fermita langeto por DevTools sesio: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Eraro dum provanta auto proksime "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Rilato al DevTools gastiganto estis haltigita. Check via gastiganto kaj haveno."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools estas jam malfermita."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Fermita fenestro por DevTools sesio: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools estas jam malfermita."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools estas jam malfermita.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Generalo"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Gastiganto"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panelo stilo fenestro."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Malfermi la DevTools Fenestro."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Fari Klapeto Estas Aktiva."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Fari Fenestro Koncentrita."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manlibro"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Ekzistas neniuj sciigoj."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Off"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Sur"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Malferma DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Malfermi en Nova Fenestro."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Malferma Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Opcioj"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Propra DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integriĝo."
+   },
+   "optionsNotifications": {
+      "description": "Options page label for notifications.",
+      "message": "Sciigoj"
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Vera-tempa Kunlaboro."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Malfermita en Maksimumigita Fenestro."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --inspektisto Manaĝero (NiM) - Ebloj Paĝo"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Haveno"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Vera-tempa Kunlaboro"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Savi"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekundoj"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kontrolu Intervalo."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Elekti DevTools Versio."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

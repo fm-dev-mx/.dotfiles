@@ -1,0 +1,6 @@
+2022/06/14-21:01:05.186 4966 Creating DB /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2022/06/14-21:01:05.192 4966 Reusing MANIFEST /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/14-21:03:19.118 48d4 Level-0 table #5: started
+2022/06/14-21:03:19.120 48d4 Level-0 table #5: 6241 bytes OK
+2022/06/14-21:03:19.124 48d4 Delete type=0 #3
+2022/06/14-21:03:19.124 48d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

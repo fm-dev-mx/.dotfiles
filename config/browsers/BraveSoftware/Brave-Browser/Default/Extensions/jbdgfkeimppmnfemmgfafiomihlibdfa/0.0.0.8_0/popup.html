@@ -1,0 +1,162 @@
+<html>
+
+<head>
+
+  <link rel="stylesheet" type="text/css" href="stilus.css">
+  <script src="popup.js"></script>
+</head>
+
+<body>
+  <div id="settings_icon" title="Settings"></div>
+  <div id="containerForLogo"></div>
+
+  <div id="mainContainer">
+
+    <div id="containerForLogin">
+      <div id="containerForLoginTitle">Test Recorder</div>
+      <div id="rainbowForSignup"></div>
+      <div><input id="userEmailLoginInput" class="loginInput" placeholder="Email"></div>
+      <div id="errorForUserEmailLoginInput" class="errorFront"></div>
+      <div><input type="password" id="userPasswordLoginInput" class="loginInput" placeholder="Password"></div>
+      <div id="errorForUserPasswordLoginInput" class="errorFront"></div>
+      <div id="containerForLoginButton"><input type="button" id="loginButton" value="Log In"></div>
+    </div>
+
+    <div id="containerForStartRecording">
+
+      <div id="errorForUrlInput"></div>
+
+      <div id="containerForRadioInputsAtStart">
+        <input type="radio" id='startFromUrlRadio' name="urlOrHere" value="url" checked="checked">
+        <label for="startFromUrlRadio">Start from URL</label>
+
+
+
+        <input type="radio" id='startFromHereRadio' name="urlOrHere" value="here">
+        <label for="startFromHereRadio">Start from here</label>
+      </div>
+
+      <div><input id="urlInput" class="loginInput" placeholder="https://example.com"></div>
+
+      <!--
+     <div class="containerForButtons">
+      <button type="button" id="startRecordingButtonNew"  title="Start Recording">
+      <button type="button" id="addStepButtonNew"  title="Add Step">
+     </div>
+   -->
+
+
+      <div id="container_for_start_recording_button"><input type="button" id="startRecordingButton" value="Start Recording"></div>
+
+
+    </div>
+
+    <div id="containerForCurrentlyRecording">
+      <ol id='containerForRecordedSteps'></ol>
+
+
+      <div id="containerForStopRecordingButton">
+        <input type="button" id="pauseRecordingButton" title="Pause Recording">
+        <input type="button" id="stopRecordingButton" title="Stop Recording">
+        <input type="button" id="takeScreenshotButton" title="Take Screenshot">
+        <input type="button" id="addAssertionButton" title="Add Assertion">
+      </div>
+      <div id="messageContainerForPause"></div>
+    </div>
+    <div id="containerForStoppedRecording">
+      <div><input id="testCaseNameInput" class="loginInput" placeholder="Test Case Name"></div>
+      <div id="errorForTestCaseName" class="errorFront"></div>
+      <div id='containerForTestSuites'>
+        <select id='selectTestSuite' class='loginInput'></select>
+        <input id='newTestSuiteName' class='loginInput' placeholder='Test Suite Name'></input>
+        <div id="errorForNewTestSuiteName" class="errorFront"></div>
+      </div>
+
+      <div id="containerForSaveRadioOptions">
+        <input type="radio" id='existingTestSuiteRadio' name="existingOrNew" value="existing"  checked="checked">
+        <label for="existingTestSuiteRadio">Existing Test Suite</label>
+        <input type="radio" id='newTestSuiteRadio' name="existingOrNew" value="new">
+        <label for="newTestSuiteRadio">New Test Suite</label>
+      </div>
+
+      <div id="containerForSaveAndCancelButtons">
+        <input type="button" id="saveRecordingButton" value="Save">
+        <input type="button" id="cancelRecordingButton" value="Cancel">
+      </div>
+    </div>
+
+    <div id="container_for_settings">
+
+      <div class="recording_option">
+        <label class="switch">
+          <input type="checkbox" id="recordScrollEventsCheckbox">
+          <span class="slider round"></span>
+        </label>
+        <span class="label_for_option">Record Scroll Events</span>
+      </div>
+
+      <div class="recording_option">
+        <label class="switch">
+          <input type="checkbox" id="recordHoverEventsCheckbox">
+          <span class="slider round"></span>
+        </label>
+        <span class="label_for_option">Record Hover Events</span>
+      </div>
+
+
+      <div class="recording_option">
+        <label class="switch">
+          <input type="checkbox" id="doNotUseIdAttribute">
+          <span class="slider round"></span>
+        </label>
+        <span class="label_for_option">Don't use the "id" attribute</span>
+      </div>
+
+      <div class="recording_option">
+        <label class="switch">
+          <input type="checkbox" id="doNotUseNameAttribute">
+          <span class="slider round"></span>
+        </label>
+        <span class="label_for_option">Don't use the "name" attribute</span>
+      </div>
+
+      <div class="recording_option">
+        <label class="switch">
+          <input type="checkbox" id="doNotUseUrlQueryStrings">
+          <span class="slider round"></span>
+        </label>
+        <span class="label_for_option">Don't use URL query strings</span>
+      </div>
+
+      <div id="instructions_for_blacklist_classes">Ignore classes containing these strings (separated by comma):</div>
+
+      <div id="container_for_blacklist_classes">
+        <textarea id="blacklist_classes">
+ng-, active, checked, selected, correct, disable, enable, highlight, over, hvr, cursor, show, focus, pressed, pushed, touch, dirty, pristine, require, select, valid, open, hidden, hide, desktop, mobile, tablet, grid, col-, row-
+  </textarea>
+      </div>
+
+
+      <div id="instructions_for_custom_data_attributes">Custom data attributes to use as preferred locators (separated by comma):</div>
+
+      <div id="container_for_custom_data_attributes">
+        <textarea id="custom_data_attributes">
+data-test, data-testing, data-qa, data-testid, data-test-id
+  </textarea>
+      </div>
+
+      <div id="container_for_done_button">
+        <button id="done_button" type="button">Done</button>
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <script src="jquery-3.3.1.min.js"></script>
+  <script src="popup.js"></script>
+
+</body>
+
+</html>

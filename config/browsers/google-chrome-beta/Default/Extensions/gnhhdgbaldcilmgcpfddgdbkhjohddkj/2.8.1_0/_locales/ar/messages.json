@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "إضافة علامة التبويب"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "تمديد تلقائيا إطلاق V8 المفتش Node.js التصحيح"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "نيم (عقدة المفتش مدير)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "نيم"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "السيارات"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "إغلاق تلقائيا."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "السيارات زيادة المضيف/الميناء."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "التصحيح الإسهاب."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "التصحيح"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "استخدم DevTools البديل."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "نيم (عقدة المفتش مدير)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - DevToolsفريق"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "التبرع"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "التبرعات تقدير"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "تمكين"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "خطأ في الإعداد إزالة عنوان URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "إغلاق علامة التبويب DevTools الدورة: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "حدث خطأ أثناء محاولة قريبة السيارات "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "اتصال DevTools المضيف تم إحباط. تحقق host و port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools مفتوح بالفعل."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "أغلقت نافذة DevTools الدورة: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools مفتوح بالفعل."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools مفتوح بالفعل.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "العامة"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "اسم المضيف"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "لوحة نمط نافذة."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "افتح نافذة DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "جعل علامة التبويب النشطة."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "جعل نافذة تركيزا."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "دليل"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "لا توجد الإخطارات."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "قبالة"
+   },
+   "on": {
+      "description": "On.",
+      "message": "على"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "فتح DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "تفتح في نافذة جديدة."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "فتح التغريدة"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "خيارات"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "مخصص DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode التكامل."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "التعاون في الوقت الفعلي."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "فتح في إطار مكبر."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "نيم (عقدة المفتش مدير) - صفحة خيارات"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "ميناء"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM التعاون في الوقت الفعلي"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "حفظ"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "ثانية"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "تحقق الفاصل."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "حدد إصدار DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "الجهوزية"
+   }
+}

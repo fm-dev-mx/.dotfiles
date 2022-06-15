@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Sekme Ekle"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Node.js otomatik olarak başlatılması için uzatma V8 Müfettiş hata ayıklama"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "(Düğüm Müfettiş Yöneticisi)NİM"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NİM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Oto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Otomatik Olarak Kapanır."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Otomatik Artan Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Hata ayıklama"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Alternatif DevTools'u kullanın."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "(Düğüm Müfettiş Yöneticisi)NİM"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - Bilgi Yöneticisi (NiM) - DevTools Paneli"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Bağış"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Bağış Takdir"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Etkin"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Kaldır URL ayarlama hatası: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "DevTools oturum için kapalı sekmesi: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Otomatik kapat çalışırken hata "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Ana DevTools bağlantısı iptal edildi. Ana bilgisayar ve bağlantı noktası kontrol edin."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools zaten açık."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "DevTools oturum kapalı pencere: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools zaten açık."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools zaten açık.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Genel"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel tarzı penceresi."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "DevTools Penceresini açın."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Sekme Etkin Hale Getirmek."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Pencerede Duruldu."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuel"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Herhangi bir bildirim var."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Kapalı"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Üzerinde"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Açık DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Yeni bir Pencerede aç."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Açık Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Seçenekleri"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Özel DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Entegrasyon."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Gerçek Zamanlı İşbirliği."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Ekranı kaplayan bir Pencerede aç."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "(Düğüm Müfettiş Yöneticisi) NİM - Seçenekleri Sayfası"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Gerçek Zamanlı İşbirliği"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Kaydet"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Saniye"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kontrol Aralığı."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "DevTools Sürümü'nü seçin."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Çalışma süresi"
+   }
+}

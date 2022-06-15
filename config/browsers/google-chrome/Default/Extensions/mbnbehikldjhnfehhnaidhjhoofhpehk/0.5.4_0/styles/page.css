@@ -1,0 +1,48 @@
+.st-current {
+    outline: 1px dashed #6c63ff !important;
+}
+
+.st-hover {
+    outline: 1px dashed deeppink !important;
+}
+
+.st-inspector {
+    border: none !important;
+    position: fixed !important;
+    width: 364px !important;
+    height: 735px !important;
+    top: -17px !important;
+    right: -17px !important;
+    z-index: 2147483647 !important;
+    user-select: none !important;
+}
+
+.st-inspector iframe {
+    width: 100%;
+    height: 100%;
+    outline: none !important;
+    border: none !important;
+}
+
+.st-inspector:before {
+    display: block;
+    content: ' ';
+    width: 100px;
+    left: 132px;
+    top: 38px;
+    cursor: all-scroll;
+    position: absolute;
+    height: 36px;
+}
+
+.st-inspector.draggable:before {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+* {
+    cursor: default !important;
+}

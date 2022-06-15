@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "加护耳"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "自动启动Node.js调试窗口"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM(Node.js 调试管理工具)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "自动"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "自动关闭"
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "自动递增 主机/端口"
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "调试赘言"
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "调试"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "用国外DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM(Node.js 调试管理工具)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - DevTools 面板"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "捐赠"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "给捐很感激"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "启用"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "设定卸载网址错误："
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "关闭DevTools session标签页："
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "试图自动关闭时产生错误"
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "连接主机DevTools被中止，检查你的主机和端口。"
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools已经打开。"
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "关闭DevTools session窗口："
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools已经打开。"
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools已经打开。",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "一般"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "主机"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "小组风格的窗口。"
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "打开DevTools窗户."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "保持调试页活动"
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "焦点集中于调试窗口"
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "手动"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "没有警报"
+   },
+   "off": {
+      "description": "Off.",
+      "message": "关闭"
+   },
+   "on": {
+      "description": "On.",
+      "message": "开启"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "打开DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "在新的窗口中打开调试"
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "开鸣叫"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "选项"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "风俗 DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode一体化。"
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "真时合作"
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "打开在最大化的窗口。"
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM(Node.js 调试管理工具)-选项页"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "端口"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM 真时合作"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "保存"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "几秒钟"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "检查的频率"
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "选DevTools版"
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "正常运行时间"
+   }
+}

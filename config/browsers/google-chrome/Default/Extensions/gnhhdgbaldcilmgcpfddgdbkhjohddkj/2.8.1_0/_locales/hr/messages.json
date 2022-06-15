@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Dodaj Oznaku"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Proširenje za automatsko pokretanje inspektor V8 za Node.js otkrivanje pogrešaka"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Njim (čvor Upravitelj inspektor)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "Njim"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Automatski Zatvoriti."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Автоинкремент Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Ispravljanje pogrešnošću."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Otkrivanje pogrešaka"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Koristite alternativne DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Njim (čvor Upravitelj inspektor)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - upravitelj preglednika (NiM) - DevTools ploča"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Donirati"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Donacija Je Dobrodošla"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Uključen"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Greška uklanjanje URL-adresa: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Zatvorenu karticu za razvojne alate sjednice: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Pogreška prilikom pokušaja automatskog zatvaranja "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Internetska developer tools čvor je prekinuta. Provjerite vaš host i port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "Developer tools je već otvoren."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Zatvorene prozore developer alata sjednice: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "Developer tools je već otvoren."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "Developer tools je već otvoren.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Općenito"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Naziv"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Stil prozora traka."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Otvorite DevTools prozor."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Napraviti Aktivnu Karticu."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Napraviti Prozor."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Vodič"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Nema nikakve obavijesti."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Od"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Na"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Otvorite Devtools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Otvori u novom prozoru."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Otključaj Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Mogućnosti"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Prilagođeni DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "Integracija VSCode."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Suradnja u stvarnom vremenu."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Otvori u proširenom okviru."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Njim (čvor Upravitelj inspektor) - stranica smještajna"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Luka"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Suradnja u stvarnom vremenu"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Spremi"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekundi"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Provjerite Razdoblja."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Odaberite DevTools verziju."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Аптайм"
+   }
+}

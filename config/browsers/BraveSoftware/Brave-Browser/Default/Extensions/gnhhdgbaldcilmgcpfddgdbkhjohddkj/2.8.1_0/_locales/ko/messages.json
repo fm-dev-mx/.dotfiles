@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "탭 추가"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Node V8 Inspector (node --inspect) 디버깅 워크플로우를 위한 개발자 도구 관리기"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --inspector Manager (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "자동"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "자동으로 닫기"
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "host/port 자동 증가 부여"
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "자세한 정보 표시 디버깅."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "디버깅"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "대체 DevTools를 사용하십시오."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Node Inspector Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - 인스펙터 관리자 (NiM) - DevTools 패널"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "기부"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "기부 하기"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "사용 가능"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Error setting uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Closed tab for DevTools session: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "자동 종료 도중 오류 발생"
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "개발자 도구 연결에 실패하였습니다. 호스트 주소와 포트번호를 확인해주세요."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "개발자 도구가 이미 열려 있습니다."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Closed window for DevTools session: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "개발자 도구가 이미 열려 있습니다."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "개발자 도구가 이미 열려 있습니다.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "일반"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "판 스타일 창입니다."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "DevTools 창을 엽니 다."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "개발자 도구 탭 활성화"
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "개발자 도구 포커스"
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "수동"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "알림이 없습니다."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Off"
+   },
+   "on": {
+      "description": "On.",
+      "message": "On"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "개발자 도구 열기"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "새 창에서 열기"
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "열 트윗"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "옵션"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "사용자 정의 DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode 합니다."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "실시간 공동 작업."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "에서 열리 극대화 창입니다."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Node Inspector Manager) - 옵션"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM 실시간 협업"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "저장"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "초"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "개발자 도구 체크 간격"
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "DevTools 버전을 선택하십시오."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

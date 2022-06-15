@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Legg Til Fane"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Extension for automatisk lansere V8 Inspektør for Node.js feilsøking"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Node Inspektør Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Lukk Automatisk."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Increment Vert/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Feilsøking"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Bruk Alternativ DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Node Inspektør Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - DevTools Panel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Doner"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Donasjoner Verdsatt"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Aktivert"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Feil innstilling avinstallere URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Lukket fane for DevTools økt: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Feilmelding når du prøver å automatisk lukke "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Tilkobling til DevTools host ble avbrutt. Sjekk din vert og port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools er allerede åpen."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Lukket vinduet for DevTools økt: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools er allerede åpen."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools er allerede åpen.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Generelt"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Vertsnavn"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel-vinduet."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Åpne DevTools-vinduet."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Gjøre Aktive Fanen."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Gjør Vinduet I Fokus."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuell"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Det finnes ingen varsler."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Av"
+   },
+   "on": {
+      "description": "On.",
+      "message": "På"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Åpne DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Åpne i et Nytt Vindu."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Åpne Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Valg"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Egendefinerte DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integrering."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Real-time Collaboration."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Åpne i et Maksimert Vindu."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Node Inspektør Manager) - Valg Siden"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Real-time Collaboration"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Lagre"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekunder"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Sjekk Intervall."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Velg DevTools Version."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Oppetid"
+   }
+}

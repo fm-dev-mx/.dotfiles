@@ -1,0 +1,29 @@
+{
+   "author": "Endtest",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon_new.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "jquery-3.3.1.min.js", "content.js", "popup.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Record your Web Tests and add them to your Endtest account.",
+   "homepage_url": "https://endtest.io",
+   "icons": {
+      "128": "icon_new.png",
+      "16": "icon_new.png",
+      "48": "icon_new.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhjFRSCv1EoE2iZXOZi8sZjqSv5Sgp9lOo122YnHVHMEzfKLna3ACj0h/ZolmiGY5TzhNCCPduYc9a5MRh6TJZ5/a3pGw18VIZAsoLb+pvFaUIE3OUmru7b0r4hoeYhsDPZvqq9YPIaob9lk3SuTAq5fiFqWKxQkdeGsSC2GyFoZzDnvBYdDOiR7ZvdUfSrOVVC+NwmEkKSSugJ5Cov/6JuaeASLG3DqXWKEu/3uTKdMC2clkskhSIskoJBiFVCHmXjTsoxjOY1etcPiuZe1f9oWngiyVmdWl/T6U+GjWQgxKPxef9g1lIHvdZ9WDXgmx1/Bi+0kgofi1sjFn4cQH+wIDAQAB",
+   "manifest_version": 2,
+   "name": "Endtest - Codeless Automated Testing",
+   "permissions": [ "activeTab", "\u003Call_urls>", "cookies", "storage", "webNavigation" ],
+   "short_name": "Endtest",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.8"
+}

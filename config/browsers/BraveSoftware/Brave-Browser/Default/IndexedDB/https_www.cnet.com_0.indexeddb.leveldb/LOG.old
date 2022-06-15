@@ -1,0 +1,6 @@
+2022/06/14-21:29:48.907 666d Creating DB /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb since it was missing.
+2022/06/14-21:29:48.912 666d Reusing MANIFEST /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/14-21:43:17.052 68dc Level-0 table #5: started
+2022/06/14-21:43:17.054 68dc Level-0 table #5: 1586 bytes OK
+2022/06/14-21:43:17.058 68dc Delete type=0 #3
+2022/06/14-21:43:17.058 68dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

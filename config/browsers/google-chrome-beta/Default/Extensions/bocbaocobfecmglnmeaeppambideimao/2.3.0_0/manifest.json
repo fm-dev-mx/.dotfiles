@@ -1,0 +1,108 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "./background/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icon/icon128.png",
+         "16": "icon/icon16.png",
+         "48": "icon/icon48.png"
+      },
+      "default_popup": "./popup/popup.html"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+Q"
+         }
+      },
+      "cancel_page_translate": {
+         "description": "__MSG_CancelPageTranslate__"
+      },
+      "change_language_setting": {
+         "description": "__MSG_ChangeLanguageSetting__"
+      },
+      "change_mutual_translate": {
+         "description": "__MSG_MutualTranslation__"
+      },
+      "close_result_frame": {
+         "description": "__MSG_CloseResultFrame__",
+         "suggested_key": {
+            "default": "Alt+C"
+         }
+      },
+      "copy_result": {
+         "description": "__MSG_CopyResult__"
+      },
+      "exchange_source_target_lang": {
+         "description": "__MSG_ExchangeSourceAndTargetLanguage__",
+         "suggested_key": {
+            "default": "Alt+S"
+         }
+      },
+      "fix_result_frame": {
+         "description": "__MSG_FixResultFrame__",
+         "suggested_key": {
+            "default": "Alt+X"
+         }
+      },
+      "pronounce_original": {
+         "description": "__MSG_PronounceOriginal__"
+      },
+      "pronounce_selected": {
+         "description": "__MSG_PronounceSelected__"
+      },
+      "pronounce_translated": {
+         "description": "__MSG_PronounceTranslated__"
+      },
+      "toggle_page_translate_banner": {
+         "description": "__MSG_TogglePageTranslateBanner__"
+      },
+      "translate_page": {
+         "description": "__MSG_TranslatePage__"
+      },
+      "translate_selected": {
+         "description": "__MSG_TranslateSelectedText__"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "./content/display/display.js", "./content/pdf.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "css": [ "./content/select/select.css" ],
+      "js": [ "./content/select/select.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "./content/banner_controller.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "js": [ "./content/deepl_injector.js" ],
+      "matches": [ "*://*.deepl.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' chrome-extension://hfjbmagddngcpeloejdejnfgbamkjaeg/ chrome-extension://aibcglbfblnogfjhbcmmpobjhnomhcdo/; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_Description__",
+   "homepage_url": "https://github.com/EdgeTranslate/EdgeTranslate/wiki",
+   "icons": {
+      "128": "icon/icon128.png",
+      "16": "icon/icon16.png",
+      "48": "icon/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn/PZVIJh1vRuJBsqYvlaisGqlZ3GHjwUx9DieGty6LyXqgw8PnnfBXh5EzWw5gH8txP2TngyJZkgYeKrcV6k2QEjC6+thVtOeYa8UL1yAte5QBx5dzyeX+vOAybFJkLyvNzYZ127Pit6ktTxt3jHtTji1Llq5Fj4ZO4Vn75OxkDuS7ka9wggl1NQMWePc0lF4ySmzNSu/cjs9HgGxvnPA+gIo4yjwzWcJ9bDr6cftqNORlSU6m+Fz3ehhl/uMzFKJ97J27QpTv/7cw7tdSSxWFfeaW9Ydabb+MSaTJhmttLqDup1LsYCw/yVJPCIlVWbvBfS1y3BrIDUgE8yG4fG+wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "__MSG_AppName__",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": true,
+      "page": "./options/options.html"
+   },
+   "permissions": [ "notifications", "contextMenus", "storage", "cookies", "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.0",
+   "web_accessible_resources": [ "**/*.css", "**/*.png", "youdao/*", "google/*" ]
+}

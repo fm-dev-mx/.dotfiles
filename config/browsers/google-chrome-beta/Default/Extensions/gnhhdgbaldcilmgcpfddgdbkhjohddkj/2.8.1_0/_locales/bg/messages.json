@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Добавяне На Отметка "
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Управлява инструменти за разработчици с възел инспектор B8 (възел-да се провери отсъствието) на процеса на отстраняване на грешки "
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js B8-мениджър инспектор (него)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "Него"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Автомобил"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Автоматично Изключване."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Автоинкремент Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Отстраняване На Грешки Многословие."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Отстраняване на грешки"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Използване На Алтернативни Инструменти За Разработчици."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js B8-мениджър инспектор (него)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js B8-мениджър инспектор (ЧПМ) - лентата с инструменти за разработчици"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Дари"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Дарения Са Добре Дошли"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Включен"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Грешка при инсталирането на Премахване на URL адрес: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Затворена в раздела за инструменти за разработчици сесия: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Грешка при опит за автоматично затваряне "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Връзка с инструменти за разработчици възел е прекъсната. Проверете дали вашият хост и порт."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "Инструменти за разработчици вече е отворена."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Затворени прозорци инструменти за разработчици сесия: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "Инструменти за разработчици вече е отворена."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "Инструменти за разработчици вече е отворена.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Общи"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Домакин"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Стил прозорци панел."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Отворете прозореца за инструменти за разработчици."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Направи Раздела Активна."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Направи Прозорец."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Пътеводител"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Няма никакви известия."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "От"
+   },
+   "on": {
+      "description": "On.",
+      "message": "На"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Отворете DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Отвори в нов прозорец."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Отключи Чуруликане"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Опции"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Потребителски Инструменти За Разработчици."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "Интеграция VSCode."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Сътрудничество в реално време."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Отворите в развернутом прозорец."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js B8-мениджър инспектор (ЧПМ) - страница вариант "
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Пристанище"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "Него съвместна работа в реално време"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Запази"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Секунди"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Провери Интервал."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Изберете Инструменти Разработчик Версия."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Време на работа"
+   }
+}

@@ -1,0 +1,12 @@
+2022/06/15-00:01:01.311 1192 Reusing MANIFEST /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/15-00:01:01.312 1192 Recovering log #30
+2022/06/15-00:01:01.346 1192 Reusing old log /home/rhoffman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/000030.log 
+2022/06/15-00:41:26.468 3110 Level-0 table #36: started
+2022/06/15-00:41:26.562 3110 Level-0 table #36: 3102766 bytes OK
+2022/06/15-00:41:26.593 3110 Delete type=0 #30
+2022/06/15-02:21:36.658 6a9c Compacting 1@1 + 1@2 files
+2022/06/15-02:21:36.679 6a9c Generated table #37@1: 278 keys, 265354 bytes
+2022/06/15-02:21:36.679 6a9c Compacted 1@1 + 1@2 files => 265354 bytes
+2022/06/15-02:21:36.683 6a9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/15-02:21:36.683 6a9c Delete type=2 #33
+2022/06/15-02:21:36.683 6a9c Delete type=2 #36

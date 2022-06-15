@@ -1,0 +1,6 @@
+2022/06/11-14:13:25.719 44c9 Creating DB /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb since it was missing.
+2022/06/11-14:13:25.725 44c9 Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/11-14:13:34.326 43cd Level-0 table #5: started
+2022/06/11-14:13:34.329 43cd Level-0 table #5: 1263 bytes OK
+2022/06/11-14:13:34.333 43cd Delete type=0 #3
+2022/06/11-14:13:34.333 43cd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

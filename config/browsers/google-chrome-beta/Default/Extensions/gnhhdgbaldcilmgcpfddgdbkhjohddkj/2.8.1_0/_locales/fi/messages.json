@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Lisää-Välilehti"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Laajennus automaattisesti käynnistää V8-Tarkastaja Node.js testaus"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Solmu Tarkastaja Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Lähellä Automaattisesti."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Increment Isäntä/Portti."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Testaus"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Käytä vaihtoehtoisia DevTools-vaihtoehtoja."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Solmu Tarkastaja Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - tarkistuspäällikkö (NiM) - DevTools-paneeli"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Lahjoittaa"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Lahjoituksia Arvostetaan"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Käytössä"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Virhe asetettaessa poista URL-osoite: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Suljettu välilehti DevTools-istunto: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Virhe kun yrittää auto lähellä "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Yhteys DevTools isäntä oli keskeytetty. Tarkista host ja port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools on jo auki."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Suljettu ikkuna DevTools-istunto: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools on jo auki."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools on jo auki.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Yleinen"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel style window."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Avaa DevTools-ikkuna."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Tee-Välilehden Aktiivinen."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Tee Ikkuna Keskittynyt."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuaalinen"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Ei ole ilmoituksia."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Pois"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Päälle"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Avaa DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Avaa Uudessa Ikkunassa."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Open Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Vaihtoehtoja"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integration."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Reaaliaikainen yhteistyö."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Open in a Maximized Window."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Solmu Tarkastaja Manager) - Asetukset Sivulla"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM-reaaliaikainen yhteistyö"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Tallenna"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekuntia"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Tarkista Välein."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Valitse DevTools-versio."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Käytettävyyttä"
+   }
+}

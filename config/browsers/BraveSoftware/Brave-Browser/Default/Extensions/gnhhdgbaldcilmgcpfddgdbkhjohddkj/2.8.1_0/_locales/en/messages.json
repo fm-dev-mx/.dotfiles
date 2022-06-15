@@ -1,0 +1,273 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Add Tab"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Manages DevTools with Node V8 Inspector (node --inspect) Debugging Workflow"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --inspector Manager (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Close Automatically."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Increment Host/Port."
+   },
+   "autoStepping": {
+      "description": "Popup page description for runaway tabs popup message",
+      "message": "Will auto resume stepping when \u003Ci>--inspect-brk\u003C/i> flag is used."
+   },
+   "brakeCODEDashboardLoginRequired": {
+      "message": "You must be logged into \u003Ca href=\"https://brakecode.com/dashboard\" target=\"_blank\"> BrakeCODE Dashboard\u003C/a> to open remote debugging sessions."
+   },
+   "brakeCODELoginRequired": {
+      "description": "Options BrakeCODE API Key message when user is not logged into BrakeCODE.",
+      "message": "Must be logged into BrakeCODE"
+   },
+   "brakecodeAuthRequired": {
+      "description": "Popup error when authentication is required for remote debugging.",
+      "message": "Remote access requires brakecode authentication."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Debugging"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Use Alternate DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --inspector Manager (NiM)"
+   },
+   "devtoolsPanelAbout": {
+      "message": "NiM manages unlimited local and remote debugging sessions at the DevTools protocol layer and makes secure collaboration easy."
+   },
+   "devtoolsPanelTagline": {
+      "message": "Debug your code better."
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - DevTools Panel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Donate"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Donations Appreciated"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Enabled"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Error setting uninstall URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Closed tab for DevTools session: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Error while trying to auto close "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Connection to DevTools host was aborted.  Check your host and port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools is already open."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Closed window for DevTools session: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools is already open."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools is already open.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "focusOnBreakpoint": {
+      "message": "Focus on Debugger Paused"
+   },
+   "general": {
+      "description": "General.",
+      "message": "General"
+   },
+   "githubNodejsNodeIssues24085": {
+      "description": "githubNodejsNodeIssues24085",
+      "message": "This button is disabled because currently, Node has no facility to support more than a single programmatically started debugging session.  This means that a debugging session has already been started on the default port 9229.  A proposed change to the default behavior of Node would remove this limitation.  Read more about the issue here: \u003Ca target=\"_blank\" href=\"https://github.com/nodejs/node/issues/24085\">https://github.com/nodejs/node/issues/24085\u003C/a>"
+   },
+   "groupInspectorTabs": {
+      "message": "Group Inspector Tabs"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel style window."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Open the DevTools Window."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Make Tab Active."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Make Window Focused."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manual"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "There are no notifications."
+   },
+   "no_detected_local_connections": {
+      "message": "No detected local connections"
+   },
+   "no_detected_remote_connections": {
+      "message": "No detected remote connections"
+   },
+   "nodeReportMaxMessages": {
+      "description": "Options page label for nodeReportMaxMessages.",
+      "message": "Maximum Diagnostic Report Messages (per host)."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Off"
+   },
+   "on": {
+      "description": "On.",
+      "message": "On"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Open DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Open in a New Window."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Open Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Options"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsDiagnosticReports": {
+      "description": "Options page label for Node.js Diagnostic Reports.",
+      "message": "Node.js Diagnostic Reports"
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integration."
+   },
+   "optionsNotifications": {
+      "description": "Options page label for notifications.",
+      "message": "Notifications."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Real-time collaboration."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Open in a Maximized Window."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --inspector Manager (NiM) - Options Page"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "Real-time collaboration"
+   },
+   "runawayTabs": {
+      "description": "Popup page description for runaway tabs popup message",
+      "message": "Runaway tabs were detected and Auto mode was disabled.  If the condition persists, please file a bug report."
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Save"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Seconds"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Check Interval."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Select DevTools Version."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   },
+   "useBrakeCODEAgent": {
+      "description": "Placeholder for additional stats available with the BrakeCODE Agent.",
+      "message": "BrakeCODE Agent"
+   }
+}

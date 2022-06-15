@@ -1,0 +1,12 @@
+2022/06/13-11:02:27.730 9d72 Reusing MANIFEST /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-11:02:27.733 9d72 Recovering log #22
+2022/06/13-11:02:27.762 9d72 Reusing old log /home/rhoffman/.config/google-chrome/Default/IndexedDB/chrome-extension_ihcjicgdanjaechkgeegckofjjedodee_0.indexeddb.leveldb/000022.log 
+2022/06/13-12:42:44.194 daa5 Level-0 table #27: started
+2022/06/13-12:42:44.235 daa5 Level-0 table #27: 3078529 bytes OK
+2022/06/13-12:42:44.239 daa5 Delete type=0 #22
+2022/06/13-14:42:46.054 15293 Compacting 1@1 + 1@2 files
+2022/06/13-14:42:46.073 15293 Generated table #28@1: 209 keys, 162804 bytes
+2022/06/13-14:42:46.073 15293 Compacted 1@1 + 1@2 files => 162804 bytes
+2022/06/13-14:42:46.077 15293 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/13-14:42:46.078 15293 Delete type=2 #24
+2022/06/13-14:42:46.078 15293 Delete type=2 #27

@@ -1,0 +1,252 @@
+<!doctype html>
+<html ng-app="NimOptionsApp" ng-csp id="options-page">
+
+<head>
+    <title class="i18n">pageOptionsTitle</title>
+    <link rel="stylesheet" href="css/vendor-options.min.css">
+    <link rel="stylesheet" href="css/vendor.min.css">
+    <link rel="stylesheet" href="css/nim.min.css">
+    <meta charset="UTF-8">
+</head>
+
+<body id="nim" ng-controller="nimOptionsController as main">
+    <div>
+        <div class="row">
+            <div class="col s12 center white-text" id="options-header"><span class="i18n">pageOptionsTitle</span></div>
+        </div>
+        <div class="row">
+            <div class="col s12">
+                <!--<iframe id="options-page-ads-iframe" frameborder="0" src="https://june07.github.io/nim/options-page-ads-dev.html"></iframe>-->
+            </div>
+        </div>
+        <div class="row" style="display: flex">
+            <div class="col s3">
+                <iframe id="options-page-ads-iframe" frameborder="0" src="https://june07.github.io/nim/options-page-ads.html"></iframe>
+            </div>
+            <div class="col s8">
+                <ul class="collection with-header swing">
+                    <li class="collection-header" id="collections-header"><span class="i18n">general</span>
+                        <a href="#modal1" class="additional-options modal-trigger"><i class="tiny icon-wrench right" id="additionalOptions"></i></a>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-click="hideScaledOut({})" ng-model="bg.settings.newWindow" id="Open Inspector in new window" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">openInspectorNewWindow</span>
+                    </li>
+                    <li class="collection-item scale-transition" ng-class="bg.settings.newWindow ? '' : 'scale-out'">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.windowFocused" id="Make Inspector Window Focused" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">makeInspectorWindowFocused</span>
+                    </li>
+                    <li class="collection-item scale-transition" ng-class="bg.settings.newWindow ? '' : 'scale-out'">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.panelWindowType" id="Panel style window" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">inspectorWindowStyle</span>
+                    </li>
+                    <li class="collection-item scale-transition" ng-class="bg.settings.newWindow ? '' : 'scale-out'">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.windowStateMaximized" id="Maximized window" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">optionsWindowStateMaximized</span>
+                    </li>
+                    <li class="collection-item scale-transition" ng-class="bg.settings.newWindow ? 'scale-out' : ''">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.tabActive" id="Make Inspector tab active" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">makeInspectorTabActive</span>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.focusOnBreakpoint" id="Focus on Breakpoint" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">focusOnBreakpoint</span>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.autoClose" id="Auto Close Inspector window" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">autoCloseInspector</span>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.group" id="Group Inspector Tabs" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">groupInspectorTabs</span>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-click="resetDevToolsOption()" id="Local DevTools" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <div ng-hide="bg.settings.localDevTools">
+                            <span>{{ window.chrome.i18n.getMessage("defaultDevTools") }}</span>
+                            
+                            <span id="devToolsCompat">
+                                <label for="devToolsCompatCheckbox">
+                                    <input type="checkbox" id="devToolsCompatCheckbox" ng-model="bg.settings.devToolsCompat"/>
+                                    <span>DevToolsCompat</span>
+                                </label>
+                            </span>
+                            <span id="devToolsBadge">DevTools Version ({{ devToolsOptionsName }}): <span class="badge badgeLabel">{{ devToolsOptionsUrl }}</span></span>
+                        </div>
+                        <a ng-hide="!bg.settings.localDevTools" class="dropdown-trigger" href="#" data-target="dropdown1">
+                            <span id="selectDevToolsVersion">{{ window.chrome.i18n.getMessage("selectDevToolsVersion") }}</span>
+                            <span id="devToolsBadge">DevTools Version ({{ devToolsOptionsName }}): <span class="badge badgeLabel">{{ devToolsOptionsUrl }}</span></span>
+                        </a>
+                        <ul id="dropdown1" class="dropdown-content">
+                            <li><a href="#!" ng-click="setDevToolsOption(1)">{{ bg.localDevToolsOptions[1].name }}: {{ bg.localDevToolsOptions[1].url }} </a></li>
+                            <li><a href="#!" ng-click="setDevToolsOption(2)">{{ bg.localDevToolsOptions[2].name }}: {{ bg.localDevToolsOptions[2].url }} </a></li>
+                            <li><a href="#modal3" ng-click="setDevToolsOption(3)" class="modal-trigger">{{ bg.localDevToolsOptions[3].name }}: {{ bg.localDevToolsOptions[3].url }}</a></li>
+                        </ul>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input disabled type="checkbox" ng-model="bg.settings.collaboration" id="Real-time Collaboration" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <a href="#modal2" class="modal-trigger"><span class="i18n">optionsRealtimeCollaboration</span></a>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.nimsVscode.enabled" id="NiMS VSCode" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <a href="https://bit.ly/2VwKeSZ" target="_blank"><span class="i18n">optionsNiMSVSCode</span></a>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.notifications.enabled" id="Push Notifications" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        <span class="i18n">optionsNotifications</span>
+                    </li>
+                    <li class="collection-item">
+                        <div class="switch right">
+                            <label><span class="i18n">off</span>
+                                <input type="checkbox" ng-model="bg.settings.diagnosticReports.enabled" id="Diagnostic Reports" class="ga-track">
+                                <span class="lever"></span><span class="i18n">on</span>
+                            </label>
+                        </div>
+                        
+                        <div>
+                            <span class="i18n">optionsDiagnosticReports</span>
+                            <span id="devToolsBadge">
+                                <span id="devtoolsAPIKeyBadge">Brakecode API Key: <span id="brakecodeAPIKeyBadgeLabel" class="badge badgeLabel">
+                                    <span ng-mouseenter="maskKey(false)" ng-mouseleave="maskKey(true)" id="apikey">{{ apikey }}</span></span></span>
+                            </span>
+                        </div>
+                    </li>
+                    <li class="collection-item bottom">
+                        <div class="row">
+                            <div class="col s6">
+                                <span class="i18n">secondsBetweenInspectorChecks</span>
+                                <div class="right">
+                                    <span class="badge new i18n" data-badge-caption="seconds" id="checkInterval-value"></span>
+                                </div>
+                                <div id="checkInterval" ng-model="bg.settings.checkInterval"></div>
+                            </div>
+                            <div class="col s6">
+                                <span class="i18n">nodeReportMaxMessages</span>
+                                <div class="right">
+                                    <span class="badge new i18n" data-badge-caption="messages" id="nodeReportMaxMessages-value"></span>
+                                </div>
+                                <div id="nodeReportMaxMessages" ng-model="bg.settings.diagnosticReports.maxMessages"></div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="col s1"></div>
+        </div>
+        <div class="row">
+            <div class="col s12 center"><a class="btn green" id="save button" value="Save Options" ng-click="saveButtonHandler()"><span class="i18n">save</span></a>
+            </div>
+        </div>
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+                <ul class="collection with-header">
+                    <li class="collection-header" id="collections-header-debugging"><span class="i18n">debugging</span></li>
+                    <li class="collection-item">
+                        <p>Debugging tutorial: <a href="https://june07.com/nim/debug">https://june07.com/nim/debug</a>.</p>
+                    </li>
+                    <li class="collection-item bottom">
+                        <span class="i18n">debugVerbosity</span>
+                        <div class="right">
+                            <span class="badge new i18n" data-badge-caption="verbosity" id="debugVerbosityBadge"></span>
+                        </div>
+                        <div id="debugVerbosity" ng-model="bg.settings.debugVerbosity"></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="modal2" class="modal">
+            <div class="modal-content">
+                <ul class="collection with-header">
+                    <li class="collection-header" id="collections-header-rtc"><span class="i18n">optionsRealtimeCollaboration</span></li>
+                    <li class="collection-item" id="coming-soon">
+                        <div class="row">
+                            <span>Awesome Feature Coming Soon!</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            </ul>
+        </div>
+        <div id="modal3" class="modal">
+            <div class="modal-content">
+                <ul class="collection with-header">
+                    <li class="collection-header" id="collections-header-customDevToolsURL"><span class="i18n">optionsCustomDevToolsURL</span></li>
+                    <li class="collection-item">
+                        <input placeholder="" ng-model="bg.localDevToolsOptions[3].url" id="devtools_url" type="url" class="validate" pattern="(chrome-devtools:\/\/|https:\/\/chrome-devtools-frontend(.appspot.com|.june07.com)).*(inspector.html|js_app.html)" ng-pattern="/(chrome-devtools:\/\/|https:\/\/chrome-devtools-frontend(.appspot.com|.june07.com)).*(inspector.html|js_app.html)/">
+                        <label for="devtools_url">DevTools URL <span id="nim-custom-devtools-url-blogpost"><a href="https://june07.com/blog/nim-custom-devtools-url" target="_blank">(Not sure what to put here...)</a></span></label>
+                        <div><a class="btn green" id="save-button-custom-devtools" value="Save Custom DevTools" ng-click="saveCustomDevToolsButtonHandler()"><span class="i18n">save</span></a></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    <script type="text/javascript" src="js/googleanalytics.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/angular.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="js/nouislider.min.js"></script>
+    <script type="text/javascript" src="js/angular-animate.min.js"></script>
+    <script type="text/javascript" src="js/wNumb.min.js"></script>
+    <script type="text/javascript" src="options.min.js"></script>
+</body>
+
+</html>

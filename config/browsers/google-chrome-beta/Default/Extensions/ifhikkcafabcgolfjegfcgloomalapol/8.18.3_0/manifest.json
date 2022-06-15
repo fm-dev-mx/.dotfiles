@@ -1,0 +1,50 @@
+{
+   "author": "Priyank Parashar",
+   "background": {
+      "page": "background-magicss.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon-128.png",
+         "16": "icons/icon-16.png",
+         "24": "icons/icon-24.png",
+         "256": "icons/icon-256.png",
+         "32": "icons/icon-32.png",
+         "40": "icons/icon-40.png",
+         "48": "icons/icon-48.png"
+      }
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+Shift+C"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' https://cdnjs.cloudflare.com https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_Extension_Description__",
+   "homepage_url": "https://github.com/webextensions/live-css-editor",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "24": "icons/icon-24.png",
+      "256": "icons/icon-256.png",
+      "32": "icons/icon-32.png",
+      "40": "icons/icon-40.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDK1rkftItVKM+abuDHxXXdeysqpm3eb9yGZSFJp0yz8FtqXIeTf9rEvDBDddLg03Z7ClODHDji/0+qiE2KKMRtA3iUdDuZZc9I22J0hvv2ZV3eTw2BkgUwBjcJOrRtxSU676uc6U3kG37uRLtRlR492D7YPXF/7IukavSuRVYZ1QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_Extension_Name__",
+   "offline_enabled": true,
+   "optional_permissions": [ "webNavigation", "\u003Call_urls>" ],
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "8.18.3"
+}

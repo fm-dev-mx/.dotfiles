@@ -1,0 +1,54 @@
+{
+   "background": {
+      "scripts": [ "assets/background-01bc1dc0.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "ModHeader"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+H"
+         }
+      },
+      "switch_to_profile_1": {
+         "description": "Switch to 1st profile"
+      },
+      "switch_to_profile_2": {
+         "description": "Switch to 2nd profile"
+      },
+      "switch_to_profile_3": {
+         "description": "Switch to 3rd profile"
+      },
+      "switch_to_profile_4": {
+         "description": "Switch to 4th profile"
+      },
+      "toggle_pause": {
+         "description": "Toggle pause/resume",
+         "suggested_key": {
+            "default": "Alt+Shift+P"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "Modify HTTP request and response headers",
+   "externally_connectable": {
+      "matches": [ "*://modheader.com/*" ]
+   },
+   "homepage_url": "https://modheader.com/",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "48": "images/icon_48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDRbg/YGjnooTbGDnwXqcwWaFwY1SFby0PQa2WlT8Dvq1OFqLQBJcikRQUA9GnEKZNKInUocQdlvxwvbMccBIZTYXuP+RMEi+yWqsH/x+D1w87fWnVtspKVqCia4a6DTsqxOW+JJFb1ufWZuvSeDVdToRUm/zG5WxXWyg7nQirY5QIDAQAB",
+   "manifest_version": 2,
+   "name": "ModHeader",
+   "permissions": [ "contextMenus", "webRequest", "storage", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.9",
+   "web_accessible_resources": [ "images/icon_bw.png", "app.html" ]
+}

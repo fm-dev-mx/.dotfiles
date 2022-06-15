@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Thêm Tab"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Mở rộng cho tự động khởi động động cơ V8 thanh Tra cho Node.js gỡ"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "ĐÂY (Nút thanh Tra Lý)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "KHẢ"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Gần Tự Động."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Tự Động Tăng Chủ/Cảng."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debb Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Gỡ"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Sử dụng Alternate DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "ĐÂY (Nút thanh Tra Lý)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - Trình quản lý thư mục (NiM) - Bảng điều khiển DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Tặng"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Đóng Góp Đánh Giá Cao"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Kích hoạt"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Lỗi thiết lập hướng DẪN: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Đóng cửa tab cho! phiên: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Lỗi trong khi cố gắng để tự động đóng "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Kết nối đến! loạt đã bị hủy bỏ. Kiểm tra máy chủ và cổng."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "! Đã được mở."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Đóng cửa sổ! phiên: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "! Đã được mở."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "! Đã được mở.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Tổng"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Tên máy"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Bảng điều khiển cửa sổ."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Mở cửa sổ DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Hãy Tab Hoạt Động."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Làm Cho Cửa Sổ Tập Trung."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Hướng dẫn sử dụng"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Không có thông báo."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Tắt"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Trên"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Mở!"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Mở một cửa Sổ Mới."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Mở Thấy"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Lựa chọn"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Tùy chỉnh DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Nhập."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Cộng tác trong thời gian thực."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Mở trong một cửa Sổ tối đa."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "ĐÂY (Nút thanh Tra Lý) - Trang lựa Chọn"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "Hợp tác thời gian thực của NiM"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Tiết kiệm"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Giây"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kiểm Tra Khoảng Thời Gian."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Chọn phiên bản DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Thời gian hoạt động"
+   }
+}

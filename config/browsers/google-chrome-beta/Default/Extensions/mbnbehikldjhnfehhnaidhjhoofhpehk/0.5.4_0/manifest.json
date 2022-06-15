@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_title": "Show me the styles!"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Extract CSS and build beautiful styleguides.",
+   "icons": {
+      "128": "logo-128.png",
+      "32": "logo-32.png",
+      "512": "logo-512.png",
+      "64": "logo-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhUguGnNx3VFNfYoSUjfb3lH8OjUXRUrgtbzSeXDWTWpC3/I0X2rbs3BSD/zsK4GElB5tjNLFGRMMl15sWRLX3VUsN3bwe2VQNc1Lw+Zxsuq+1oW3q4dKYpuOUc9ymu9USHGMF5Wjc0e7tn5dYyC0+C4xTZW+2KSNTtqx3gubTHOvxyi0/uGEuozGyIFU6lv16quyo23eoWGhwZqR1kasJn7nj1oXuMqlIHEI5GX1q9HfFbizvoI3B+ZIeh8XflADGylsyHd0quJ+ubhB9Hil3QMC6D6Z2RJMz4ybWnyldTQB8kewjWr+WVUXXaE80RMivL74KBhFibDjtK5xdXWnCwIDAQAB",
+   "manifest_version": 2,
+   "name": "CSS Peeper",
+   "permissions": [ "activeTab", "http://*/", "https://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.4"
+}

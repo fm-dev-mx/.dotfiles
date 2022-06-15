@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Kuongeza Tab"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Itaweza DevTools na Node V8 Mkaguzi (node-kukagua) Debugging Workflow"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --mkaguzi Meneja (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Karibu Moja Kwa Moja."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Nyongeza Jeshi/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Debugging Verbosity."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Debugging"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Matumizi Mbadala DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --mkaguzi Meneja (NiM)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --mkaguzi Meneja (NiM) - DevTools Jopo"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Kuchangia"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Michango Appreciated"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Kuwezeshwa"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Kosa kuweka kufuta URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Kufungwa tab kwa ajili ya DevTools kikao: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Hitilafu wakati wa kujaribu auto karibu "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Uhusiano na DevTools jeshi ilikuwa aborted. Angalia jeshi yako na bandari."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools ni tayari wazi."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Kufungwa dirisha kwa ajili ya DevTools kikao: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools ni tayari wazi."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools ni tayari wazi.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Mkuu"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Jeshi"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Jopo style dirisha."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Kufungua DevTools Dirisha."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Kufanya Tab Kazi."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Kufanya Dirisha Umakini."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Mwongozo"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Hakuna kuarifiwa."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Mbali"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Juu"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Open DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Wazi katika Dirisha Mpya."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Open Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Chaguzi"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Desturi DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Muungano."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Halisi wakati Ushirikiano."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Open katika Dirisha Maximized."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --mkaguzi Meneja (NiM) - Chaguzi Ukurasa"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Bandari"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Halisi wakati Ushirikiano"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Ila"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekunde"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kuangalia Muda."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Kuchagua DevTools Version."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

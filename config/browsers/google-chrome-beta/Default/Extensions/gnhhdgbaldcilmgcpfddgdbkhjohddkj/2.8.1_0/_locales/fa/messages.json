@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "اضافه کردن تب"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "مدیریت DevTools با گره V8 بازرس (گره-بازرسی) اشکال زدایی گردش کار"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --بازرس مدیر (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "خودرو"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "نزدیک به طور خودکار."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "خودکار افزایش میزبان/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "اشکال زدایی گزاف گویی."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "اشکال زدایی"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "استفاده متناوب DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --بازرس مدیر (NiM)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --بازرس مدیر (NiM) - DevTools پنل"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "اهدا"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "کمک های مالی قدردانی"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "فعال"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "خطا در تنظیمات حذف آدرس: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "بسته tab برای DevTools جلسه: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "خطا در حالی که تلاش برای خودرو, "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "اتصال به DevTools میزبان سقط شد. بررسی خود را میزبان و پورت."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools است که در حال حاضر باز است."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "پنجره بسته برای DevTools جلسه: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools است که در حال حاضر باز است."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools است که در حال حاضر باز است.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "عمومی"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "میزبان"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel style window."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "باز DevTools پنجره."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "تب و فعال است."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "ایجاد پنجره متمرکز شده است."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "دستی"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "وجود دارد هیچ اطلاعیه."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "خاموش"
+   },
+   "on": {
+      "description": "On.",
+      "message": "در"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "باز DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "باز کردن در یک پنجره جدید."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Open Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "گزینه های"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "سفارشی DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integration."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "زمان واقعی همکاری."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Open in a Maximized Window."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --بازرس مدیر (NiM) - گزینه های صفحه"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "پورت"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "نیم زمان واقعی همکاری"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "صرفه جویی در"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "ثانیه"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "بررسی فاصله است."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "انتخاب DevTools نسخه."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "آپ تایم"
+   }
+}

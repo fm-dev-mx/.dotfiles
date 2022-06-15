@@ -1,0 +1,1318 @@
+{
+   "APIERR": {
+      "description": "接口参数配置错误。",
+      "message": "请求参数错误，请更换其他翻译源或过段时间再翻译，如还是无法使用，请联系开发者。"
+   },
+   "Achinese": {
+      "description": "亞齊語",
+      "message": "亞齊語"
+   },
+   "AddDomainBlacklist": {
+      "description": "將當前域名添加到黑名單。",
+      "message": "將當前域名添加到黑名單"
+   },
+   "AddUrlBlacklist": {
+      "description": "將當前頁面添加到黑名單。",
+      "message": "將當前頁面添加到黑名單"
+   },
+   "Afrikaans": {
+      "description": "南非荷蘭語",
+      "message": "南非荷蘭語"
+   },
+   "Akan": {
+      "description": "阿肯語",
+      "message": "阿肯語"
+   },
+   "Albanian": {
+      "description": "阿爾巴尼亞語",
+      "message": "阿爾巴尼亞語"
+   },
+   "Amharic": {
+      "description": "阿姆哈拉語",
+      "message": "阿姆哈拉語"
+   },
+   "AppName": {
+      "description": "應用名稱",
+      "message": "側邊翻譯"
+   },
+   "Arabic": {
+      "description": "阿拉伯語",
+      "message": "阿拉伯語"
+   },
+   "Aragonese": {
+      "description": "阿拉貢語",
+      "message": "阿拉貢語"
+   },
+   "Armenian": {
+      "description": "亞美尼亞語",
+      "message": "亞美尼亞語"
+   },
+   "Assamese": {
+      "description": "阿薩姆語",
+      "message": "阿薩姆語"
+   },
+   "Asturian": {
+      "description": "阿斯圖里亞斯語",
+      "message": "阿斯圖里亞斯語"
+   },
+   "AutoDetect": {
+      "description": "自動檢測",
+      "message": "自動檢測"
+   },
+   "Aymara": {
+      "description": "艾馬拉語",
+      "message": "艾馬拉語"
+   },
+   "Azerbaijani": {
+      "description": "阿塞拜疆語",
+      "message": "阿塞拜疆語"
+   },
+   "BaiduTranslate": {
+      "description": "百度翻譯翻譯源。",
+      "message": "百度翻譯"
+   },
+   "BaiduTranslateShort": {
+      "description": "百度翻譯翻譯源縮寫。",
+      "message": "百度翻譯"
+   },
+   "Baluchi": {
+      "description": "俾路支語",
+      "message": "俾路支語"
+   },
+   "BasaSunda": {
+      "description": "巽他語",
+      "message": "巽他語"
+   },
+   "Bashkir": {
+      "description": "巴什基爾語",
+      "message": "巴什基爾語"
+   },
+   "Basque": {
+      "description": "巴斯克語",
+      "message": "巴斯克語"
+   },
+   "Belarusian": {
+      "description": "白俄羅斯語",
+      "message": "白俄羅斯語"
+   },
+   "Bemba": {
+      "description": "本巴語",
+      "message": "本巴語"
+   },
+   "Bengali": {
+      "description": "孟加拉語",
+      "message": "孟加拉語"
+   },
+   "Berberlanguages": {
+      "description": "柏柏爾語",
+      "message": "柏柏爾語"
+   },
+   "Bhojpuri": {
+      "description": "博傑普爾語",
+      "message": "博傑普爾語"
+   },
+   "BingTranslate": {
+      "description": "必應翻譯翻譯源。",
+      "message": "必應翻譯"
+   },
+   "BingTranslateShort": {
+      "description": "必應翻譯翻譯源縮寫。",
+      "message": "必應翻譯"
+   },
+   "Bislama": {
+      "description": "比斯拉馬語",
+      "message": "比斯拉馬語"
+   },
+   "BlankPage": {
+      "description": "一個空白頁面",
+      "message": "一個空白頁面"
+   },
+   "Blin": {
+      "description": "比林語",
+      "message": "比林語"
+   },
+   "Bokmal": {
+      "description": "書面挪威語",
+      "message": "書面挪威語"
+   },
+   "Bosnian": {
+      "description": "波斯尼亞語",
+      "message": "波斯尼亞語"
+   },
+   "BottomLeft": {
+      "description": "左下",
+      "message": "左下"
+   },
+   "BottomRight": {
+      "description": "右下",
+      "message": "右下"
+   },
+   "Breton": {
+      "description": "布列塔尼語",
+      "message": "布列塔尼語"
+   },
+   "BugReport": {
+      "description": "報告一個bug",
+      "message": "報告一個bug"
+   },
+   "Bulgarian": {
+      "description": "保加利亞語",
+      "message": "保加利亞語"
+   },
+   "Burmese": {
+      "description": "緬甸語",
+      "message": "緬甸語"
+   },
+   "CancelPageTranslate": {
+      "description": "取消頁面翻譯。",
+      "message": "取消頁面翻譯"
+   },
+   "CancelTextSelection": {
+      "description": "翻譯後自動取消文本選擇",
+      "message": "翻譯後取消文本選擇"
+   },
+   "Cantonese": {
+      "description": "中文(粵語)",
+      "message": "中文(粵語)"
+   },
+   "Catalan": {
+      "description": "加泰羅尼亞語",
+      "message": "加泰羅尼亞語"
+   },
+   "Cebuano": {
+      "description": "宿務語",
+      "message": "宿務語"
+   },
+   "ChangeLanguageSetting": {
+      "description": "修改翻譯語言設定",
+      "message": "修改翻譯語言設定"
+   },
+   "Cherokee": {
+      "description": "切羅基語",
+      "message": "切羅基語"
+   },
+   "Chichewa": {
+      "description": "奇切瓦語",
+      "message": "奇切瓦語"
+   },
+   "ChineseSimplified": {
+      "description": "簡體中文",
+      "message": "簡體中文"
+   },
+   "ChineseTraditional": {
+      "description": "繁體中文",
+      "message": "繁體中文"
+   },
+   "Chuvash": {
+      "description": "楚瓦什語",
+      "message": "楚瓦什語"
+   },
+   "ClassicalChinese": {
+      "description": "中文(文言文)",
+      "message": "中文(文言文)"
+   },
+   "ClickToExpand": {
+      "description": "單擊展開。",
+      "message": "單擊展開"
+   },
+   "ClickToFold": {
+      "description": "單擊摺叠。",
+      "message": "單擊摺叠"
+   },
+   "CloseResultFrame": {
+      "description": "關閉翻譯結果展示框",
+      "message": "關閉翻譯結果展示框"
+   },
+   "CommonMeanings": {
+      "description": "單詞的常見意思",
+      "message": "常見意思"
+   },
+   "ContentSettings": {
+      "description": "選則需要在翻譯結果中展示的内容。",
+      "message": "翻譯結果設定"
+   },
+   "CopyResult": {
+      "description": "將翻譯結果複製到剪貼板。",
+      "message": "複製結果"
+   },
+   "Cornish": {
+      "description": "康瓦爾語",
+      "message": "康瓦爾語"
+   },
+   "Corsican": {
+      "description": "科西嘉語",
+      "message": "科西嘉語"
+   },
+   "Creek": {
+      "description": "克里克語",
+      "message": "克里克語"
+   },
+   "CrimeanTatar": {
+      "description": "克里米亞韃靼語",
+      "message": "克里米亞韃靼語"
+   },
+   "Croatian": {
+      "description": "克羅地亞語",
+      "message": "克羅地亞語"
+   },
+   "Czech": {
+      "description": "捷克語",
+      "message": "捷克語"
+   },
+   "Danish": {
+      "description": "丹麥語",
+      "message": "丹麥語"
+   },
+   "Dari": {
+      "description": "達里語",
+      "message": "達里語"
+   },
+   "DataCollectionNotice": {
+      "description": "關於收集數據的提示",
+      "message": "感謝使用側邊翻譯！\n為了改善用戶體驗，我們需要收集一些統計數據，點此查看選項。"
+   },
+   "DeepLTranslate": {
+      "description": "DeepL翻譯翻譯源",
+      "message": "DeepL翻譯"
+   },
+   "DeepLTranslateShort": {
+      "description": "DeepL翻譯翻譯源縮寫",
+      "message": "DeepL"
+   },
+   "DefaultPageTranslator": {
+      "description": "選擇默認網頁翻譯器。",
+      "message": "默認網頁翻譯器"
+   },
+   "DefinitionTranslator": {
+      "description": "設置單詞定義翻譯源。",
+      "message": "單詞定義："
+   },
+   "Definitions": {
+      "description": "單詞的定義",
+      "message": "單詞定義"
+   },
+   "DefinitionsExample": {
+      "description": "該意思下的示例",
+      "message": "示例"
+   },
+   "DefinitionsMeaning": {
+      "description": "單詞的意思",
+      "message": "釋義"
+   },
+   "Description": {
+      "description": "應用簡介",
+      "message": "便捷翻譯，無憂閲讀"
+   },
+   "DetailedMeanings": {
+      "description": "單詞的詳細解釋",
+      "message": "單詞詳解"
+   },
+   "DetailedTranslator": {
+      "description": "設置單詞詳解翻譯源。",
+      "message": "單詞詳解："
+   },
+   "Divehi": {
+      "description": "迪維希語",
+      "message": "迪維希語"
+   },
+   "Dutch": {
+      "description": "荷蘭語",
+      "message": "荷蘭語"
+   },
+   "ERR_ACT": {
+      "description": "錯誤操作。",
+      "message": "錯誤操作"
+   },
+   "ERR_CODE": {
+      "description": "錯誤代碼。",
+      "message": "錯誤代碼"
+   },
+   "ERR_MSG": {
+      "description": "錯誤信息。",
+      "message": "錯誤信息"
+   },
+   "EditText": {
+      "description": "編輯選中的文本。",
+      "message": "編輯文本"
+   },
+   "EnablePermission": {
+      "description": "如何打開權限？",
+      "message": "如何打開權限？"
+   },
+   "English": {
+      "description": "英語",
+      "message": "英語"
+   },
+   "Esperanto": {
+      "description": "世界語",
+      "message": "世界語"
+   },
+   "Estonian": {
+      "description": "愛沙尼亞語",
+      "message": "愛沙尼亞語"
+   },
+   "ExampleTranslator": {
+      "description": "設置典型例句翻譯源。",
+      "message": "典型例句："
+   },
+   "Examples": {
+      "description": "單詞的用法示例",
+      "message": "典型例句"
+   },
+   "ExchangeSourceAndTargetLanguage": {
+      "description": "交換源語言和目標語言",
+      "message": "交換源語言和目標語言"
+   },
+   "ExtensionInstalled": {
+      "description": "通知用戶側邊翻譯已安裝。",
+      "message": "側邊翻譯安裝成功！點此閱讀使用說明"
+   },
+   "ExtensionUpdated": {
+      "description": "通知用戶側邊翻譯已更新。",
+      "message": "側邊翻譯更新成功！點此閱讀更新日誌"
+   },
+   "Faroese": {
+      "description": "法羅語",
+      "message": "法羅語"
+   },
+   "Fiji": {
+      "description": "斐濟語",
+      "message": "斐濟語"
+   },
+   "Filipino": {
+      "description": " 菲律賓語",
+      "message": " 菲律賓語"
+   },
+   "Finnish": {
+      "description": "芬蘭語",
+      "message": "芬蘭語"
+   },
+   "FixResultFrame": {
+      "description": "固定翻譯結果展示框",
+      "message": "固定翻譯結果展示框"
+   },
+   "Fold": {
+      "description": "將語言設置選項折疊",
+      "message": "折疊語言設置"
+   },
+   "FoldLongContentSetting": {
+      "description": "折疊過長的翻譯內容。",
+      "message": "折疊過長的內容"
+   },
+   "French": {
+      "description": "法語",
+      "message": "法語"
+   },
+   "Frisian": {
+      "description": "弗里斯蘭語",
+      "message": "弗里斯蘭語"
+   },
+   "Friulian": {
+      "description": "弗留利語",
+      "message": "弗留利語"
+   },
+   "Fulani": {
+      "description": "富拉尼語",
+      "message": "富拉尼語"
+   },
+   "Gaelic": {
+      "description": "蓋爾語",
+      "message": "蓋爾語"
+   },
+   "Galician": {
+      "description": "加利西亞語",
+      "message": "加利西亞語"
+   },
+   "Georgian": {
+      "description": "格魯吉亞語",
+      "message": "格魯吉亞語"
+   },
+   "German": {
+      "description": "德語",
+      "message": "德語"
+   },
+   "GooglePageTranslate": {
+      "description": "使用谷歌翻譯的api翻譯當前頁面。",
+      "message": "谷歌網頁翻譯"
+   },
+   "GoogleTranslate": {
+      "description": "谷歌翻譯翻譯源。",
+      "message": "谷歌翻譯"
+   },
+   "GoogleTranslateShort": {
+      "description": "谷歌翻譯翻譯源縮寫。",
+      "message": "谷歌翻譯"
+   },
+   "Greek": {
+      "description": "希臘語",
+      "message": "希臘語"
+   },
+   "Guarani": {
+      "description": "瓜拉尼語",
+      "message": "瓜拉尼語"
+   },
+   "Gujarati": {
+      "description": "古吉拉特語",
+      "message": "古吉拉特語"
+   },
+   "HaitianCreole": {
+      "description": "海地克里奧爾語",
+      "message": "海地克里奧爾語"
+   },
+   "HakhaChin": {
+      "description": "哈卡欽語",
+      "message": "哈卡欽語"
+   },
+   "Hausa": {
+      "description": "豪薩語",
+      "message": "豪薩語"
+   },
+   "Hawaiian": {
+      "description": "夏威夷語",
+      "message": "夏威夷語"
+   },
+   "Hebrew": {
+      "description": "希伯來語",
+      "message": "希伯來語"
+   },
+   "Hiligaynon": {
+      "description": "希利蓋農語",
+      "message": "希利蓋農語"
+   },
+   "Hindi": {
+      "description": "印地語",
+      "message": "印地語"
+   },
+   "Hmong": {
+      "description": "苗語",
+      "message": "苗語"
+   },
+   "Hungarian": {
+      "description": "匈牙利語",
+      "message": "匈牙利語"
+   },
+   "Hupa": {
+      "description": "胡帕語",
+      "message": "胡帕語"
+   },
+   "HybridTranslate": {
+      "description": "混合使用多個翻譯源。",
+      "message": "混合翻譯"
+   },
+   "HybridTranslateShort": {
+      "description": "混合使用多個翻譯源縮寫。",
+      "message": "混合翻譯"
+   },
+   "HybridTranslatorConfig": {
+      "description": "設置翻譯結果各個部分使用的翻譯源。",
+      "message": "混合翻譯源設置"
+   },
+   "Icelandic": {
+      "description": "冰島語",
+      "message": "冰島語"
+   },
+   "Ido": {
+      "description": "伊多語",
+      "message": "伊多語"
+   },
+   "Igbo": {
+      "description": "伊博語",
+      "message": "伊博語"
+   },
+   "Indonesian": {
+      "description": "印度尼西亞語",
+      "message": "印度尼西亞語"
+   },
+   "Ingush": {
+      "description": "印古什語",
+      "message": "印古什語"
+   },
+   "InputHint": {
+      "description": "輸入提示",
+      "message": "翻譯内容不能為空"
+   },
+   "Inuktitut": {
+      "description": "伊努克提圖特語",
+      "message": "伊努克提圖特語"
+   },
+   "Irish": {
+      "description": "愛爾蘭語",
+      "message": "愛爾蘭語"
+   },
+   "Italian": {
+      "description": "意大利語",
+      "message": "意大利語"
+   },
+   "Japanese": {
+      "description": "日語",
+      "message": "日語"
+   },
+   "Javanese": {
+      "description": "爪哇語",
+      "message": "爪哇語"
+   },
+   "Kabyle": {
+      "description": "卡拜爾語",
+      "message": "卡拜爾語"
+   },
+   "Kalaallisut": {
+      "description": "格陵蘭語",
+      "message": "格陵蘭語"
+   },
+   "Kannada": {
+      "description": "卡納達語",
+      "message": "卡納達語"
+   },
+   "Kanuri": {
+      "description": "卡努里語",
+      "message": "卡努里語"
+   },
+   "Kashmiri": {
+      "description": "克什米爾語",
+      "message": "克什米爾語"
+   },
+   "Kashubian": {
+      "description": "卡舒比語",
+      "message": "卡舒比語"
+   },
+   "Kazakh": {
+      "description": "哈薩克語",
+      "message": "哈薩克語"
+   },
+   "Khmer": {
+      "description": "高棉語",
+      "message": "高棉語"
+   },
+   "Kinyarwanda": {
+      "description": "盧旺達語",
+      "message": "盧旺達語"
+   },
+   "Klingon": {
+      "description": "克林貢語",
+      "message": "克林貢語"
+   },
+   "Kongo": {
+      "description": "剛果語",
+      "message": "剛果語"
+   },
+   "Konkani": {
+      "description": "孔卡尼語",
+      "message": "孔卡尼語"
+   },
+   "Korean": {
+      "description": "韓語",
+      "message": "韓語"
+   },
+   "Kurdish": {
+      "description": "庫爾德語",
+      "message": "庫爾德語"
+   },
+   "KurdishNorthern": {
+      "description": "庫爾德北部語",
+      "message": "庫爾德北部語"
+   },
+   "Kyrgyz": {
+      "description": "吉爾吉斯語",
+      "message": "吉爾吉斯語"
+   },
+   "Lao": {
+      "description": "老撾語",
+      "message": "老撾語"
+   },
+   "Latgalian": {
+      "description": "拉特加萊語",
+      "message": "拉特加萊語"
+   },
+   "Latin": {
+      "description": "拉丁語",
+      "message": "拉丁語"
+   },
+   "Latvian": {
+      "description": "拉脫維亞語",
+      "message": "拉脫維亞語"
+   },
+   "LayoutSettings": {
+      "description": "調整翻譯結果展示框的佈局",
+      "message": "佈局設定"
+   },
+   "Limburgish": {
+      "description": "林堡語",
+      "message": "林堡語"
+   },
+   "Lingala": {
+      "description": "林加拉語",
+      "message": "林加拉語"
+   },
+   "Lithuanian": {
+      "description": "立陶宛語",
+      "message": "立陶宛語"
+   },
+   "Lojban": {
+      "description": "邏輯語",
+      "message": "邏輯語"
+   },
+   "Luganda": {
+      "description": "盧干達語",
+      "message": "盧干達語"
+   },
+   "Luxembourgish": {
+      "description": "盧森堡語",
+      "message": "盧森堡語"
+   },
+   "Macedonian": {
+      "description": "馬其頓語",
+      "message": "馬其頓語"
+   },
+   "MainTranslator": {
+      "description": "設置主翻譯源。",
+      "message": "主翻譯源："
+   },
+   "Maithili": {
+      "description": "邁蒂利語",
+      "message": "邁蒂利語"
+   },
+   "Malagasy": {
+      "description": "馬達加斯加語",
+      "message": "馬達加斯加語"
+   },
+   "Malay": {
+      "description": "馬來語",
+      "message": "馬來語"
+   },
+   "Malayalam": {
+      "description": "馬拉雅拉姆語",
+      "message": "馬拉雅拉姆語"
+   },
+   "Maltese": {
+      "description": "馬耳他語",
+      "message": "馬耳他語"
+   },
+   "Manx": {
+      "description": "曼克斯語",
+      "message": "曼克斯語"
+   },
+   "Maori": {
+      "description": "毛利語",
+      "message": "毛利語"
+   },
+   "Marathi": {
+      "description": "馬拉地語",
+      "message": "馬拉地語"
+   },
+   "Marshallese": {
+      "description": "馬紹爾語",
+      "message": "馬紹爾語"
+   },
+   "MauritianCreole": {
+      "description": "毛里求斯克里奧爾語",
+      "message": "毛里求斯克里奧爾語"
+   },
+   "MiddleFrench": {
+      "description": "中古法語",
+      "message": "中古法語"
+   },
+   "Mongolian": {
+      "description": "蒙古語",
+      "message": "蒙古語"
+   },
+   "Montenegrin": {
+      "description": "黑山語",
+      "message": "黑山語"
+   },
+   "MutualTranslation": {
+      "description": "兩種語言自動相互翻譯",
+      "message": "互譯模式"
+   },
+   "MutualTranslationWarning": {
+      "description": "源語言是自動檢測時無法打開互譯模式",
+      "message": "源語言是'自動檢測'時無法打開互譯模式"
+   },
+   "Myanmar": {
+      "description": "緬甸語",
+      "message": "緬甸語"
+   },
+   "NETERR": {
+      "description": "網絡錯誤信息。",
+      "message": "網絡錯誤！請檢查您的網絡連接。"
+   },
+   "NOTICE": {
+      "description": "提示",
+      "message": "提示"
+   },
+   "Neapolitan": {
+      "description": "那不勒斯語",
+      "message": "那不勒斯語"
+   },
+   "Nepali": {
+      "description": "尼泊爾語",
+      "message": "尼泊爾語"
+   },
+   "NorthernSami": {
+      "description": "北方薩米語",
+      "message": "北方薩米語"
+   },
+   "NorthernSotho": {
+      "description": "北索托語",
+      "message": "北索托語"
+   },
+   "Norwegian": {
+      "description": "挪威語",
+      "message": "挪威語"
+   },
+   "NoticeExampleSites": {
+      "description": "例如這些網址：",
+      "message": "例如這些網址："
+   },
+   "NoticeLinks": {
+      "description": "鏈接",
+      "message": "鏈接"
+   },
+   "NoticeReason1": {
+      "description": "提示頁面的第一個原因",
+      "message": "你也許忘記在安裝或者更新擴展後刷新已經打開的頁面了。"
+   },
+   "NoticeReason2": {
+      "description": "提示頁面的第二個原因",
+      "message": "你正在一個無法注入我們擴展腳本的頁面上使用側邊翻譯。"
+   },
+   "NoticeReason3": {
+      "description": "提示頁面的第三個原因",
+      "message": "你正在一個文件頁面上使用側邊翻譯，但是我們沒有訪問文件鏈接的權限。"
+   },
+   "NoticeReason4": {
+      "description": "提示頁面的第四個原因",
+      "message": "在火狐瀏覽器上，我們的擴展不能在文件頁面上使用"
+   },
+   "NoticeTitle": {
+      "description": "提示頁面的標題",
+      "message": "為什麼會出現這個頁面？"
+   },
+   "Nynorsk": {
+      "description": "新挪威語",
+      "message": "新挪威語"
+   },
+   "Occitan": {
+      "description": "奧克語",
+      "message": "奧克語"
+   },
+   "Ojibwa": {
+      "description": "奧傑布瓦語",
+      "message": "奧傑布瓦語"
+   },
+   "OldEnglish": {
+      "description": "古英語",
+      "message": "古英語"
+   },
+   "OpenThisPage": {
+      "description": "打開這個頁面",
+      "message": "打開這個頁面"
+   },
+   "OriginalText": {
+      "description": "待翻譯的原始文本",
+      "message": "原始文本"
+   },
+   "Oriya": {
+      "description": "奧里亞語",
+      "message": "奧里亞語"
+   },
+   "Oromo": {
+      "description": "奧羅莫語",
+      "message": "奧羅莫語"
+   },
+   "Ossetian": {
+      "description": "奧塞梯語",
+      "message": "奧塞梯語"
+   },
+   "OtherSettings": {
+      "description": "插件的其他設定。",
+      "message": "其他設定"
+   },
+   "PRONOUN_ERR": {
+      "description": "朗讀失敗信息。",
+      "message": "朗讀失敗，請檢查網絡連接或更換翻譯源。"
+   },
+   "Pampanga": {
+      "description": "邦板牙語",
+      "message": "邦板牙語"
+   },
+   "Papiamento": {
+      "description": "帕皮阿門托語",
+      "message": "帕皮阿門托語"
+   },
+   "Pashto": {
+      "description": "普什圖語",
+      "message": "普什圖語"
+   },
+   "PermissionRemind": {
+      "description": "在用戶的 '允許訪問文件網址'的權限未打開時，給用戶合理的提醒",
+      "message": "如果想在此頁面使用側邊翻譯，請在擴展程序管理頁面中開啟：'允許訪問文件網址' 的開關。"
+   },
+   "Persian": {
+      "description": "波斯語",
+      "message": "波斯語"
+   },
+   "PhoneticSymbol": {
+      "description": "音標",
+      "message": "音標"
+   },
+   "Phrases": {
+      "description": "單詞構成的常用短語",
+      "message": "常用短語"
+   },
+   "Polish": {
+      "description": "波蘭語",
+      "message": "波蘭語"
+   },
+   "PopupFromLeft": {
+      "description": "從左側彈出翻譯結果展示框",
+      "message": "從左側彈出"
+   },
+   "PopupFromRight": {
+      "description": "從右側彈出翻譯結果展示框",
+      "message": "從右側彈出"
+   },
+   "Portuguese": {
+      "description": "葡萄牙語",
+      "message": "葡萄牙語"
+   },
+   "PrivacyPolicy": {
+      "description": "隱私政策。",
+      "message": "隱私政策"
+   },
+   "PrivacyPolicyLink": {
+      "description": "隱私政策鏈接",
+      "message": "https://github.com/EdgeTranslate/EdgeTranslate/blob/master/docs/wiki/zh_TW/%E9%9A%B1%E7%A7%81%E6%94%BF%E7%AD%96.md"
+   },
+   "Pronounce": {
+      "description": "朗讀",
+      "message": "朗讀"
+   },
+   "PronounceOriginal": {
+      "description": "朗讀原始文本",
+      "message": "朗讀原始文本"
+   },
+   "PronounceSelected": {
+      "description": "朗讀選中文本",
+      "message": "朗讀選中文本"
+   },
+   "PronounceTranslated": {
+      "description": "朗讀翻譯結果",
+      "message": "朗讀翻譯結果"
+   },
+   "Punjabi": {
+      "description": "旁遮普語",
+      "message": "旁遮普語"
+   },
+   "Quechua": {
+      "description": "克丘亞語",
+      "message": "克丘亞語"
+   },
+   "QueretaroOttomi": {
+      "description": "克雷塔羅奧托米語",
+      "message": "克雷塔羅奧托米語"
+   },
+   "RTLSetting": {
+      "description": "在某些語言下從右到左顯示內容。",
+      "message": "從右到左的佈局"
+   },
+   "ReloadPage": {
+      "description": "重新加載文件頁面。",
+      "message": "重新加載文件頁面"
+   },
+   "RemoveDomainBlacklist": {
+      "description": "將當前域名移出黑名單。",
+      "message": "將當前域名移出黑名單"
+   },
+   "RemoveUrlBlacklist": {
+      "description": "將當前頁面移出黑名單。",
+      "message": "將當前頁面移出黑名單"
+   },
+   "ResizeSetting": {
+      "description": "收縮頁面以防止翻譯框遮擋內容。",
+      "message": "收縮頁面"
+   },
+   "Retranslate": {
+      "description": "重新翻譯編輯後的文本。",
+      "message": "重新翻譯"
+   },
+   "Romanian": {
+      "description": "羅馬尼亞語",
+      "message": "羅馬尼亞語"
+   },
+   "Romansh": {
+      "description": "羅曼什語",
+      "message": "羅曼什語"
+   },
+   "Romany": {
+      "description": "羅姆語",
+      "message": "羅姆語"
+   },
+   "Russian": {
+      "description": "俄語",
+      "message": "俄語"
+   },
+   "Rusyn": {
+      "description": "盧森尼亞語",
+      "message": "盧森尼亞語"
+   },
+   "Samoan": {
+      "description": "薩摩亞語",
+      "message": "薩摩亞語"
+   },
+   "Sanskrit": {
+      "description": "梵語",
+      "message": "梵語"
+   },
+   "Sardinian": {
+      "description": "薩丁尼亞語",
+      "message": "薩丁尼亞語"
+   },
+   "Scots": {
+      "description": "蘇格蘭語",
+      "message": "蘇格蘭語"
+   },
+   "ScotsGaelic": {
+      "description": "蘇格蘭蓋爾語",
+      "message": "蘇格蘭蓋爾語"
+   },
+   "SelectTranslate": {
+      "description": "啓用或禁用劃詞翻譯。",
+      "message": "啓用劃詞翻譯"
+   },
+   "SelectTranslatePosition": {
+      "description": "翻譯按鈕位置",
+      "message": "翻譯按鈕位置"
+   },
+   "SerbCyrillic": {
+      "description": "塞爾維亞語(西里爾文)",
+      "message": "塞爾維亞語(西里爾文)"
+   },
+   "Serbian": {
+      "description": "塞爾維亞語",
+      "message": "塞爾維亞語"
+   },
+   "SerbianCyrillic": {
+      "description": "塞爾維亞語西里爾字母",
+      "message": "塞爾維亞語西里爾字母"
+   },
+   "SerbianLatin": {
+      "description": "塞爾維亞語拉丁字母",
+      "message": "塞爾維亞語拉丁字母"
+   },
+   "SerboCroatian": {
+      "description": "塞爾維亞-克羅地亞語",
+      "message": "塞爾維亞-克羅地亞語"
+   },
+   "Sesotho": {
+      "description": "塞索托語",
+      "message": "塞索托語"
+   },
+   "Settings": {
+      "description": "設置",
+      "message": "設置"
+   },
+   "SettingsTitle": {
+      "description": "側邊翻譯設置頁面",
+      "message": "側邊翻譯設置"
+   },
+   "Shan": {
+      "description": "撣語",
+      "message": "撣語"
+   },
+   "Shona": {
+      "description": "紹納語",
+      "message": "紹納語"
+   },
+   "ShortcutSetting": {
+      "description": "修改快捷鍵",
+      "message": "快捷鍵設置"
+   },
+   "Silesian": {
+      "description": "西里西亞語",
+      "message": "西里西亞語"
+   },
+   "Sindhi": {
+      "description": "信德語",
+      "message": "信德語"
+   },
+   "Sinhala": {
+      "description": "僧伽羅語",
+      "message": "僧伽羅語"
+   },
+   "Slovak": {
+      "description": "斯洛伐克語",
+      "message": "斯洛伐克語"
+   },
+   "Slovenian": {
+      "description": "斯洛文尼亞語",
+      "message": "斯洛文尼亞語"
+   },
+   "Somali": {
+      "description": "索馬里語",
+      "message": "索馬里語"
+   },
+   "Songhailanguages": {
+      "description": "桑海語",
+      "message": "桑海語"
+   },
+   "SourceLanguage": {
+      "description": "源語言",
+      "message": "源語言"
+   },
+   "SourcePronunciation": {
+      "description": "原文讀音",
+      "message": "原文讀音"
+   },
+   "SourcePronunciationIcon": {
+      "description": "原文讀音按鈕",
+      "message": "原文讀音按鈕"
+   },
+   "SouthernNdebele": {
+      "description": "南恩德貝萊語",
+      "message": "南恩德貝萊語"
+   },
+   "SouthernSotho": {
+      "description": "南索托語",
+      "message": "南索托語"
+   },
+   "Spanish": {
+      "description": "西班牙語",
+      "message": "西班牙語"
+   },
+   "Sundanese": {
+      "description": "巽他語",
+      "message": "巽他語"
+   },
+   "Swahili": {
+      "description": "斯瓦希里語",
+      "message": "斯瓦希里語"
+   },
+   "Swedish": {
+      "description": "瑞典語",
+      "message": "瑞典語"
+   },
+   "Synonyms": {
+      "description": "單詞的近義詞和同義詞",
+      "message": "近同義詞"
+   },
+   "Syriac": {
+      "description": "敘利亞語",
+      "message": "敘利亞語"
+   },
+   "Tagalog": {
+      "description": "他加祿語",
+      "message": "他加祿語"
+   },
+   "Tahiti": {
+      "description": "塔希提語",
+      "message": "塔希提語"
+   },
+   "Tajik": {
+      "description": "塔吉克語",
+      "message": "塔吉克語"
+   },
+   "Tamil": {
+      "description": "泰米爾語",
+      "message": "泰米爾語"
+   },
+   "TargetLanguage": {
+      "description": "目標語言",
+      "message": "目標語言"
+   },
+   "TargetPronunciation": {
+      "description": "翻譯讀音",
+      "message": "翻譯讀音"
+   },
+   "TargetPronunciationIcon": {
+      "description": "翻譯讀音按鈕",
+      "message": "翻譯讀音按鈕"
+   },
+   "Tatar": {
+      "description": "韃靼語",
+      "message": "韃靼語"
+   },
+   "Telugu": {
+      "description": "泰盧固語",
+      "message": "泰盧固語"
+   },
+   "TencentTranslate": {
+      "description": "騰訊翻譯翻譯源。",
+      "message": "騰訊翻譯"
+   },
+   "TencentTranslateShort": {
+      "description": "騰訊翻譯翻譯源縮寫。",
+      "message": "騰訊翻譯"
+   },
+   "Tetum": {
+      "description": "德頓語",
+      "message": "德頓語"
+   },
+   "Thai": {
+      "description": "泰語",
+      "message": "泰語"
+   },
+   "Tigrinya": {
+      "description": "提格利尼亞語",
+      "message": "提格利尼亞語"
+   },
+   "TogglePageTranslateBanner": {
+      "description": "隱藏或展示網頁翻譯器的頂欄。",
+      "message": "隱藏/展示網頁翻譯頂欄"
+   },
+   "Tongan": {
+      "description": "湯加語",
+      "message": "湯加語"
+   },
+   "TopLeft": {
+      "description": "左上",
+      "message": "左上"
+   },
+   "TopRight": {
+      "description": "右上",
+      "message": "右上"
+   },
+   "Translate": {
+      "description": "翻譯",
+      "message": "翻譯"
+   },
+   "TranslateAfterDblClick": {
+      "description": "雙擊單詞後立即展示翻譯結果",
+      "message": "雙擊單詞立即翻譯"
+   },
+   "TranslateAfterSelect": {
+      "description": "選中單詞後立即展示翻譯結果。",
+      "message": "劃詞後立即翻譯"
+   },
+   "TranslatePage": {
+      "description": "使用默認網頁翻譯引擎翻譯此頁。",
+      "message": "翻譯此頁"
+   },
+   "TranslatePageGoogle": {
+      "description": "使用谷歌翻譯的api翻譯當前頁面。",
+      "message": "使用谷歌翻譯此頁"
+   },
+   "TranslatePageYouDao": {
+      "description": "使用有道翻譯的api翻譯當前頁面。",
+      "message": "使用有道翻譯此頁"
+   },
+   "TranslateSelectedText": {
+      "description": "使用快捷鍵翻譯選中的文本",
+      "message": "翻譯選中的文本"
+   },
+   "Tsonga": {
+      "description": "聰加語",
+      "message": "聰加語"
+   },
+   "Turkish": {
+      "description": "土耳其語",
+      "message": "土耳其語"
+   },
+   "Turkmen": {
+      "description": "土庫曼語",
+      "message": "土庫曼語"
+   },
+   "Twi": {
+      "description": "契維語",
+      "message": "契維語"
+   },
+   "Ukrainian": {
+      "description": "烏克蘭語",
+      "message": "烏克蘭語"
+   },
+   "UnfixResultFrame": {
+      "description": "取消固定翻譯結果展示框",
+      "message": "取消固定翻譯結果展示框"
+   },
+   "Unfold": {
+      "description": "將語言設置選項展開",
+      "message": "展開語言設置"
+   },
+   "UpperSorbian": {
+      "description": "高地索布語",
+      "message": "高地索布語"
+   },
+   "Urdu": {
+      "description": "烏爾都語",
+      "message": "烏爾都語"
+   },
+   "UseGoogleAnalytics": {
+      "description": "啟用Google Analytics服務協助開發者改進側邊翻譯",
+      "message": "提供統計數據幫助我們改進插件"
+   },
+   "UsePDFjs": {
+      "description": "使用本擴展內置的pdf查看器以便在pdf文件中使用劃詞翻譯。",
+      "message": "使用內置的pdf查看器"
+   },
+   "Uyghur": {
+      "description": "維吾爾語",
+      "message": "維吾爾語"
+   },
+   "Uzbek": {
+      "description": "烏茲別克語",
+      "message": "烏茲別克語"
+   },
+   "Venda": {
+      "description": "文達語",
+      "message": "文達語"
+   },
+   "Vietnamese": {
+      "description": "越南語",
+      "message": "越南語"
+   },
+   "WIKI": {
+      "description": "說明文檔",
+      "message": "說明文檔"
+   },
+   "Walloon": {
+      "description": "瓦隆語",
+      "message": "瓦隆語"
+   },
+   "Welsh": {
+      "description": "威爾士語",
+      "message": "威爾士語"
+   },
+   "WesternFrisian": {
+      "description": "西弗里斯語",
+      "message": "西弗里斯語"
+   },
+   "WikiLink": {
+      "description": "Wiki link.",
+      "message": "https://github.com/EdgeTranslate/EdgeTranslate/blob/master/docs/wiki/zh_TW/%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%B4%B9.md"
+   },
+   "Wolof": {
+      "description": "沃洛夫語",
+      "message": "沃洛夫語"
+   },
+   "Xhosa": {
+      "description": "科薩語",
+      "message": "科薩語"
+   },
+   "Yiddish": {
+      "description": "意第緒語",
+      "message": "意第緒語"
+   },
+   "Yoruba": {
+      "description": "約魯巴語",
+      "message": "約魯巴語"
+   },
+   "YouDaoPageTranslate": {
+      "description": "使用有道翻譯的api翻譯當前頁面。",
+      "message": "有道網頁翻譯"
+   },
+   "YukatanMayan": {
+      "description": "尤卡坦瑪雅語",
+      "message": "尤卡坦瑪雅語"
+   },
+   "Zaza": {
+      "description": "紮紮其語",
+      "message": "紮紮其語"
+   },
+   "Zulu": {
+      "description": "祖魯語",
+      "message": "祖魯語"
+   },
+   "interlingua": {
+      "description": "因特語",
+      "message": "因特語"
+   }
+}

@@ -1,0 +1,220 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Voeg Blad"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Bestuur DevTools met Node V8-Inspekteur (knoop --inspekteer) Ontfouting Workflow"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --inspekteur Bestuurder (NiM)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NiM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Sluit Outomaties."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Inkrementeer Gasheer/Hawe."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Ontfouting Woordrykheid."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Ontfouting"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Gebruik Alternatiewe DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --inspekteur Bestuurder (NiM)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspekteur Bestuurder (NiM) - DevTools Paneel"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Skenk"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Skenkings Waardeer Word"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "In staat gestel om"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Fout omgewing verwyder URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Geslote blad vir DevTools sessie: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Fout terwyl hy probeer om die motor te sluit "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Verband te DevTools gasheer was geaborteer. Check jou gasheer en die hawe."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools is reeds oop."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Geslote venster vir DevTools sessie: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools is reeds oop."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools is reeds oop.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Algemene"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Gasheer"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Paneel styl venster."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Maak die DevTools Venster."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Maak Blad Aktief."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Maak Venster Gefokus."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Handleiding"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Daar is geen kennisgewings."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Af"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Op"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Oop DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Open in'n Nuwe Venster."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Oop Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Opsies"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Persoonlike DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integrasie."
+   },
+   "optionsNotifications": {
+      "description": "Options page label for notifications.",
+      "message": "Kennisgewings"
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Real-time Samewerking."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Oop in'n Gemaksimeer Venster."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --inspekteur Bestuurder (NiM) - Opsies Bladsy"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM Real-time Samewerking"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Red"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekondes"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Kyk Interval."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Kies DevTools Weergawe."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

@@ -1,0 +1,6 @@
+2022/06/11-23:40:08.221 2f92 Reusing MANIFEST /home/rhoffman/.config/google-chrome-beta/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/06/11-23:40:08.221 2f92 Recovering log #4
+2022/06/11-23:40:08.222 2f92 Reusing old log /home/rhoffman/.config/google-chrome-beta/Default/Sync Data/LevelDB/000004.log 
+2022/06/11-23:40:09.660 2f91 Level-0 table #8: started
+2022/06/11-23:40:09.683 2f91 Level-0 table #8: 122970 bytes OK
+2022/06/11-23:40:09.692 2f91 Delete type=0 #4

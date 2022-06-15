@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "src/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "public/logo_128.png",
+         "256": "public/logo_256.png",
+         "64": "public/logo_64.png"
+      },
+      "default_title": "GraphQL Playground for Chrome"
+   },
+   "description": "Chrome extension for GraphQL Playground",
+   "icons": {
+      "128": "public/logo_128.png",
+      "256": "public/logo_256.png",
+      "64": "public/logo_64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmFixd2/IXPO6haZkAcvQIrj6AX0lupKI3HVbWsvAXSp0SZYOZ3mbV7lLehuymY49uc/KLqUZ9HxtHTUIvgYWloHKIsJlhDgYO2SlT3H/e3UgupZhcCL+n0nWAhUD2h7OhHbtLz8MkTWhJGCQGXmZb/zrTITtylvu7nu03IltdwKgX97qObdyFRwdF56QAZbEBCPQ6Vlr4WZMPZgaDr0vxqB4VtafGKro/qkkY5KStF3T1dArVVGBpwekkOQ8BxDQeTlKWYgUEhzEYHNfwihNI1Roqkpq1+oTykZiAHIBAiBEx/CUIimZytKuXT7AN4SEAJfF5ASvpg8di6Qt5/QVvQIDAQAB",
+   "manifest_version": 2,
+   "name": "GraphQL Playground for Chrome",
+   "permissions": [ "http://*/", "https://*/" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1"
+}

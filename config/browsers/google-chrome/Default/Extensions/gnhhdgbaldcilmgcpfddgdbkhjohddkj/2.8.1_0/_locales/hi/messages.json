@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "जोड़ें टैब"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "प्रबंधन DevTools नोड के साथ V8 निरीक्षक (नोड-निरीक्षण) डिबगिंग कार्यप्रवाह"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "Node.js V8 --निरीक्षक प्रबंधक (एनआईएम)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "निम"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "ऑटो"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "स्वचालित रूप से बंद है । "
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "ऑटो वेतन वृद्धि/मेजबान बंदरगाह है । "
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "डिबगिंग शब्दाडंबर."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "डिबगिंग"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "वैकल्पिक उपयोग DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "Node.js V8 --निरीक्षक प्रबंधक (एनआईएम)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --निरीक्षक प्रबंधक (एनआईएम) - DevTools पैनल"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "दान"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "दान की सराहना की"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "सक्षम"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "त्रुटि स्थापना की स्थापना रद्द यूआरएल: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "बंद टैब के लिए DevTools सत्र: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "त्रुटि के लिए ऑटो बंद "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "कनेक्शन के लिए DevTools मेजबान निरस्त किया गया था. की जाँच करें अपने मेजबान और बंदरगाह है । "
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools पहले से ही खुला है."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "बंद खिड़की के लिए DevTools सत्र: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools पहले से ही खुला है."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools पहले से ही खुला है.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "सामान्य"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "मेजबान"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "पैनल शैली खिड़की."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "खुला DevTools खिड़की."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "बनाने टैब सक्रिय है । "
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "बनाने खिड़की ध्यान केंद्रित किया है । "
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "मैनुअल"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "वहाँ रहे हैं कोई सूचना नहीं है । "
+   },
+   "off": {
+      "description": "Off.",
+      "message": "बंद"
+   },
+   "on": {
+      "description": "On.",
+      "message": "पर"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "खुला DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "एक नए विंडो में खुलेगा."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "ओपन कलरव"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "विकल्प"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "कस्टम DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode एकीकरण । "
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "वास्तविक समय सहयोग है । "
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "खोलने में एक Maximized विंडो."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "Node.js V8 --निरीक्षक प्रबंधक (एनआईएम) - विकल्प पृष्ठ"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "पोर्ट"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "निम वास्तविक समय सहयोग"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "बचाने के लिए"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "सेकंड"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "अंतराल की जाँच करें."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "का चयन करें DevTools संस्करण है । "
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Uptime"
+   }
+}

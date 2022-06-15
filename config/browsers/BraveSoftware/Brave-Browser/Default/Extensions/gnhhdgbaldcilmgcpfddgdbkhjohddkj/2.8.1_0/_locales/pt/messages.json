@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Adicionar Guia"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Extensão para automaticamente lançamento V8 Inspetor Node.js depuração"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Nó Inspetor Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Feche Automaticamente."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Incremento Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Depuração de verbosidade."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Depuração"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Use DevTools alternativos."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Nó Inspetor Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 --inspector Manager (NiM) - painel DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Doar"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Doações Apreciado"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Habilitado"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Erro de configuração de desinstalar URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Fechado guia para DevTools sessão: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Erro ao tentar fechar automaticamente "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Conexão para DevTools host foi anulada. Verifique o host e a porta."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools já está aberto."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Janela fechada para DevTools sessão: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools já está aberto."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools já está aberto.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Geral"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Painel de estilo de janela."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Abra a janela do DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Guia Ativa."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Faça Janela De Foco."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manual"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Não existem notificações."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Fora"
+   },
+   "on": {
+      "description": "On.",
+      "message": "No"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Abrir DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Abrir em uma Nova Janela."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Abrir Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Opções"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Custom DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integração."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Colaboração em tempo real."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Abrir em uma Janela Maximizada."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Nó Inspetor Manager) - Opções de Página"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Porta"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "Colaboração em tempo real de NiM"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Salvar"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Segundos"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Intervalo De Verificação."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Selecione a versão DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Tempo de atividade"
+   }
+}

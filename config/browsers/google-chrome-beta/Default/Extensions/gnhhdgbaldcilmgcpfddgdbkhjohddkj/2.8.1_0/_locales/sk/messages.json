@@ -1,0 +1,216 @@
+{
+   "addTab": {
+      "description": "Add Tab",
+      "message": "Pridať Kartu"
+   },
+   "appDescription": {
+      "description": "A description of the extension displayed in the web store.",
+      "message": "Rozšírenie pre automatické spustenie V8 Inšpektor pre Node.js ladenie"
+   },
+   "appName": {
+      "description": "The title of the extension displayed in the web store.",
+      "message": "NIM (Uzol Inšpektor Manager)"
+   },
+   "appShortName": {
+      "description": "The short title.",
+      "message": "NIM"
+   },
+   "auto": {
+      "description": "Auto.",
+      "message": "Auto"
+   },
+   "autoCloseInspector": {
+      "description": "Auto close the Inspector.",
+      "message": "Automaticky Zavrie."
+   },
+   "autoIncrement": {
+      "description": "Auto increment host and/or port.",
+      "message": "Auto Increment Host/Port."
+   },
+   "debugVerbosity": {
+      "description": "Debugging verbosity.",
+      "message": "Ladenie výrečnosti."
+   },
+   "debugging": {
+      "description": "Debugging.",
+      "message": "Ladenie"
+   },
+   "defaultDevTools": {
+      "description": "Use alternate DevTools.",
+      "message": "Použite Alternate DevTools."
+   },
+   "defaultTitle": {
+      "description": "Title shown in tooltip.",
+      "message": "NIM (Uzol Inšpektor Manager)"
+   },
+   "devtoolsPanelTitle": {
+      "description": "Title shown on the chrome devtools panel.",
+      "message": "Node.js V8 - správca monitora (NiM) - panel DevTools"
+   },
+   "donate": {
+      "description": "Donate.",
+      "message": "Darovať"
+   },
+   "donationModalHeader": {
+      "description": "Donation modal header.",
+      "message": "Dary Ocenil"
+   },
+   "enabled": {
+      "description": "Enabled.",
+      "message": "Povolené"
+   },
+   "errMsg1": {
+      "description": "Error message.",
+      "message": "Chyba nastavenie odinštalovať URL: "
+   },
+   "errMsg2": {
+      "description": "Error message.",
+      "message": "Zatvorenú kartu pre DevTools relácia: "
+   },
+   "errMsg3": {
+      "description": "Error message.",
+      "message": "Chyba pri pokuse o auto blízkosti "
+   },
+   "errMsg4": {
+      "description": "Error message.",
+      "message": "Pripojenie na DevTools hosť bolo prerušené. Informujte svojho hostiteľa a port."
+   },
+   "errMsg5": {
+      "description": "Error message.",
+      "message": "DevTools je už otvorený."
+   },
+   "errMsg6": {
+      "description": "Error message.",
+      "message": "Zatvorené okno pre DevTools relácia: "
+   },
+   "errMsg7": {
+      "description": "Error message.",
+      "message": "DevTools je už otvorený."
+   },
+   "errMsg8": {
+      "description": "Storage key $key$ in namespace $namespace$ changed.  Old value was $oldvalue$, new value is $newvalue$",
+      "message": "DevTools je už otvorený.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         },
+         "namepace": {
+            "content": "$2"
+         },
+         "newvalue": {
+            "content": "$4"
+         },
+         "oldvalue": {
+            "content": "$3"
+         }
+      }
+   },
+   "general": {
+      "description": "General.",
+      "message": "Všeobecné"
+   },
+   "host": {
+      "description": "Host.",
+      "message": "Host"
+   },
+   "inspectorWindowStyle": {
+      "description": "Panel style window",
+      "message": "Panel štýl okna."
+   },
+   "keyCtrlI": {
+      "description": "Open the DevTools window.",
+      "message": "Otvorte okno DevTools."
+   },
+   "makeInspectorTabActive": {
+      "description": "Make Inspector tab active.",
+      "message": "Aby Karte Aktívny."
+   },
+   "makeInspectorWindowFocused": {
+      "description": "Make Inspector window focused.",
+      "message": "Window Zamerané."
+   },
+   "manual": {
+      "description": "Manual.",
+      "message": "Manuál"
+   },
+   "noNotifications": {
+      "description": "Message to display when there are no notifications.",
+      "message": "Nie sú žiadne hlásenia."
+   },
+   "off": {
+      "description": "Off.",
+      "message": "Mimo"
+   },
+   "on": {
+      "description": "On.",
+      "message": "Na"
+   },
+   "openDevtools": {
+      "description": "Open DevTools",
+      "message": "Otvorte DevTools"
+   },
+   "openInspectorNewWindow": {
+      "description": "Open Inspector in a new window.",
+      "message": "Otvoriť v Novom Okne."
+   },
+   "open_tweet": {
+      "description": "Tweet link button text.",
+      "message": "Otvorte Tweet"
+   },
+   "options": {
+      "description": "Options.",
+      "message": "Možnosti"
+   },
+   "optionsCustomDevToolsURL": {
+      "description": "Lable for custom DevTools settings modal input",
+      "message": "Vlastné DevTools."
+   },
+   "optionsNiMSVSCode": {
+      "description": "Options page label for VSCode Integration.",
+      "message": "VSCode Integrácie."
+   },
+   "optionsRealtimeCollaboration": {
+      "description": "Options page label for Real-time Collaboration Setting.",
+      "message": "Spolupráca v reálnom čase."
+   },
+   "optionsSchemeFix": {
+      "description": "Options page label for optionsSchemeFix setting.",
+      "message": "Chromium76+"
+   },
+   "optionsWindowStateMaximized": {
+      "description": "Options page label for windowStateMaximized setting.",
+      "message": "Otvorené v Maximalizovanom Okne."
+   },
+   "pageOptionsTitle": {
+      "description": "Title shown on options page.",
+      "message": "NIM (Uzol Inšpektor Manager) - Možnosti Stránku"
+   },
+   "port": {
+      "description": "Port.",
+      "message": "Port"
+   },
+   "realtimeCollaboration": {
+      "description": "NiM Real-time Collaboration Header Title.",
+      "message": "NiM spolupráca v reálnom čase"
+   },
+   "save": {
+      "description": "Save.",
+      "message": "Uložiť"
+   },
+   "seconds": {
+      "description": "Seconds badge label.",
+      "message": "Sekúnd"
+   },
+   "secondsBetweenInspectorChecks": {
+      "description": "Seconds between Inspector checks.",
+      "message": "Interval Kontroly."
+   },
+   "selectDevToolsVersion": {
+      "description": "Select the devtools version to use for inspection",
+      "message": "Vyberte verziu programu DevTools."
+   },
+   "uptime": {
+      "description": "Uptime.",
+      "message": "Dostupnosť"
+   }
+}
